@@ -57,7 +57,7 @@ I have two servers, one to support bot hame and one to pass the time
 - **📫 Contact me in :**
 <p align="center">
  <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png" />
-  <\p>
+<\p>
 - **📫 Another way:**
 <a href="https://discord.gg/WMhke7BW7J">
   <img align="left" alt="Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
