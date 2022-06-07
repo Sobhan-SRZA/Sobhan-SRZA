@@ -41,7 +41,7 @@ I have two servers, one to support bot hame and one to pass the time
 
 
 <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ I have two servers, one to support bot hame and one to pass the time
 
 - **📫 Contact me in :**
 <p align="center">
- <img alt="My Discord Account" src="https://discord.gg/rsQGcSfyJs)](https://discord.c99.nl/widget/theme-1/831934465609302056.png" />
+ <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png" />
   <\p>
 - **📫 Another way:**
 <a href="https://discord.gg/WMhke7BW7J">
