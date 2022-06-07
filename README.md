@@ -41,7 +41,7 @@ I have two servers, one to support bot hame and one to pass the time
 
 
 <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
