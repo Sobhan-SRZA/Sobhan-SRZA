@@ -11,6 +11,7 @@ I also work in the field of YouTube and gaming, and I also configure the server 
 I have two servers, one to support bot hame and one to pass the time
 
   [Discord and My Bots Support Server](https://discord.gg/rsQGcSfyJs) and [My Gaming Server](https://discord.gg/WMhke7BW7J)
+---
  ## 💻Coding Activity
 
 <p align="center">
@@ -47,19 +48,26 @@ I have two servers, one to support bot hame and one to pass the time
 ---
 
 - **🌱 I’m currently learning :** &nbsp;
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  </a>
+</p>
+
+---
 
 - **📫 Contact me in :**
----
 
 
 <p align="center">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png" />
+  <a href="https://discord.gg/WMhke7BW7J">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png" width="160px" />
+  </a>
 </p>
 
 ---
@@ -85,3 +93,4 @@ I have two servers, one to support bot hame and one to pass the time
     <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50px"/>
   </a>
 </p>
+---
