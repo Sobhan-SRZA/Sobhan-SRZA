@@ -65,16 +65,18 @@ I have two servers, one to support bot hame and one to pass the time
 ---
 
 - **📫 Another way:**
-<a href="https://discord.gg/WMhke7BW7J">
-  <img align="left" alt="Discord Server" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
- <a href="https://github.com/Sobhan-SRZA">
-  <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/srza._.gamer/">
-  <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</a>
-
-
-
+<p align="right">
+  <a href="https://discord.gg/WMhke7BW7J">
+    <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="35px"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/srza._.gamer/">
+    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="35px"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Sobhan-SRZA">
+    <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="35px"/>
+  </a>
+</p>
