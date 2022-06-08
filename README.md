@@ -66,7 +66,7 @@ I have two servers, one to support bot hame and one to pass the time
 
 <p align="center">
   <a href="https://discord.gg/WMhke7BW7J">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  height="280"  width="780px" />
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  height="240"  width="780px" />
   </a>
 </p>
 
