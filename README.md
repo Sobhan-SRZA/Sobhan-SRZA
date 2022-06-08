@@ -65,17 +65,13 @@ I have two servers, one to support bot hame and one to pass the time
 ---
 
 - **📫 Another way:**
-<p align="right">
+<p align="center">
   <a href="https://discord.gg/WMhke7BW7J">
     <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="50px"/>
   </a>
-</p>
-<p align="center">
   <a href="https://www.instagram.com/srza._.gamer/">
     <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"/>
   </a>
-</p>
-<p align="left">
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50px"/>
   </a>
