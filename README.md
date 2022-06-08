@@ -69,8 +69,17 @@ I have two servers, one to support bot hame and one to pass the time
   <a href="https://discord.gg/WMhke7BW7J">
     <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="50px"/>
   </a>
+  <a href="https://t.me/SobhanSRZA">
+    <img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="50px"/>
+  </a>
   <a href="https://www.instagram.com/srza._.gamer/">
     <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"/>
+  </a>
+  <a href="https://www.twitch.tv/sobhan_srza">
+    <img alt="Twitch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" width="50px"/>
+  </a>
+  <a href="https://b2n.ir/srza-.-gamer">
+    <img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="50px"/>
   </a>
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50px"/>
