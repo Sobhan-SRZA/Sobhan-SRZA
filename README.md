@@ -19,6 +19,10 @@ I have two servers, one to support bot hame and one to pass the time
   <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
   <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+    <img src="https://discordapp.com/api/guilds/912596015075455016/widget.png?style=shield" alt="shield.png">
+  </a>
+
 </p>
 
 
