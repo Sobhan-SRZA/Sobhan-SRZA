@@ -3,16 +3,11 @@
 
 Hi👋🏻
 I am **[Mr.SIN RE](https://zil.ink/sobhan.srza)** and my real name is *Sobhan*
-
 Apart from starting YouTube for fun, I also started bot programming a few months ago and built a [bot fun](https://discord.com/oauth2/authorize?client_id=914445178201337877&scope=bot+applications.commands+identify+guilds+applications.commands.permissions.update&response_type=code&permissions=2080374975)
-
 My programming is not very strong and I do not even claim to be a developer because I am not a professional.
-
 I also work in the field of YouTube and gaming, and I also configure the server in addition to coding
-
 I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW7J).
-
-  [My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
+[My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
 ---
  ## 💻Coding Activity
 
