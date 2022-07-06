@@ -72,7 +72,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
   <a href="https://discord.gg/WMhke7BW7J">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  height="150"  width="780px" />
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
 
