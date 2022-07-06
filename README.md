@@ -49,7 +49,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 
 <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" />
 </p>
 
 ---
