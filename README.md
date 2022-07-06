@@ -13,6 +13,7 @@ I also work in the field of YouTube and gaming, and I also configure the server 
 I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW7J).
 
 [My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
+
 ---
  ## 💻Coding Activity
 
