@@ -76,6 +76,12 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   </a>
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
+  </a>
+</p>
+
 ---
 
 - **📫 Another way:**
