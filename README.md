@@ -54,13 +54,13 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-## 🏆GitHub Trophies
 
 <p align="center">
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
+
 
 - **🌱 I’m currently learning :** &nbsp;
 <p align="center">
