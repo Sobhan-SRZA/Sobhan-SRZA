@@ -81,6 +81,23 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 - **🌱 I’m currently learning :** &nbsp;
 <p align="center">
+
+<table><tr><td valign="top" width="55%">
+ 🎓 Learning Languages 
+<div align="center">  
+  <img src ="https://skillicons.dev/icons?i=css,react,cpp,py,c,php,ts,dotnet,unity,nodejs,js,java,html,bash&theme=dark">
+  <img src ="https://skillicons.dev/icons?i=linux,win&theme=dark">
+  
+</div>
+</td><td valign="top" width="50%">
+
+ 🎸 Apps  
+ <div align="center">  
+  <img src ="https://skillicons.dev/icons?i=discord,ae,git,powershell,pr,vscode&theme=dark">
+ </div>
+
+</td></tr></table>  
+
   <a href="https://discord.gg/WMhke7BW7J">
   <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img height="50" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
