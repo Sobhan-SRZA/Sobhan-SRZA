@@ -127,10 +127,13 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 ---
 
 <p align="left">
- <a href="https://zil.ink/sobhan.srza">
-  <img src ="source/social-media.png" width = 50% >
- </a>
+
 </p>
+
+ <a href="https://zil.ink/sobhan.srza">
+  <img align="left" src ="source/social-media.png" width = 50% >
+ </a>
+
 <p align="right">
   <a href="https://discord.gg/WMhke7BW7J">
     <img alt="Discord Server" src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" />
