@@ -55,10 +55,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sobhan-SRZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </p>
     
-<p align="center">
-   <img alt="Activity" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/master/profile-3d-contrib/profile-night-green.svg" />
-</p>
-
 ---
 
 
