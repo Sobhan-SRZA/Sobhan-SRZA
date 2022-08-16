@@ -83,19 +83,19 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 <p align="center">
   <a href="https://discord.gg/WMhke7BW7J">
    <table><tr>
-    <td valign="top" width="55%">
+    <td valign="top" width="50%">
        🎓 Learning Languages 
      <div align="center">
-      <img src ="https://skillicons.dev/icons?i=css,react,cpp,py,c&theme=dark">
-      <img src ="https://skillicons.dev/icons?i=php,ts,dotnet,unity,nodejs&theme=dark">
-      <img src ="https://skillicons.dev/icons?i=js,java,html,bash,linux&theme=dark">
+      <img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark">
+      <img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
+      <img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
      </div>
     </td>
     <td valign="top" width="50%">
        🎸 Apps  
      <div align="center">  
-       <img src ="https://skillicons.dev/icons?i=discord,ae,git&theme=dark">
-       <img src ="https://skillicons.dev/icons?i=powershell,pr,vscode&theme=dark">
+       <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
+       <img src ="https://skillicons.dev/icons?i=powershell,linux,vscode&theme=dark">
      </div>
     </td>
    </tr></table>  
