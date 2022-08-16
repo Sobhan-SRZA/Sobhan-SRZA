@@ -15,6 +15,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 [My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
 
 ---
+
  ## 💻Coding Activity
 
 <p align="center">
@@ -28,10 +29,9 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://github.com/Sobhan-SRZA/">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
   </a>
-  <a herf="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot">
+  <a href="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot">
      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
   </a>
-
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
     <img src="https://discordapp.com/api/guilds/912596015075455016/widget.png?style=shield" alt="shield.png">
   </a>
