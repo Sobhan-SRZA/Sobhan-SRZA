@@ -131,7 +131,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
   <a href="https://discord.gg/WMhke7BW7J">
-    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
+    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://t.me/SobhanSRZA">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
