@@ -81,8 +81,10 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 - **🌱 I’m currently learning :** &nbsp;
 
-Operating System
-------------- 
+Operating System  |  Version  |  Download
+------------- | ------------- | -------------
+Windows 11  | Latest 2.1.3  | [64Bit]
+
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark">
 
 <p align="center">
