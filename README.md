@@ -16,7 +16,17 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
- ## 💻Coding Activity
+ ## ℹ️ All Github Info
+
+<p align="center">
+  <a href="https://github.com/Sobhan-SRZA/">
+    <img alt="All Informations" src="https://metrics.lecoq.io/Sobhan-SRZA" />
+  </a>
+</p>
+
+---
+
+ ## 💻 Coding Activity
 
 <p align="center">
 
@@ -64,7 +74,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-
 <p align="center">
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" />
 </p>
@@ -86,7 +95,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-- **📫 Contact me in :**
+- **📫 Contact me in :** &nbsp;
 
 
 <p align="center">
@@ -103,7 +112,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-- **📫 Another way:**
+- **📫 Another way:** &nbsp;
 <p align="center">
   <a href="https://discord.gg/WMhke7BW7J">
     <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="50px"/>
