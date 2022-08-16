@@ -1,6 +1,8 @@
 
 ## 🌗Language [EN]
 
+- **🎓 About Me** &nbsp;
+
 Hi👋🏻
 I am **[Mr.SIN RE](https://zil.ink/sobhan.srza)** and my real name is *Sobhan*
 
@@ -14,9 +16,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 [My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
 
----
-
- ## ℹ️ All Github Info
+ - **📊 All Github Info** &nbsp; 
 
 <p align="center">
   <a href="https://github.com/Sobhan-SRZA/">
