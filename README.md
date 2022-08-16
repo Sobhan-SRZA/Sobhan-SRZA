@@ -56,7 +56,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </p>
     
 <p align="center">
-   <img alt="Activity" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/master/profile-night-green.svg" />
+   <img alt="Activity" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/master/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
