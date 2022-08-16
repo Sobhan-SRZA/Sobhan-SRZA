@@ -94,9 +94,9 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </a>
 </div>
 
-</td><td valign="top" width="55%">
+</td><td valign="top" width="33%">
 
-## 🎸 Apps
+### 🎸 Apps
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
