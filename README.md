@@ -95,7 +95,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
     </td>
     <td valign="top" width="50%">
        🎸 Apps
-       -------------
+-------------
      <div align="center">  
        <a href="https://discord.gg/WMhke7BW7J">
         <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
