@@ -113,7 +113,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 
 <p align="center">
-  <a href="https://discord.gg/WMhke7BW7J">
+  <a href="https://zil.ink/sobhan.srza">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
@@ -126,12 +126,12 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://zil.ink/sobhan.srza">
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
   <a href="https://discord.gg/WMhke7BW7J">
-    <img alt="Discord Server" src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
+    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://t.me/SobhanSRZA">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
