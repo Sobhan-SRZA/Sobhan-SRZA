@@ -126,25 +126,27 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-- **📫 Another way:** &nbsp;
 <p align="center">
+
+<img src ="https://github.com/ArianPashae/ArianPashae/blob/main/social_dashboard.svg" align = "center" width = 60%>
+
   <a href="https://discord.gg/WMhke7BW7J">
-    <img alt="Discord Server" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="50px"/>
+    <img src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" width="50px" alt="Discord Server"  />
   </a>
   <a href="https://t.me/SobhanSRZA">
-    <img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="50px"/>
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="Telegram"  />
   </a>
   <a href="https://www.instagram.com/srza._.gamer/">
-    <img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" width="50px" alt="Instagram"  /></a>
   </a>
   <a href="https://www.twitch.tv/sobhan_srza">
-    <img alt="Twitch" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" width="50px"/>
+    <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=tiwtch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" width="50px"/>
   </a>
   <a href="https://b2n.ir/srza-.-gamer">
-    <img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="50px"/>
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" width="50px" alt="YouTube"  />
   </a>
   <a href="https://github.com/Sobhan-SRZA">
-    <img alt="Github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="50px"/>
+    <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" width="50px"/>
   </a>
 </p>
 
