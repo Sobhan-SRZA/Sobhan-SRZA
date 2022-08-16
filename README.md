@@ -1,7 +1,5 @@
 
-## 🌗Language [EN]
-
-- **🎓 About Me** &nbsp;
+## **🎓 About Me**
 
 Hi👋🏻
 I am **[Mr.SIN RE](https://zil.ink/sobhan.srza)** and my real name is *Sobhan*
