@@ -83,8 +83,8 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
 
-<table><tr><td valign="center" width="55%">
-🎓 Learning Languages
+<table><tr><td valign="top" width="55%">
+#### 🎓 Learning Languages
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark">
@@ -93,8 +93,8 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </a>
 </div>
 
-</td> 🎸 Apps <td valign="center" width="55%">
-🎸 Apps
+</td><td valign="top" width="55%">
+#### 🎸 Apps
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
