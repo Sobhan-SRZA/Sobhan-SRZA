@@ -126,25 +126,30 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-<p align="center">
+<p align="left">
+ <a href="https://zil.ink/sobhan.srza">
+  <img src ="source/social-media.png" width = 50% >
+ </a>
+</p>
+<p align="right">
   <a href="https://discord.gg/WMhke7BW7J">
-    <img src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="Discord Server"  />
+    <img alt="Discord Server" src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://t.me/SobhanSRZA">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="Telegram"  />
+    <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://www.instagram.com/srza._.gamer/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="Instagram"  /></a>
+    <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" />
+  </a>
   </a>
   <a href="https://www.twitch.tv/sobhan_srza">
-    <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=tiwtch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="35"/>
+    <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://b2n.ir/srza-.-gamer">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="YouTube"  />
+    <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://github.com/Sobhan-SRZA">
-    <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35"/>
+    <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-<img src ="source/social-media.png" >
 </p>
 
