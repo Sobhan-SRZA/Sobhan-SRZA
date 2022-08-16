@@ -84,7 +84,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 <p align="center">
 
 <table><tr><td valign="top" width="55%">
-**🎓 Learning Languages**
+- 🎓 Learning Languages
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark">
