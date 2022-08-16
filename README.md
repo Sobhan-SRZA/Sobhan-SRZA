@@ -19,13 +19,13 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
 
-  <a href="https://discord.gg/WMhke7BW7J">
+  <a href="https://github.com/Sobhan-SRZA?tab=followers">
      <img alt="Followers" src="https://img.shields.io/github/followers/Sobhan-SRZA?style=social">
   </a>
   <a href="https://discord.gg/WMhke7BW7J">
      <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
   </a>
-  <a href="https://discord.gg/WMhke7BW7J">
+  <a href="https://github.com/Sobhan-SRZA/">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
   </a>
   <a herf="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot">
