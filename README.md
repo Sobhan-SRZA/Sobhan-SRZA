@@ -127,9 +127,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 ---
 
 <p align="center">
-
-<img src ="https://github.com/ArianPashae/ArianPashae/blob/main/social_dashboard.svg" align = "center" width = 60%>
-
   <a href="https://discord.gg/WMhke7BW7J">
     <img src="https://img.shields.io/static/v1?message=Discord Server&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="Discord Server"  />
   </a>
@@ -148,5 +145,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35"/>
   </a>
+<img src ="https://github.com/ArianPashae/ArianPashae/blob/main/social_dashboard.svg" align = "center" height="70" >
 </p>
 
