@@ -83,7 +83,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="22%">
 
 # 🎓 Learning Languages
 <div align="center">  
@@ -94,7 +94,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="22%">
 
 # 🎸 Apps
 <div align="center">  
