@@ -126,7 +126,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-<p align="right">
+<p align="left">
   <a href="https://zil.ink/sobhan.srza">
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
@@ -137,7 +137,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://www.instagram.com/srza._.gamer/">
-    <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=3f729b&logoColor=white&labelColor=&style=flat" height="30" />
+    <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   </a>
   <a href="https://www.twitch.tv/sobhan_srza">
