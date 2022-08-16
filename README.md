@@ -145,6 +145,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35"/>
   </a>
-<img src ="https://github.com/ArianPashae/ArianPashae/blob/main/social_dashboard.svg" align = "center" height="70" >
+<img src ="source/social-media.png" align = "center" height="24" >
 </p>
 
