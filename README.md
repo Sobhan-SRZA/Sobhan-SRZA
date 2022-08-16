@@ -83,8 +83,8 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
 
-🎓 Learning Languages  |  🎸 Apps
-------------- | -------------
+🎓 Learning Languages  |  🎸 Apps        
+------------- | ------------------
 <a href="https://discord.gg/WMhke7BW7J"><img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark"><img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark"><img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark"></a>  |        <a href="https://discord.gg/WMhke7BW7J"><img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark"><img src ="https://skillicons.dev/icons?i=powershell,linux,vscode&theme=dark"></a> 
 </p>
 
