@@ -88,7 +88,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 # 🎓 Learning Languages
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
-<img src ="https://skillicons.dev/icons?i=css,cpp,py,c&theme=dark">
+<img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
 <img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
 <img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
 </a>
@@ -100,7 +100,8 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
-<img src ="https://skillicons.dev/icons?i=powershell,linux,vscode&theme=dark">
+<img src ="https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark">
+<img src ="https://skillicons.dev/icons?i=instagram,gcp&theme=dark">
 </a>
 </div>
 </td></tr></table>  
