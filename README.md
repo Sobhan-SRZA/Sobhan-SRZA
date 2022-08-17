@@ -85,7 +85,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <table><tr><td valign="top" width="22%">
 
-# 🎓 Learning Languages
+# 🎓 Learning Langs
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
@@ -96,7 +96,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 </td><td valign="top" width="22%">
 
-# 🎸 Apps
+# 🎸 Using Apps
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
