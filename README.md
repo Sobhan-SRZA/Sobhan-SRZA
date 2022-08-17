@@ -134,14 +134,17 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
+
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
+  </a>
+
 </p>
-<p align="right">
+<p align="left">
   <a href="https://zil.ink/sobhan.srza">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
-<p align="left">
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
-    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
-  </a>
+<p align="right">
+
 </p>
