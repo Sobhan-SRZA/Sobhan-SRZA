@@ -149,6 +149,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center"> 
   <a href="https://zil.ink/sobhan.srza">
-    <img alt="Snake animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg"  />
+    [!Snake animation](https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg)
   </a>
  </p>
