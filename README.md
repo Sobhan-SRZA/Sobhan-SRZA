@@ -17,7 +17,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
  - **📊 All Github Info** &nbsp; 
 
 <p align="center">
-  <a href="https://github.com/Sobhan-SRZA/">
+  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
     <img alt="All Informations" src="https://metrics.lecoq.io/Sobhan-SRZA" width = 50% />
   </a>
 </p>
@@ -28,16 +28,16 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 <p align="center">
 
-  <a href="https://github.com/Sobhan-SRZA?tab=followers">
+  <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
      <img alt="Followers" src="https://img.shields.io/github/followers/Sobhan-SRZA?style=social">
   </a>
-  <a href="https://discord.gg/WMhke7BW7J">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank">
      <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
   </a>
-  <a href="https://github.com/Sobhan-SRZA/">
+  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
   </a>
-  <a href="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot">
+  <a href="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot" target="_blank">
      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
   </a>
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
@@ -49,19 +49,18 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 
 <p align="center">
- <p align="left">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 50% />
- </p>
- <p align="right">
-        <img title="h" alt="#streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Sobhan-SRZA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width = 45% />
+ <p align="center">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="left" width = 50% />
+    <img title="h" alt="#streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Sobhan-SRZA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width = 45% align="right" />
  </p>
 
  <p align="center">
    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sobhan-SRZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width = 60% />
  </p>
-</p>   
----
+ 
+</p>  
 
+---
 
 <p align="center">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 50% />
@@ -84,7 +83,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 # 🎓 Learning Langs
 <div align="center">  
-<a href="https://discord.gg/WMhke7BW7J">
+<a href="https://discord.gg/WMhke7BW7J" target="_blank">
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
 <img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
 <img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
@@ -95,7 +94,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 # 🎸 Using Apps
 <div align="center">  
-<a href="https://discord.gg/WMhke7BW7J">
+<a href="https://discord.gg/WMhke7BW7J" target="_blank">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
 <img src ="https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark">
 <img src ="https://skillicons.dev/icons?i=instagram,gcp&theme=dark">
@@ -110,26 +109,26 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 - **📫 Contact me in :** &nbsp;
 
 <p align="center">
-  <a href="https://zil.ink/sobhan.srza">
+  <a href="https://zil.ink/sobhan.srza" target="_blank">
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
-  <a href="https://discord.gg/WMhke7BW7J">
+  <a href="https://discord.gg/WMhke7BW7J" target="_blank">
     <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://t.me/SobhanSRZA">
+  <a href="https://t.me/SobhanSRZA" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://www.instagram.com/srza._.gamer/">
+  <a href="https://www.instagram.com/srza._.gamer/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   </a>
-  <a href="https://www.twitch.tv/sobhan_srza">
+  <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://b2n.ir/srza-.-gamer">
+  <a href="https://b2n.ir/srza-.-gamer" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://github.com/Sobhan-SRZA">
+  <a href="https://github.com/Sobhan-SRZA" target="_blank">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
 </p>
@@ -139,7 +138,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   </a>
 </p>
 <p align="center">
-  <a href="https://zil.ink/sobhan.srza">
+  <a href="https://zil.ink/sobhan.srza" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
