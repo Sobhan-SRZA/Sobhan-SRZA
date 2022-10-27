@@ -136,7 +136,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </p>
 
 <p align="center"> 
-  <a href="https://zil.ink/sobhan.srza">
+  <a href="https://zil.ink/sobhan.srza" target="_blank">
     <img alt="Snake animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg" />
   </a>
  </p>
