@@ -51,10 +51,12 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 <p align="center">
  <p align="center">
     <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Sobhan-SRZA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width = 45% align="left"/>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 50% align="right"/>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 45% align="right"/>
  </p>
  <p align="center">
-   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 46%/>
+   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 45%/>
+ </p>
+ <p align="center">
    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sobhan-SRZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width = 70% />
  </p>
  <p align="center">
