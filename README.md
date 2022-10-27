@@ -66,7 +66,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 - **🌱 I’m currently learning :** &nbsp;
 
-<p align="center">
+<p align="center" width="50%">
 
 <table><tr><td valign="top" width="22%">
 
