@@ -37,7 +37,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://github.com/Sobhan-SRZA/" target="_blank">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
   </a>
-  <a href="https://github.com/Sobhan-SRZA/Discord-Nitro-Generator" target="_blank">
+  <a href="https://github.com/Persian-Caesar/Ticker-Boy" target="_blank">
      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
   </a>
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
