@@ -58,11 +58,6 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" width = 70% />
  </p>
  
- ---
- 
- <p align="center">
-   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sobhan-SRZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width = 75% />
- </p>
 </p>
 
 ---
