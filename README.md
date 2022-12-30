@@ -1,4 +1,4 @@
-
+<iframe src="https://discord.com/widget?id=1047548209096036362&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ## **🎓 About Me**
 
 Hi👋🏻
@@ -102,17 +102,17 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   <a href="https://discord.gg/WMhke7BW7J" target="_blank">
     <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://t.me/SobhanSRZA" target="_blank">
+  <a href="https://t.me/pc_clubs" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://www.instagram.com/srza._.gamer/" target="_blank">
+  <a href="https://www.instagram.com/pc__clubs/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   </a>
   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://b2n.ir/srza-.-gamer" target="_blank">
+  <a href="https://b2n.ir/pc-club" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://github.com/Sobhan-SRZA" target="_blank">
