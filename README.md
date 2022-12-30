@@ -125,7 +125,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
   </a>
 </p>
 <p align="center">
-  <a href="https://zil.ink/sobhan.srza" target="_blank">
+  <a href="https://discord.com/users/831934465609302056" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
