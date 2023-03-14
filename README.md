@@ -13,10 +13,10 @@
  
 | 🎁 Projects | ❓ Status | ⚙️ Technology | ⭐ Stars | 📚 Forks |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
+| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished ✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
 | [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished ✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
 | [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
-| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **Writing ✍🏻** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
+| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **Writing ✍🏻** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
 
 </div>
 
