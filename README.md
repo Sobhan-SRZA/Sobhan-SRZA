@@ -1,6 +1,6 @@
 <div align='center'>
  <a href="https://dsc.gg/persian-caesar" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=21&pause=1000&center=true&vCenter=true&width=444&height=63&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile!!;I'm+Mr.SINRE;I+am+a+newcomer+in+coding;I+would+like+to+learn+more;I+have+big+projects+in+mind;I'll+see+you+on+the+discord+server;Bye+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=50&pause=1000&width=500&height=80&center=true&vCenter=true&lines=Hello+Everyone+👋🏻;Welcome+to+my+profile!!;I'm+Mr.SINRE;I+am+a+newcomer+in+coding;I+would+like+to+learn+more;I+have+big+projects+in+mind;I'll+see+you+on+the+discord+server;Bye+👋🏻" alt="Typing SVG">
  </a>
 </div>
 
