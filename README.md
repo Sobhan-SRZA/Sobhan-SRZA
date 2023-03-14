@@ -6,6 +6,27 @@
 
 <h1 align="center">🎓| About Me</h1>
 
+Hello my friend👋🏻, I am **Mr.SINRE**. My real name is **Sobhan**.
+
+I am an ESFJ-A personality type. 
+I hate proud and lying people and I hate this behavior myself.
+I am not very warm and cold person, but I communicate with everyone just like normal people. 
+
+How did I get into coding? Well, my beginning goes back to 2021, in this year I was scrolling through YouTube when I saw a video about Discord, I became very interested in this platform, so I went and created an account. 
+To build my Discord server I went back to YouTube and watched a video tutorial for configuring my server. 
+While scrolling, I saw a video with the title of making Discord Music Robot.
+I was interested in watching it, so I did.
+After following the video steps I made a bot for my server. 
+It was very exciting for me, then I decided to make more robots and that's what I did. 
+Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
+
+When I learned the Javascript coding language, I was able to create amazing robots. 
+I have created a bot for creating tickets in Discord in 2023 called [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=905297556836343849&scope=bot+applications.commands&permissions=2080374975), which is very easy to work with. 
+Please help me by inviting it to your discord server and using it. 
+
+Thank you so much for joining my Discord servers so we can talk more: 
+[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://dsc.gg/pc-club)
+
 ---
 
 <h1 align="center">💻| My Projects</h1>
