@@ -1,30 +1,16 @@
+<div align='center'>
+ <a href="https://dsc.gg/persian-caesar" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=21&pause=1000&center=true&vCenter=true&width=444&height=63&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile!!;I'm+Mr.SINRE;I+am+a+newcomer+in+coding;I+would+like+to+learn+more;I+have+big+projects+in+mind;I'll+see+you+on+the+discord+server;Bye+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG">
+ </a>
+</div>
 
-## **🎓 About Me**
+<h1 align="center">🎓| About Me</h1>
 
-Hi👋🏻
-I am **[Mr.SIN RE](https://zil.ink/sobhan.srza)** and my real name is *Sobhan*
 
-Apart from starting YouTube for fun, I also started bot programming a few months ago and built a [bot fun](https://discord.com/oauth2/authorize?client_id=914445178201337877&scope=bot+applications.commands+identify+guilds+applications.commands.permissions.update&response_type=code&permissions=2080374975)
-
-My programming is not very strong and I do not even claim to be a developer because I am not a professional.
-
-I also work in the field of YouTube and gaming, and I also configure the server in addition to coding
-
-I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW7J).
-
-[My Bots Support Server And Gaming Server](https://discord.gg/WMhke7BW7J)
-
- - **📊 All Github Info** &nbsp; 
-
-<p align="center">
-  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-    <img alt="All Informations" src="https://metrics.lecoq.io/Sobhan-SRZA" width = 50% />
-  </a>
-</p>
 
 ---
 
- ## 💻 Coding Activity
+<h1 align="center">🧑🏻‍💻| Coding Activity</h1>
 
 <p align="center">
 
@@ -62,13 +48,28 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 ---
 
-- **🌱 I’m currently learning :** &nbsp;
+<h1 align="center">💻| My Projects</h1>
+<div align="center">
+ 
+| 🎁 Projects | ❓ Status | ⚙️ Technology | ⭐ Stars | 📚 Forks |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished** | ![Made with javascript](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
+| [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
+| [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
+ 
+</div>
+
+---
+
+<div align="center">
+
+- **🌱| I’m currently learning :** &nbsp;
 
 <p align="center" width="50%">
 
 <table><tr><td valign="top" width="22%">
 
-# 🎓 Learning Langs
+<h2 align="center">🎓| Learning Langs</h2>
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J" target="_blank">
 <img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
@@ -79,7 +80,7 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 
 </td><td valign="top" width="22%">
 
-# 🎸 Using Apps
+<h2 align="center">🎸| Using Apps</h2>
 <div align="center">  
 <a href="https://discord.gg/WMhke7BW7J" target="_blank">
 <img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
@@ -90,10 +91,13 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
 </td></tr></table>  
 
 </p>
+</div>
 
 ---
 
-- **📫 Contact me in :** &nbsp;
+<div align="center">
+
+- **📫| Contact me in :** &nbsp;
 
 <p align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
@@ -135,3 +139,4 @@ I have one server for [supporting and pass the time](https://discord.gg/WMhke7BW
     <img alt="Snake animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg" />
   </a>
  </p>
+</div>
