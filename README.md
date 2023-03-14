@@ -6,7 +6,19 @@
 
 <h1 align="center">🎓| About Me</h1>
 
+---
 
+<h1 align="center">💻| My Projects</h1>
+<div align="center">
+ 
+| 🎁 Projects | ❓ Status | ⚙️ Technology | ⭐ Stars | 📚 Forks |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
+| [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished ✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
+| [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
+| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **Writing ✍🏻** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
+
+</div>
 
 ---
 
@@ -48,56 +60,21 @@
 
 ---
 
-<h1 align="center">💻| My Projects</h1>
 <div align="center">
- 
-| 🎁 Projects | ❓ Status | ⚙️ Technology | ⭐ Stars | 📚 Forks |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished** | ![Made with javascript](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
-| [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
-| [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
- 
+
+ **🌱| I’m currently learning**
+
+| 🎓 Learning Langs | 🎸 Using Apps |
+| ----------- | ----------- |
+| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/WMhke7BW7J) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/WMhke7BW7J) |
+
 </div>
 
 ---
 
 <div align="center">
 
-- **🌱| I’m currently learning :** &nbsp;
-
-<p align="center" width="50%">
-
-<table><tr><td valign="top" width="22%">
-
-<h2 align="center">🎓| Learning Langs</h2>
-<div align="center">  
-<a href="https://discord.gg/WMhke7BW7J" target="_blank">
-<img src ="https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark">
-<img src ="https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark">
-<img src ="https://skillicons.dev/icons?i=js,java,html,bash&theme=dark">
-</a>
-</div>
-
-</td><td valign="top" width="22%">
-
-<h2 align="center">🎸| Using Apps</h2>
-<div align="center">  
-<a href="https://discord.gg/WMhke7BW7J" target="_blank">
-<img src ="https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark">
-<img src ="https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark">
-<img src ="https://skillicons.dev/icons?i=instagram,gcp&theme=dark">
-</a>
-</div>
-</td></tr></table>  
-
-</p>
-</div>
-
----
-
-<div align="center">
-
-- **📫| Contact me in :** &nbsp;
+ **📫| Contact me in**
 
 <p align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
