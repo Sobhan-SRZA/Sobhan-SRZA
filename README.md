@@ -21,7 +21,7 @@ It was very exciting for me, then I decided to make more robots and that's what 
 Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
 When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=905297556836343849&scope=bot+applications.commands&permissions=2080374975), which is very easy to work with. 
+I have created a bot for creating tickets in Discord in 2023 called [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=905297556836343849&scope=bot+applications.commands&permissions=2080374975), which is very easy to work with it. 
 Please help me by inviting it to your discord server and using it. 
 
 Thank you so much for joining my Discord servers so we can talk more: 
