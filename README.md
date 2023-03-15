@@ -6,7 +6,7 @@
 
 <h1 align="center">🎓| About Me</h1>
 
-Hello my friend👋🏻, I am **Mr.SINRE**. My real name is **Sobhan**.
+Hello my friend👋🏻, I am **Mr.SINRE** and my real name is **Sobhan**.
 
 I am an ESFJ-A personality type. 
 I hate proud and lying people and I hate this behavior myself.
