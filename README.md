@@ -36,6 +36,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [All For One Bot](https://github.com/Sobhan-SRZA/All-For-One-Bot) | **Developing 🖥 ...** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/All-For-One-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/All-For-One-Bot?style=flat-square) |
 | [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished ✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
+| [Nuker Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot) | **Finished ✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) |
 | [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished ✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
 | [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
 | [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **Developing 🖥 ...** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
@@ -123,8 +124,13 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 <p align="right">
+  <a href="https://discord.gg/gW4YpKR8" target="_blank"> 
+    <img src="https://discord.com/api/guilds/1054814674979409940/widget.png?style=banner2" alt="pc-development.png">
+  </a>
+</p>
+<p align="right">
   <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
-    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="sizar-team.png">
+    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="pc-club.png">
   </a>
 </p>
 <p align="center">
