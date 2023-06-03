@@ -50,21 +50,20 @@ Thank you so much for joining my Discord servers so we can talk more:
 <p align="center">
 
   <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
-     <img alt="Followers" src="https://img.shields.io/github/followers/Sobhan-SRZA?style=social">
-  </a>
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank">
-     <img alt="Total Stars" src="https://img.shields.io/github/stars/Sobhan-SRZA?style=social">
+     <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
   </a>
   <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-     <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA">
+     <img src="https://img.shields.io/github/stars/Sobhan-SRZA?logo=github&style=for-the-badge">
   </a>
-  <a href="https://github.com/Sobhan-SRZA/How-Create-Discord-Bot" target="_blank">
-     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sobhan-SRZA/How-Create-Discord-Bot">
+  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
+     <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
   </a>
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
-    <img src="https://discordapp.com/api/guilds/912596015075455016/widget.png?style=shield" alt="shield.png">
+  <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
+     <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A">
   </a>
-
+   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
+     <img src="https://img.shields.io//twitch/status/sobhan_srza">
+  </a>
 </p>
 
 
@@ -102,9 +101,6 @@ Thank you so much for joining my Discord servers so we can talk more:
 <p align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
     <img align="left" src ="source/social-media.png" width = 50% >
-  </a>
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289d9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://t.me/pc_clubs" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
