@@ -58,12 +58,14 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="https://github.com/Sobhan-SRZA/" target="_blank">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
   </a>
-  <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
-     <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A">
-  </a>
-   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-     <img src="https://img.shields.io//twitch/status/sobhan_srza">
-  </a>
+  <p>
+    <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A?logo=youtube&logoColor=red&style=for-the-badge">
+    </a>
+    <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
+      <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
+    </a>
+  </p>
 </p>
 
 
