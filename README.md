@@ -47,8 +47,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 <h1 align="center">🧑🏻‍💻| Coding Activity</h1>
 
-<p align="center">
-
+<div align="center">
   <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
      <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
   </a>
@@ -58,15 +57,15 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="https://github.com/Sobhan-SRZA/" target="_blank">
      <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
   </a>
-  <p>
+  <div>
     <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A?logo=youtube&logoColor=red&style=for-the-badge">
     </a>
     <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
       <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
     </a>
-  </p>
-</p>
+  </div>
+</div>
 
 
 
@@ -100,7 +99,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 
  **📫| Contact me in**
 
-<p align="center">
+<div align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
@@ -137,9 +136,9 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 
-<p align="center"> 
+ <div align="center"> 
   <a href="http://sobhan.epizy.com/" target="_blank">
     <img alt="Snake animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg" />
   </a>
- </p>
+ </div>
 </div>
