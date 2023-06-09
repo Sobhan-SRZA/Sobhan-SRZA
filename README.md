@@ -65,6 +65,17 @@ Thank you so much for joining my Discord servers so we can talk more:
       <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
     </a>
   </div>
+   <div>
+    <a href="https://discord.com/invite/P4XxUmebDa" target="_blank">
+      <img src="https://badgen.net/discord/members/P4XxUmebDa?style=for-the-badge">
+    </a>
+    <a href="http://sobhan.epizy.com" target="_blank">
+      <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http://sobhan.epizy.com&style=for-the-badge">
+    </a>
+    <a href="https://discord.com/invite/at5Q72HNAx" target="_blank">
+      <img src="https://badgen.net/discord/members/at5Q72HNAx?style=for-the-badge">
+    </a>
+  </div>
 </div>
 
 
@@ -120,7 +131,7 @@ Thank you so much for joining my Discord servers so we can talk more:
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
 </p>
-<p align="right">
+<p align="left">
   <a href="https://discord.gg/P4XxUmebDa" target="_blank"> 
     <img src="https://discord.com/api/guilds/1054814674979409940/widget.png?style=banner2" alt="pc-development.png">
   </a>
