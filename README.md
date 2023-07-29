@@ -34,12 +34,13 @@ Thank you so much for joining my Discord servers so we can talk more:
  
 | 🗃 Projects | 📡 Status | ⚙️ Technology | ⭐ Stars | 🖨 Forks |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [All For One Bot](https://github.com/Sobhan-SRZA/All-For-One-Bot) | **Developing 🖥 ...** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/All-For-One-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/All-For-One-Bot?style=flat-square) |
-| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **Finished ✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
-| [Nuker Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot) | **Finished ✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) |
-| [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **Finished ✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
-| [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **Finished ✅** | ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
-| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **Developing 🖥 ...** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
+| [All For One Bot](https://github.com/Sobhan-SRZA/All-For-One-Bot) | **❌** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/All-For-One-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/All-For-One-Bot?style=flat-square) |
+| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
+| [Nuker Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot) | **✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) |
+| [Discord Nitro Generator Bot](https://github.com/Sobhan-SRZA/Nitro-Generator-Bot) | **✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Nitro-Generator-Bot?style=flat-square) |
+| [Discord Nitro Generator and Checker](https://github.com/Sobhan-SRZA/Discord-Nitro-Generator) | **✅** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Discord-Nitro-Generator?style=flat-square) |
+| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **❌** | ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
+| [Calculator Application](https://github.com/Sobhan-SRZA/Calculator-Application) | **✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Calculator-Application?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Calculator-Application?style=flat-square) |
 
 </div>
 
@@ -48,49 +49,56 @@ Thank you so much for joining my Discord servers so we can talk more:
 <h1 align="center">🧑🏻‍💻| Coding Activity</h1>
 
 <div align="center">
-  <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
-     <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-     <img src="https://img.shields.io/github/stars/Sobhan-SRZA?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-     <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
-  </a>
-  <div>
-    <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A?logo=youtube&logoColor=red&style=for-the-badge">
-    </a>
-    <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-      <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
-    </a>
+  <div align="center">
+    <div>
+      <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
+         <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
+      </a>
+      <a href="https://github.com/Sobhan-SRZA/" target="_blank">
+         <img src="https://img.shields.io/github/stars/Sobhan-SRZA?logo=github&style=for-the-badge">
+      </a>
+      <a href="https://github.com/Sobhan-SRZA/" target="_blank">
+         <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
+      </a>
+    </div>
+    <div>
+      <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A?logo=youtube&logoColor=red&style=for-the-badge">
+      </a>
+      <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
+        <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
+      </a>
+      <a href="http://sobhan.epizy.com" target="_blank">
+        <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http://sobhan.epizy.com&style=for-the-badge">
+      </a>
+     </div>
+     <div>
+      <a href="https://discord.com/invite/P4XxUmebDa" target="_blank">
+        <img src="https://badgen.net/discord/members/P4XxUmebDa?style=for-the-badge">
+      </a>
+      <a href="https://discord.com/invite/at5Q72HNAx" target="_blank">
+        <img src="https://badgen.net/discord/members/at5Q72HNAx?style=for-the-badge">
+      </a>
+    </div>
   </div>
-   <div>
-    <a href="https://discord.com/invite/P4XxUmebDa" target="_blank">
-      <img src="https://badgen.net/discord/members/P4XxUmebDa?style=for-the-badge">
-    </a>
-    <a href="http://sobhan.epizy.com" target="_blank">
-      <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http://sobhan.epizy.com&style=for-the-badge">
-    </a>
-    <a href="https://discord.com/invite/at5Q72HNAx" target="_blank">
-      <img src="https://badgen.net/discord/members/at5Q72HNAx?style=for-the-badge">
-    </a>
+  <div align="center">
+    <div>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 30% />
+    </div>
   </div>
 </div>
 
 
 
-<p align="center">
- <p align="center">
+<div align="center">
+ <div align="center">
     <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Sobhan-SRZA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width = 40% />
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 40% />
- </p>
- <p align="center">
-   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 30% />
+ </div>
+ <div align="center">
    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" width = 70% />
- </p>
- 
-</p>
+ </div>
+</div>
 
 ---
 
