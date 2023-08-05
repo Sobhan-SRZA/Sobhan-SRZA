@@ -76,8 +76,8 @@ Thank you so much for joining my Discord servers so we can talk more:
       <a href="https://discord.com/invite/P4XxUmebDa" target="_blank">
         <img src="https://badgen.net/discord/members/P4XxUmebDa?style=for-the-badge">
       </a>
-      <a href="https://discord.com/invite/at5Q72HNAx" target="_blank">
-        <img src="https://badgen.net/discord/members/at5Q72HNAx?style=for-the-badge">
+      <a href="https://discord.com/invite/bNpqrdXNNn" target="_blank">
+        <img src="https://badgen.net/discord/members/bNpqrdXNNn?style=for-the-badge">
       </a>
     </div>
   </div>
@@ -108,7 +108,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 | 🎓 Learning Langs | 🎸 Using Apps |
 | ----------- | ----------- |
-| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/WMhke7BW7J) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/WMhke7BW7J) |
+| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/bNpqrdXNNn) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/bNpqrdXNNn) |
 
 </div>
 
@@ -132,7 +132,7 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://b2n.ir/pc-club" target="_blank">
+  <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://github.com/Sobhan-SRZA" target="_blank">
@@ -145,7 +145,7 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 <p align="right">
-  <a href="https://discord.gg/WMhke7BW7J" target="_blank"> 
+  <a href="https://discord.gg/bNpqrdXNNn" target="_blank"> 
     <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="pc-club.png">
   </a>
 </p>
