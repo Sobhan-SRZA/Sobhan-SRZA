@@ -154,10 +154,4 @@ Thank you so much for joining my Discord servers so we can talk more:
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
   </a>
 </p>
-
- <div align="center"> 
-  <a href="http://sobhan.epizy.com/" target="_blank">
-    <img alt="Snake animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake.svg" />
-  </a>
- </div>
 </div>
