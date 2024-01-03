@@ -77,8 +77,8 @@ Thank you so much for joining my Discord servers so we can talk more:
       <a href="https://discord.com/invite/P4XxUmebDa" target="_blank">
         <img src="https://badgen.net/discord/members/P4XxUmebDa?style=for-the-badge">
       </a>
-      <a href="https://discord.com/invite/bNpqrdXNNn" target="_blank">
-        <img src="https://badgen.net/discord/members/bNpqrdXNNn?style=for-the-badge">
+      <a href="https://discord.com/invite/54zDNTAymF" target="_blank">
+        <img src="https://badgen.net/discord/members/54zDNTAymF?style=for-the-badge">
       </a>
     </div>
   </div>
@@ -109,7 +109,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 | 🎓 Learning Langs | 🎸 Using Apps |
 | ----------- | ----------- |
-| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/bNpqrdXNNn) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/bNpqrdXNNn) |
+| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/54zDNTAymF) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/54zDNTAymF) |
 
 </div>
 
@@ -146,13 +146,13 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 <p align="right">
-  <a href="https://discord.gg/bNpqrdXNNn" target="_blank"> 
-    <img src="https://discord.com/api/guilds/912596015075455016/widget.png?style=banner2" alt="pc-club.png">
+  <a href="https://discord.gg/54zDNTAymF" target="_blank"> 
+    <img src="https://discord.com/api/guilds/1181764925874507836/widget.png?style=banner2" alt="pc-club.png">
   </a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/831934465609302056" target="_blank">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/831934465609302056.png"  />
+  <a href="https://discord.com/users/865630940361785345" target="_blank">
+    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/865630940361785345.png"  />
   </a>
 </p>
 </div>
