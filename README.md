@@ -117,7 +117,7 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 <div align="center">
 
- **📫| Contact me in**
+# **📫| Contact me in**
 
 <div align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
