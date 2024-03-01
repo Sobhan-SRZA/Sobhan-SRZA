@@ -64,7 +64,7 @@ Thank you so much for joining my Discord servers so we can talk more:
     </div>
     <div>
       <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCN9nlwyMaUBsML6m4eUxG0A?logo=youtube&logoColor=red&style=for-the-badge">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCqDgeKYxedZMS1Gm2WNJ3qg?logo=youtube&logoColor=red&style=for-the-badge">
       </a>
       <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
         <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
