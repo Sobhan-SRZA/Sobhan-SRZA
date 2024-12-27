@@ -164,4 +164,8 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 ---
 
- ![Snake Animation](https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/Sobhan-SRZA">
+    <img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake-dark.svg"  />
+  </a>
+</p>
