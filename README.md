@@ -134,7 +134,6 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="https://www.instagram.com/mr.sinre?igsh=cWk1aHdhaGRnOGg%3D&utm_source=qr" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  </a>
   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
@@ -155,17 +154,17 @@ Thank you so much for joining my Discord servers so we can talk more:
     <img src="https://discord.com/api/guilds/1181764925874507836/widget.png?style=banner2" alt="pc-club.png">
   </a>
 </p>
-<p align="center">
+<div align="center">
   <a href="https://discord.com/users/865630940361785345" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/865630940361785345.png"  />
   </a>
-</p>
+</div>
 </div>
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Snake Animation" src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake-dark.svg"  />
   </a>
-</p>
+</div>
