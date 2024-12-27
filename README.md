@@ -151,10 +151,6 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 <p align="right">
-
- ---
-
- ![Snake Animation](https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake-dark.svg)
   <a href="https://discord.gg/54zDNTAymF" target="_blank"> 
     <img src="https://discord.com/api/guilds/1181764925874507836/widget.png?style=banner2" alt="pc-club.png">
   </a>
@@ -165,3 +161,7 @@ Thank you so much for joining my Discord servers so we can talk more:
   </a>
 </p>
 </div>
+
+---
+
+ ![Snake Animation](https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/output/github-contribution-grid-snake-dark.svg)
