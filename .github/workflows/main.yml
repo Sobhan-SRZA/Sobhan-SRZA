@@ -21,14 +21,12 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
+          outputs: | 
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
             
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
