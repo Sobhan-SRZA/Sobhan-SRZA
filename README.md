@@ -177,6 +177,6 @@ Thank you so much for joining my Discord servers so we can talk more:
 
 <div align="center">
   <a href="https://github.com/Sobhan-SRZA">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/output/github-contribution-grid-snake.svg"  />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/output/github-contribution-grid-snake-dark.svg"  />
   </a>
 </div>
