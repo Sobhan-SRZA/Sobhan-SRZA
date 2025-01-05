@@ -127,7 +127,7 @@ Thank you so much for joining my Discord servers so we can talk more:
  
  <div align="center">
   <a href="http://sobhan.epizy.com" target="_blank">
-   <img align="left" src="source/social-media.png" width=50%>
+   <img align="left" src="https://github.com/user-attachments/assets/69b35053-17b1-48c6-a35b-4d3881a4dd2c" width=50%>
   </a>
   <a href="https://t.me/d_opa_mine" target="_blank">
    <img alt="Telegram"
