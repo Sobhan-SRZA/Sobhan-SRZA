@@ -138,9 +138,14 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="http://sobhan.epizy.com" target="_blank">
    <img align="left" src="https://github.com/user-attachments/assets/69b35053-17b1-48c6-a35b-4d3881a4dd2c" width=50%>
   </a>
+  <a href="https://t.me/d_opa_mine" target="_blank">
+   <img alt="Telegram"
+    src="https://img.shields.io/static/v1?message=Telegram Channel&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat"
+    height="30" />
+  </a>
   <a href="https://t.me/Sobhan_SRZA" target="_blank">
    <img alt="Telegram"
-    src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat"
+    src="https://img.shields.io/static/v1?message=Telegram Account&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat"
     height="30" />
   </a>
   <a href="https://www.instagram.com/mr.sinre?igsh=cWk1aHdhaGRnOGg%3D&utm_source=qr" target="_blank">
