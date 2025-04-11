@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: '16'
 
+      - name: install and create package.json file
+        run: npm init -y && npm i node-fetch
+        
       - name: Run generateReposTable script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
