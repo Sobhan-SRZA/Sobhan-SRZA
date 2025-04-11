@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');
 const fs = require('fs');
 
 const GITHUB_USERNAME = 'YOUR_GITHUB_USERNAME';
