@@ -20,13 +20,15 @@ How did I get into coding? Well, my beginning goes back to 2021 when I was scrol
 
 Hello, I'm Sobhan, also known as Mr.Sinre or sometimes Sobhan-SRZA.  
 I was born on November 22, 2005, and as I write this in 2025, I'm 19 years and 5 months old.  
-From a very early age, I have been passionate about coding—it's the activity I love most. Alongside programming, I enjoy watching movies, anime, and sports as well as reading books. In my free time, I engage in gaming and immerse myself in music while pondering about the future.
+From a very early age, I have been passionate about coding — it's the activity I love most. Alongside programming, I enjoy watching movies, anime, and sports as well as reading books. In my free time, I engage in gaming and immerse myself in music while pondering about the future.
 
-My journey in creating content started in 2018 under the name **S.R.Z.A**. Initially, I created videos on Aparat, and even though early success came without monetary gains, it motivated me to explore further opportunities—eventually leading me to experiment with Instagram and YouTube. I dived into the world of Discord, learning about server configurations and bot development.  
+My journey in creating content started in 2018 under the name **S.R.Z.A**. Initially, I created videos on Aparat, and even though early success came without monetary gains, it motivated me to explore further opportunities — eventually leading me to experiment with Instagram and YouTube. I dived into the world of Discord, learning about server configurations and bot development.  
 
-I began by creating a Python bot, which fascinated me as I could see my code changes in action immediately. Over time, I expanded my skills to include JavaScript and other languages while building various Discord bots for music, moderation, and other utilities. I even ventured into projects that mixed gaming content with bot functionalities—each step further fueling my passion for programming.
+I began by creating a Python bot, which fascinated me as I could see my code changes in action immediately. Over time, I expanded my skills to include JavaScript and other languages while building various Discord bots for music, moderation, and other utilities. I even ventured into projects that mixed gaming content with bot functionalities — each step further fueling my passion for programming.
 
-Despite facing academic challenges and a few setbacks, my persistent drive pushed me to keep learning and evolving. Today, I actively work on projects like **HyCom**, **Ticker Boy**, **DJ Boy**, and **Padio**, all reflecting my ongoing journey in the world of coding and digital content creation.
+Despite facing academic challenges and a few setbacks, my persistent drive pushed me to keep learning and evolving. Today, I actively work on projects like [**HyCom**](https://hycom.ir/), [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=1241112292616044695
+), [**DJ Boy**](https://discord.com/oauth2/authorize?client_id=1240775406454312961
+), and [**Padio**](https://discord.com/oauth2/authorize?client_id=1282618377654898731), all reflecting my ongoing journey in the world of coding and digital content creation.
 
 ---
 
