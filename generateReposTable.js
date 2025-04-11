@@ -1,5 +1,5 @@
-const fetch = require("node-fetch")
-const fs = require('fs');
+import fetch from 'node-fetch';
+import fs from 'fs';
 
 // تنظیم نام کاربری گیت‌هاب و توکن (برای افزایش نرخ درخواست یا دسترسی به مخازن خصوصی)
 const GITHUB_USERNAME = 'YOUR_GITHUB_USERNAME';
