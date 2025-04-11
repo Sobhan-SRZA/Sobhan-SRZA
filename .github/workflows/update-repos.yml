@@ -18,9 +18,6 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Run generateReposTable script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
