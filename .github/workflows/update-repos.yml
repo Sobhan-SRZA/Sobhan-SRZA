@@ -1,0 +1,36 @@
+name: Update Repositories List
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # اجرا هر ساعت؛ می‌توانید زمان‌بندی را به دلخواه تغییر دهید
+  workflow_dispatch:    # امکان اجرای دستی نیز فراهم می‌شود
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run generateReposTable script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # توکن گیت‌هاب که در قسمت Secrets تنظیم شده
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}  # نام کاربری گیت‌هاب (می‌توانید یا به صورت secret یا مقداردهی مستقیم در کد)
+        run: node generateReposTable.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add REPOSITORIES.md
+          git commit -m "Update repositories list" || echo "No changes to commit"
+          git push
