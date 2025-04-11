@@ -2,8 +2,8 @@ name: Update Repositories List
 
 on:
   schedule:
-    - cron: '0 * * * *'  # اجرا هر ساعت؛ می‌توانید زمان‌بندی را به دلخواه تغییر دهید
-  workflow_dispatch:    # امکان اجرای دستی نیز فراهم می‌شود
+    - cron: '0 * * * *' 
+  workflow_dispatch:    
 
 jobs:
   update-repos:
@@ -23,8 +23,8 @@ jobs:
 
       - name: Run generateReposTable script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # توکن گیت‌هاب که در قسمت Secrets تنظیم شده
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}  # نام کاربری گیت‌هاب (می‌توانید یا به صورت secret یا مقداردهی مستقیم در کد)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_USERNAME: ${{ github.repository_owner }}  
         run: node generateReposTable.js
 
       - name: Commit and push changes
