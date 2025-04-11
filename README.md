@@ -10,22 +10,23 @@ Hello my friend👋🏻, I am **Mr.Sinre** and my real name is **Sobhan**.
 
 I am an ESFJ-A personality type. 
 I hate proud and lying people and I hate this behavior myself.
-I am not very warm and cold person, but I communicate with everyone just like normal people. 
+I am not a very warm or cold person, but I communicate with everyone just like a normal person.
 
-How did I get into coding? Well, my beginning goes back to 2021, in this year I was scrolling through YouTube when I saw a video about Discord, I became very interested in this platform, so I went and created an account. 
-To build my Discord server I went back to YouTube and watched a video tutorial for configuring my server. 
-While scrolling, I saw a video with the title of making Discord Music Robot.
-I was interested in watching it, so I did.
-After following the video steps I made a bot for my server. 
-It was very exciting for me, then I decided to make more robots and that's what I did. 
-Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
+How did I get into coding? Well, my beginning goes back to 2021 when I was scrolling through YouTube, discovered Discord, and created an account. Soon after, I began experimenting by building bots for my server and quickly fell in love with programming.
 
-When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**Ticker Boy**](https://discord.com/api/oauth2/authorize?scope=bot+applications.commands&client_id=1241112292616044695&redirect_uri=https://discord.gg/AfkuXgCKAQ&response_type=code&&permissions=395674250441), which is very easy to work with it. 
-Please help me by inviting it to your discord server and using it. 
+---
 
-Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://dsc.gg/pc-club)
+<h1 align="center">My Journey</h1>
+
+Hello, I'm Sobhan, also known as Mr.Sinre or sometimes Sobhan-SRZA.  
+I was born on November 22, 2005, and as I write this in 2025, I'm 19 years and 5 months old.  
+From a very early age, I have been passionate about coding—it's the activity I love most. Alongside programming, I enjoy watching movies, anime, and sports as well as reading books. In my free time, I engage in gaming and immerse myself in music while pondering about the future.
+
+My journey in creating content started in 2018 under the name **S.R.Z.A**. Initially, I created videos on Aparat, and even though early success came without monetary gains, it motivated me to explore further opportunities—eventually leading me to experiment with Instagram and YouTube. I dived into the world of Discord, learning about server configurations and bot development.  
+
+I began by creating a Python bot, which fascinated me as I could see my code changes in action immediately. Over time, I expanded my skills to include JavaScript and other languages while building various Discord bots for music, moderation, and other utilities. I even ventured into projects that mixed gaming content with bot functionalities—each step further fueling my passion for programming.
+
+Despite facing academic challenges and a few setbacks, my persistent drive pushed me to keep learning and evolving. Today, I actively work on projects like **HyCom**, **Ticker Boy**, **DJ Boy**, and **Padio**, all reflecting my ongoing journey in the world of coding and digital content creation.
 
 ---
 
