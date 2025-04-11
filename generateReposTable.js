@@ -1,3 +1,4 @@
+const fetch = require("node:fetch")
 const fs = require('fs');
 
 // تنظیم نام کاربری گیت‌هاب و توکن (برای افزایش نرخ درخواست یا دسترسی به مخازن خصوصی)
