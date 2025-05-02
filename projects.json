@@ -167,7 +167,7 @@
         "url": "https://github.com/Sobhan-SRZA/API-Response-Viewer",
         "description": "Instantly visualize API responses with JSON formatting and embedded image display. Perfect for developers testing REST APIs.",
         "languages": [
-            "HTML5",
+            "HTML",
             "CSS",
             "JavaScript"
         ],
@@ -232,7 +232,7 @@
         "url": "https://github.com/Sobhan-SRZA/Homework-1",
         "description": " صفحه ثبت نام به زبان فارسی",
         "languages": [
-            "HTML5",
+            "HTML",
             "CSS"
         ],
         "private": false,
@@ -244,7 +244,7 @@
         "url": "https://github.com/Sobhan-SRZA/Homework-2",
         "description": "وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.",
         "languages": [
-            "HTML5",
+            "HTML",
             "CSS"
         ],
         "private": false,
@@ -256,7 +256,7 @@
         "url": "https://github.com/Sobhan-SRZA/Homework-3",
         "description": "یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو",
         "languages": [
-            "HTML5",
+            "HTML",
             "CSS",
             "JavaScript"
         ],
@@ -297,7 +297,7 @@
         "description": "An AI learning machine with choosing best color text for random background colors.",
         "languages": [
             "CSS",
-            "HTML5",
+            "HTML",
             "JavaScript"
         ],
         "private": false,
@@ -310,7 +310,7 @@
         "description": "Simple player for website using html, css and javascript.",
         "languages": [
             "CSS",
-            "HTML5",
+            "HTML",
             "JavaScript"
         ],
         "private": false,
@@ -334,7 +334,7 @@
         "description": "This is simple personal website with github template.",
         "languages": [
             "CSS",
-            "HTML5"
+            "HTML"
         ],
         "private": false,
         "status": "✅ Done"
@@ -346,7 +346,7 @@
         "description": "My portfolio webpage.",
         "languages": [
             "CSS",
-            "HTML5",
+            "HTML",
             "JavaScript"
         ],
         "private": false,
@@ -359,7 +359,7 @@
         "description": "A portfolio webpage powered by impress.js. (This web page is not good)",
         "languages": [
             "CSS",
-            "HTML5",
+            "HTML",
             "JavaScript"
         ],
         "private": false,
@@ -372,7 +372,7 @@
         "description": "This is my first project in react.",
         "languages": [
             "CSS",
-            "HTML5",
+            "HTML",
             "JavaScript"
         ],
         "private": false,

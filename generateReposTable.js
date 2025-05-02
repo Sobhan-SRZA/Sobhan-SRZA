@@ -34,8 +34,8 @@ async function fetchRepos(username) {
 }
 
 async function generateMarkdownTable(repos) {
-  let table = '| 🔢 | 🗃 Projects | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |\n';
-  table += '| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n';
+  let table = '| 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |\n';
+  table += '| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n';
 
   let count = 0;
   repos?.forEach((repo) => {
@@ -43,21 +43,21 @@ async function generateMarkdownTable(repos) {
     const langBadges = repo.languages
       ? repo.languages.map(a => {
         const language = encodeURIComponent(a);
-        return `![Used ${language}](https://img.shields.io/badge/${language}--blue?logo=${language.toLowerCase() === "html" ? "html5" : language}&logoColor=white)`
-      })
-      : '';
+        return `![Used ${language}](images/${language.toLowerCase()}.svg)`
+      }).join(" ")
+      : '`none`';
 
     const techBadges = repo.technologies
       ? repo.technologies.map(a => {
         const technology = encodeURIComponent(a);
-        return `![Used ${technology}](https://img.shields.io/badge/${technology}--blue?logo=${technology.toLowerCase() === "html" ? "html5" : technology}&logoColor=white)`
-      })
-      : '';
+        return `![Used ${technology}](images/${technology.toLowerCase()}.svg)`
+      }).join(" ")
+      : '`none`';
 
-    const starsBadge = repo.private ? '' : `![Stars](https://img.shields.io/github/stars/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
-    const forksBadge = repo.private ? '' : `![Forks](https://img.shields.io/github/forks/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
+    const starsBadge = repo.private ? '`none`' : `![Stars](https://img.shields.io/github/stars/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
+    const forksBadge = repo.private ? '`none`' : `![Forks](https://img.shields.io/github/forks/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
 
-    table += `| ${++count} | [${repo.name}](${repo.url}) | **${repo.status}** | **${access}** | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |\n`;
+    table += `| ${++count} | [${repo.name}](${repo.url}) | \`${repo.description}\` | **${repo.status}** | **${access}** | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |\n`;
   });
 
   return table;
@@ -69,7 +69,6 @@ async function main() {
     const repos = JSON.parse(fs.readFileSync("./projects.json"));
     console.log(`repositorise size: ${repos.length}`);
     const markdownTable = await generateMarkdownTable(repos);
-    fs.writeFileSync(GITHUB_USERNAME + '-REPOSITORIES.json', JSON.stringify(repos));
     fs.writeFileSync('REPOSITORIES.md', markdownTable);
     console.log('REPOSITORIES.md has successfully created.');
   } catch (error) {
