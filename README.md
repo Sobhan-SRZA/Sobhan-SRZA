@@ -1,6 +1,6 @@
 <div align='center'>
  <a href="https://srza.ir" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=50&pause=1000&width=500&height=80&center=true&vCenter=true&lines=Hello+Everyone+👋🏻;Welcome+to+my+profile!!;I'm+Mr.SINRE;I+am+a+newcomer+in+coding;I+would+like+to+learn+more;I+have+big+projects+in+mind;I'll+see+you+on+the+discord+server;Bye+👋🏻" alt="Typing SVG">
+  <img src="images/welcome.svg" alt="Typing SVG">
  </a>
 </div>
 
