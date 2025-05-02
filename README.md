@@ -141,45 +141,44 @@ I began by creating a Python bot, which fascinated me as I could see my code cha
 <div align="center">
  
 # **Contact me in**
- 
- <div align="center">
+<div align="center">
   <a href="https://srza.ir" target="_blank">
-   <img align="left" src="images/social.png" alt="Sobhan-SRZA social" width=400px>
+   <img align="left" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/social.png" alt="Sobhan-SRZA social" width=400px>
   </a>
 
   <a href="https://t.me/d_opa_mine" target="_blank">
    <img alt="Telegram"
-    src="images/telegram-ch.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/telegram-ch.svg"
     height="30" />
   </a>
 
   <a href="https://t.me/Sobhan_SRZA" target="_blank">
    <img alt="Telegram"
-    src="images/telegram-ac.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/telegram-ac.svg"
     height="30" />
   </a>
 
   <a href="https://www.instagram.com/mr.sinre?igsh=cWk1aHdhaGRnOGg%3D&utm_source=qr" target="_blank">
    <img alt="Instagram"
-    src="images/instagram.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/instagram.svg"
     height="30" />
   </a>
 
   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
    <img alt="Twitch"
-    src="images/twitch.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/twitch.svg"
     height="30" />
   </a>
 
   <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
    <img alt="YouTube"
-    src="images/youtube.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/youtube.svg"
     height="30" />
   </a>
   
   <a href="https://github.com/Sobhan-SRZA" target="_blank">
    <img alt="Github"
-    src="images/github.svg"
+    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/github.svg"
     height="30" />
   </a>
   
@@ -198,6 +197,9 @@ I began by creating a Python bot, which fascinated me as I could see my code cha
   <div align="center">
    <a href="https://discord.com/users/865630940361785345" target="_blank">
     <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/865630940361785345.png" />
+   </a>
+    <a href="https://discord.com/users/986314682547716117" target="_blank" align="right">
+    <img alt="Team Discord Account" src="https://discord.c99.nl/widget/theme-1/986314682547716117.png" />
    </a>
   </div>
 
