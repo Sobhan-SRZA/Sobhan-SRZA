@@ -16,5 +16,8 @@
     "url": "https://github.com/Sobhan-SRZA/Sobhan-SRZA/issues"
   },
   "homepage": "https://github.com/Sobhan-SRZA/Sobhan-SRZA#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
