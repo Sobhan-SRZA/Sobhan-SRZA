@@ -146,6 +146,40 @@
         "status": "✅ Done"
     },
     {
+        "organization": "Persian-Caesar",
+        "owner": "Sobhan-SRZA",
+        "name": "chatbot",
+        "url": "https://github.com/Persian-Caesar/chatbot",
+        "description": "A TypeScript-based chatbot package for Persian Caesar.",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "technologies": [
+            "NPM",
+            "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "organization": "Persian-Caesar",
+        "owner": "Sobhan-SRZA",
+        "name": "discord-player",
+        "url": "https://github.com/Persian-Caesar/discord-player",
+        "description": "Discord music player.",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "technologies": [
+            "NPM",
+            "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
         "owner": "Sobhan-SRZA",
         "name": "Anonymous-Chat-Bot",
         "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
@@ -262,6 +296,18 @@
         ],
         "private": false,
         "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
+        "name": "Homework-4",
+        "url": "https://github.com/Sobhan-SRZA/Homework-4",
+        "description": "انجام پروزه تمرینی از روی عکس",
+        "languages": [
+            "HTML",
+            "CSS"
+        ],
+        "private": false,
+        "status": "⚒ Working..."
     },
     {
         "owner": "Sobhan-SRZA",
