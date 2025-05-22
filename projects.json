@@ -14,7 +14,7 @@
             "Node.js"
         ],
         "private": false,
-        "status": "⚒ Working..."
+        "status": "✅ Done"
     },
     {
         "organization": "Persian-Caesar",
@@ -143,7 +143,7 @@
             "Node.js"
         ],
         "private": true,
-        "status": "✅ Done"
+        "status": "⚒ Working..."
     },
     {
         "organization": "Persian-Caesar",
@@ -180,6 +180,23 @@
         "status": "✅ Done"
     },
     {
+        "organization": "Persian-Caesar",
+        "owner": "Sobhan-SRZA",
+        "name": "hycom-api",
+        "url": "https://github.com/Persian-Caesar/hycom-api",
+        "description": "A package to easy use hycom.ir api service.",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "technologies": [
+            "NPM",
+            "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
         "owner": "Sobhan-SRZA",
         "name": "Anonymous-Chat-Bot",
         "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
@@ -191,6 +208,32 @@
         "technologies": [
             "NPM",
             "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
+        "name": "jalali-datepicker-widget",
+        "url": "https://github.com/Sobhan-SRZA/jalali-datepicker-widget",
+        "description": "A lightweight and simple Jalali (Shamsi/Persian) date picker widget built with HTML, CSS, JavaScript (with jQuery and PersianDate).",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
+        "name": "custom-image-cropper",
+        "url": "https://github.com/Sobhan-SRZA/custom-image-cropper",
+        "description": "A customizable client-side image cropper with drag, resize, and download support. Fully responsive and supports both desktop and mobile devices.",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
         ],
         "private": false,
         "status": "✅ Done"
@@ -307,7 +350,7 @@
             "CSS"
         ],
         "private": false,
-        "status": "⚒ Working..."
+        "status": "✅ Done"
     },
     {
         "owner": "Sobhan-SRZA",
@@ -319,7 +362,7 @@
             "JavaScript"
         ],
         "private": false,
-        "status": "⚒ Working..."
+        "status": "✅ Done"
     },
     {
         "owner": "Sobhan-SRZA",
@@ -334,7 +377,7 @@
             "NPM"
         ],
         "private": false,
-        "status": "⚒ Working..."
+        "status": "✅ Done"
     },
     {
         "owner": "Sobhan-SRZA",

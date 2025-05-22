@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-async function generateMarkdownTable(repos) {
+async function generateMarkdownTable(repos, imagesPath) {
   let table = '| 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |\n';
   table += '| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n';
 
@@ -10,14 +10,14 @@ async function generateMarkdownTable(repos) {
     const langBadges = repo.languages
       ? repo.languages.map(a => {
         const language = encodeURIComponent(a);
-        return `![Used ${language}](images/${language.toLowerCase()}.svg)`
+        return `![Used ${language}](${imagesPath}/${language.toLowerCase()}.svg)`
       }).join(" ")
       : '`none`';
 
     const techBadges = repo.technologies
       ? repo.technologies.map(a => {
         const technology = encodeURIComponent(a);
-        return `![Used ${technology}](images/${technology.toLowerCase()}.svg)`
+        return `![Used ${technology}](${imagesPath}/${technology.toLowerCase()}.svg)`
       }).join(" ")
       : '`none`';
 
@@ -35,9 +35,9 @@ async function main() {
     // const repos = await fetchRepos(GITHUB_USERNAME);
     const repos = JSON.parse(fs.readFileSync("./projects.json"));
     console.log(`repositorise size: ${repos.length}`);
-    const markdownTable = await generateMarkdownTable(repos);
+    const markdownTable = await generateMarkdownTable(repos, "images");
     fs.writeFileSync('REPOSITORIES.md', markdownTable);
-    const persianCaesarMarkdownTable = await generateMarkdownTable(repos.filter(a => a.organization === "Persian-Caesar"));
+    const persianCaesarMarkdownTable = await generateMarkdownTable(repos.filter(a => a.organization === "Persian-Caesar"), "https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images");
     fs.writeFileSync('PC_REPOSITORIES.md', persianCaesarMarkdownTable);
     console.log('REPOSITORIES.md has successfully created.');
   } catch (error) {
