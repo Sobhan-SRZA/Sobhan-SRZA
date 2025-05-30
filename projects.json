@@ -354,6 +354,30 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "Homework-5",
+        "url": "https://github.com/Sobhan-SRZA/Homework-5",
+        "description": "تمرین طراحی وب - صفحه‌ی معرفی ساده",
+        "languages": [
+            "HTML",
+            "CSS"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
+        "name": "Homework-6",
+        "url": "https://github.com/Sobhan-SRZA/Homework-6",
+        "description": "تمرین طراحی سایت - فرم تماس",
+        "languages": [
+            "HTML",
+            "CSS"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "How-Create-Discord-Bot",
         "url": "https://github.com/Sobhan-SRZA/How-Create-Discord-Bot",
         "description": "In This Project I Show You How We Can Create Discord Bot In discord.js v14",
