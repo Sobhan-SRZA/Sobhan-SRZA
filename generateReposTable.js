@@ -2,8 +2,7 @@ import fs from 'fs';
 
 function readme(repositorise) {
   const contactFile = fs.readFileSync("./contact.txt")
-  return `
-<div align='center'>
+  return `<div align='center'>
  <a href="https://srza.ir" target="_blank">
   <img src="images/welcome.svg" alt="Typing SVG">
  </a>
@@ -40,7 +39,7 @@ I began by creating a Python bot, which fascinated me as I could see my code cha
 <h1 align="center">Repositories</h1>
 <div align="center">
 
-${repositorise}                                                                                                        |
+${repositorise}                
 
 </div>
 
@@ -113,13 +112,13 @@ ${contactFile}
   <a href="https://github.com/Sobhan-SRZA">
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/output/github-contribution-grid-snake-dark.svg"  />
   </a>
-</div>
-`;
+</div>`;
 }
 
 async function generateMarkdownTable(repos, imagesPath) {
-  let table = `| 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |\n`;
-  table += `| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |\n`;
+  const table = [];
+  table.push("| 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |");
+  table.push("| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |");
 
   let count = 0;
   repos?.forEach((repo) => {
@@ -141,15 +140,14 @@ async function generateMarkdownTable(repos, imagesPath) {
     const starsBadge = repo.private ? '`none`' : `![Stars](https://img.shields.io/github/stars/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
     const forksBadge = repo.private ? '`none`' : `![Forks](https://img.shields.io/github/forks/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
 
-    table += `| ${++count} | [${repo.name}](${repo.url}) | \`${repo.description}\` | **${repo.status}** | **${access}** | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |\n`;
+    table.push(`| ${++count} | [${repo.name}](${repo.url}) | \`${repo.description}\` | **${repo.status}** | **${access}** | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |`);
   });
 
-  return table;
+  return table.join("\n");
 }
 
 async function main() {
   try {
-    // const repos = await fetchRepos(GITHUB_USERNAME);
     const repos = JSON.parse(fs.readFileSync("./projects.json"));
     console.log(`check repositorise size: ${repos.length}`);
 
@@ -158,7 +156,7 @@ async function main() {
     console.log("\n");
     console.log(`loaded repositorise size: ${repos.length}`);
     console.log('REPOSITORIES.md has successfully created.');
-    
+
     fs.writeFileSync('README.md', readme(markdownTable));
     console.log("\n");
     console.log(`loaded repositorise size: ${repos.length}`);

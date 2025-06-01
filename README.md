@@ -1,4 +1,3 @@
-
 <div align='center'>
  <a href="https://srza.ir" target="_blank">
   <img src="images/welcome.svg" alt="Typing SVG">
@@ -86,8 +85,7 @@ I began by creating a Python bot, which fascinated me as I could see my code cha
 | 46 | [Customer-Bot-7](https://github.com/Sobhan-SRZA/Customer-Bot-7) | `This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used NPM](images/npm.svg) | `none` | `none` |
 | 47 | [Customer-Bot-8](https://github.com/Sobhan-SRZA/Customer-Bot-8) | `Music player on discord with custom channel feature.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used NPM](images/npm.svg) | `none` | `none` |
 | 48 | [Customer-Bot-9](https://github.com/Sobhan-SRZA/Customer-Bot-9) | `this is a link uploader with fun commands.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used NPM](images/npm.svg) | `none` | `none` |
-| 49 | [Customer-Bot-10](https://github.com/Sobhan-SRZA/Customer-Bot-10) | `custom self bot have fun, moderation, music, streamming cmds` | **✅ Done** | **🔒 Private** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used NPM](images/npm.svg) | `none` | `none` |
-                                                                                                        |
+| 49 | [Customer-Bot-10](https://github.com/Sobhan-SRZA/Customer-Bot-10) | `custom self bot have fun, moderation, music, streamming cmds` | **✅ Done** | **🔒 Private** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used NPM](images/npm.svg) | `none` | `none` |                
 
 </div>
 
