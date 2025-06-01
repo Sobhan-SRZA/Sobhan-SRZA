@@ -213,8 +213,6 @@ I began by creating a Python bot, which fascinated me as I could see my code cha
    </a>
   </div>
 
- </div>
-
 </div>
 
 ---
