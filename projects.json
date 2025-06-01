@@ -240,6 +240,19 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "PersianAdminPanel",
+        "url": "https://github.com/Sobhan-SRZA/PersianAdminPanel",
+        "description": "یه پنل ادمین ساده و ریسپانسیو با طراحی راست‌به‌چپ برای مدیریت سیستم‌های وب به زبان فارسی. این پروژه با HTML، Tailwind CSS و JavaScript خام ساخته شده و قابلیت‌های مختلفی مثل داشبورد، مدیریت کاربران، امنیت و گزارش‌ها رو ارائه می‌ده.",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "API-Response-Viewer",
         "url": "https://github.com/Sobhan-SRZA/API-Response-Viewer",
         "description": "Instantly visualize API responses with JSON formatting and embedded image display. Perfect for developers testing REST APIs.",
