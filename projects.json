@@ -471,9 +471,9 @@
         "description": "A full-stack e-commerce web application, This project demonstrates modern web development practices, including RESTful API design, TypeScript integration, and database management with Prisma and SQLite. It includes core e-commerce features such as product management, user authentication, and a shopping cart.",
         "languages": [
             "HTML",
+            "CSS",
             "JavaScript",
-            "TypeScript",
-            "CSS"
+            "TypeScript"
         ],
         "technologies": [
             "Node.js",
