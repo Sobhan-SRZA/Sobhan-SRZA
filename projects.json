@@ -478,6 +478,24 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "Online-Shop",
+        "url": "https://github.com/Sobhan-SRZA/Online-Shop",
+        "description": "A full-stack e-commerce web application, This project demonstrates modern web development practices, including RESTful API design, TypeScript integration, and database management with Prisma and SQLite. It includes core e-commerce features such as product management, user authentication, and a shopping cart.",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "technologies": [
+            "Node.js",
+            "NPM"
+        ],
+        "private": false,
+        "status": "⚒ Working..."
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "Personal-Website",
         "url": "https://github.com/Sobhan-SRZA/Personal-Website",
         "description": "This is simple personal website with github template.",
