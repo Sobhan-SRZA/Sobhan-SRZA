@@ -398,7 +398,7 @@
             "HTML",
             "CSS"
         ],
-        "private": true,
+        "private": false,
         "status": "⚒ Working..."
     },
     {
