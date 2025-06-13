@@ -396,7 +396,8 @@
         "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
         "languages": [
             "HTML",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         "private": false,
         "status": "⚒ Working..."
