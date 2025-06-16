@@ -227,6 +227,19 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "hamburger-menu-template",
+        "url": "https://github.com/Sobhan-SRZA/hamburger-menu-template",
+        "description": "یک صفحه پیشفرض برای منوی همبرگری ریسپانسیو مناسب برای هدر وبسایت، زبان فارسی، نوشته شده توسط هوش مصنوعی DeepSeek.",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "custom-image-cropper",
         "url": "https://github.com/Sobhan-SRZA/custom-image-cropper",
         "description": "A customizable client-side image cropper with drag, resize, and download support. Fully responsive and supports both desktop and mobile devices.",
