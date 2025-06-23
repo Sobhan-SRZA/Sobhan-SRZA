@@ -225,6 +225,19 @@
         "private": false,
         "status": "✅ Done"
     },
+        {
+        "owner": "Sobhan-SRZA",
+        "name": "image-gallery",
+        "url": "https://github.com/Sobhan-SRZA/image-gallery",
+        "description": "گالری تصاویر با قابلیت نمایش تمام‌صفحه و سواپ.",
+        "languages": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
     {
         "owner": "Sobhan-SRZA",
         "name": "hamburger-menu-template",
