@@ -303,9 +303,25 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "discord-bot-template-ts",
+        "url": "https://github.com/Sobhan-SRZA/discord-bot-template-ts",
+        "description": "A discord template source for myself handlers.",
+        "languages": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "technologies": [
+            "NPM",
+            "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "Discord-Voice-Chat-Bot",
         "url": "https://github.com/Sobhan-SRZA/Discord-Voice-Chat-Bot",
-        "description": "Free discord voice chat bot, this is what you can speek with it in discord voice. ",
+        "description": "Free discord voice chat bot, this is what you can speek with it in discord voice.",
         "languages": [
             "JavaScript"
         ],
