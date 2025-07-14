@@ -314,6 +314,17 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "My-Python-Curse-Homeworks",
+        "url": "https://github.com/Sobhan-SRZA/My-Python-Curse-Homeworks",
+        "description": "انجام تمرین های پایتونی من.",
+        "languages": [
+            "Python"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "Discord-Music-Player-Template",
         "url": "https://github.com/Sobhan-SRZA/Discord-Music-Player-Template",
         "description": "This project is a template for discord bots to help them play music in voice channel. (alert: this template only support youtube!)",
