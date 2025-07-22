@@ -225,7 +225,7 @@
             "NPM",
             "Node.js"
         ],
-        "private": false,
+        "private": true,
         "status": "✅ Done"
     },
     {
