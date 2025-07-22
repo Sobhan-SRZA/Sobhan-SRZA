@@ -198,6 +198,22 @@
     },
     {
         "owner": "Sobhan-SRZA",
+        "name": "daramet-discord-bot",
+        "url": "https://github.com/Sobhan-SRZA/daramet-discord-bot",
+        "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "technologies": [
+            "NPM",
+            "Node.js"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
         "name": "Anonymous-Chat-Bot",
         "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
         "description": "A Telegram bot for anonymous chatting with referral system and profile-based random chat.",
