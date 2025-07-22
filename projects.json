@@ -209,7 +209,7 @@
             "NPM",
             "Node.js"
         ],
-        "private": false,
+        "private": true,
         "status": "✅ Done"
     },
     {
@@ -225,7 +225,7 @@
             "NPM",
             "Node.js"
         ],
-        "private": true,
+        "private": false,
         "status": "✅ Done"
     },
     {
