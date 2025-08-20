@@ -241,7 +241,7 @@
         "private": false,
         "status": "✅ Done"
     },
-        {
+    {
         "owner": "Sobhan-SRZA",
         "name": "image-gallery",
         "url": "https://github.com/Sobhan-SRZA/image-gallery",
@@ -335,6 +335,24 @@
         "description": "انجام تمرین های پایتونی من.",
         "languages": [
             "Python"
+        ],
+        "private": false,
+        "status": "✅ Done"
+    },
+    {
+        "owner": "Sobhan-SRZA",
+        "name": "My-ReactJs-Curse-Homeworks",
+        "url": "https://github.com/Sobhan-SRZA/My-ReactJs-Curse-Homeworks",
+        "description": "دارم ریکت جی اس یاد میگیرم و اینجا پروژه های تمرینی خودم رو میزارم.",
+        "languages": [
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS"
+        ],
+        "technologies": [
+            "Node.js",
+            "NPM"
         ],
         "private": false,
         "status": "✅ Done"
