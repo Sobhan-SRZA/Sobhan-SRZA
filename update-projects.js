@@ -31,8 +31,8 @@ const getRepositoryData = async (organization, repository) => {
       stars: data.stargazers_count || 0,
       forks: data.forks_count || 0,
     };
-  } 
-  
+  }
+
   catch (error) {
     console.warn(`Error fetching repo data for ${organization}/${repository}:`, error.message);
     return { stars: 0, forks: 0 };
@@ -67,7 +67,7 @@ const updateProjectsFile = async (projects, sha) => {
       content: Buffer.from(JSON.stringify(projects, null, 2)).toString("base64"),
       sha
     });
-    
+
     console.log(`Successfully updated ${FILE_PATH}`);
   }
 
@@ -84,11 +84,21 @@ const updateProjects = async () => {
 
     const updatedProjects = [];
     for (const project of projects) {
+      if (project.private) {
+        updatedProjects.push({
+          ...project,
+          stars: 0,
+          forks: 0
+        });
+
+        continue;
+      }
+
       const repoData = await getRepositoryData(project.organization || REPO_OWNER, project.name);
       updatedProjects.push({
         ...project,
         stars: repoData.stars,
-        forks: repoData.forks,
+        forks: repoData.forks
       });
 
       await new Promise((resolve) => setTimeout(resolve, 1000));
