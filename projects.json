@@ -1,819 +1,933 @@
 [
-    {
-        "organization": "aparatjs",
-        "owner": "Sobhan-SRZA",
-        "name": "Aparat.JS",
-        "url": "https://github.com/aparatjs/aparat.js",
-        "description": "The aparat website services in one package free to use and more quality.",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "All-For-One-Bot",
-        "url": "https://github.com/Persian-Caesar/All-For-One-Bot",
-        "description": "This source is full discord bot and can do anything you want.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "⚒ Working..."
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "Anti-Nuker-Bot",
-        "url": "https://github.com/Persian-Caesar/Anti-Nuker-Bot",
-        "description": "This is bot can fix your nuked guild like unban all members or remove spam channels and roles for you.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "DJ-Boy",
-        "url": "https://github.com/Persian-Caesar/DJ-Boy",
-        "description": "Music player on discord with custom channel feature.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "⚒ Working..."
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "Radio-Bot",
-        "url": "https://github.com/Persian-Caesar/Radio-Bot",
-        "description": "This is an advanced radio bot for Discord voice channels, allowing users to enjoy a wide variety of trending online radios with high quality and seamless performance.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "Ticker-Boy",
-        "url": "https://github.com/Persian-Caesar/Ticker-Boy",
-        "description": "Ticket system bot🎫 worked with /commands and text commands, had perfect dashboard and website for easy setup on guild.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "HyCom",
-        "url": "https://github.com/Persian-Caesar/HyCom",
-        "description": "HyCom personal discord bot.",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "Adult-Club",
-        "url": "https://github.com/Persian-Caesar/Adult-Club",
-        "description": "ربات اختصاصی سرور Adult Club برای مدیریت احراز هویت و ویژگی های دیگر.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "Vixy",
-        "url": "https://github.com/Persian-Caesar/Vixy",
-        "description": "A multi-purpose Discord bot designed to make your life easier and more enjoyable.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": true,
-        "status": "⚒ Working..."
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "chatbot",
-        "url": "https://github.com/Persian-Caesar/chatbot",
-        "description": "A TypeScript-based chatbot package for Persian Caesar.",
-        "languages": [
-            "JavaScript",
-            "TypeScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "discord-player",
-        "url": "https://github.com/Persian-Caesar/discord-player",
-        "description": "Discord music player.",
-        "languages": [
-            "JavaScript",
-            "TypeScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "organization": "Persian-Caesar",
-        "owner": "Sobhan-SRZA",
-        "name": "hycom-api",
-        "url": "https://github.com/Persian-Caesar/hycom-api",
-        "description": "A package to easy use hycom.ir api service.",
-        "languages": [
-            "JavaScript",
-            "TypeScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "daramet-discord-bot",
-        "url": "https://github.com/Sobhan-SRZA/daramet-discord-bot",
-        "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Anonymous-Chat-Bot",
-        "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
-        "description": "A Telegram bot for anonymous chatting with referral system and profile-based random chat.",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "jalali-datepicker-widget",
-        "url": "https://github.com/Sobhan-SRZA/jalali-datepicker-widget",
-        "description": "A lightweight and simple Jalali (Shamsi/Persian) date picker widget built with HTML, CSS, JavaScript (with jQuery and PersianDate).",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "image-gallery",
-        "url": "https://github.com/Sobhan-SRZA/image-gallery",
-        "description": "گالری تصاویر با قابلیت نمایش تمام‌صفحه و سواپ.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "hamburger-menu-template",
-        "url": "https://github.com/Sobhan-SRZA/hamburger-menu-template",
-        "description": "یک صفحه پیشفرض برای منوی همبرگری ریسپانسیو مناسب برای هدر وبسایت، زبان فارسی، نوشته شده توسط هوش مصنوعی DeepSeek.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "custom-image-cropper",
-        "url": "https://github.com/Sobhan-SRZA/custom-image-cropper",
-        "description": "A customizable client-side image cropper with drag, resize, and download support. Fully responsive and supports both desktop and mobile devices.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "PersianAdminPanel",
-        "url": "https://github.com/Sobhan-SRZA/PersianAdminPanel",
-        "description": "یه پنل ادمین ساده و ریسپانسیو با طراحی راست‌به‌چپ برای مدیریت سیستم‌های وب به زبان فارسی. این پروژه با HTML، Tailwind CSS و JavaScript خام ساخته شده و قابلیت‌های مختلفی مثل داشبورد، مدیریت کاربران، امنیت و گزارش‌ها رو ارائه می‌ده.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "API-Response-Viewer",
-        "url": "https://github.com/Sobhan-SRZA/API-Response-Viewer",
-        "description": "Instantly visualize API responses with JSON formatting and embedded image display. Perfect for developers testing REST APIs.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Calculator-Application",
-        "url": "https://github.com/Sobhan-SRZA/Calculator-Application",
-        "description": "A calculator app build with python and using QT library.",
-        "languages": [
-            "Python"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Console-Calcualtor-py",
-        "url": "https://github.com/Sobhan-SRZA/Console-Calcualtor-py",
-        "description": "simple and stupid project to add calculator to your console using python. (It's uni class exercise)",
-        "languages": [
-            "Python"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "My-Python-Curse-Homeworks",
-        "url": "https://github.com/Sobhan-SRZA/My-Python-Curse-Homeworks",
-        "description": "انجام تمرین های پایتونی من.",
-        "languages": [
-            "Python"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "My-ReactJs-Curse-Homeworks",
-        "url": "https://github.com/Sobhan-SRZA/My-ReactJs-Curse-Homeworks",
-        "description": "دارم ریکت جی اس یاد میگیرم و اینجا پروژه های تمرینی خودم رو میزارم.",
-        "languages": [
-            "JavaScript",
-            "TypeScript",
-            "HTML",
-            "CSS"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Discord-Music-Player-Template",
-        "url": "https://github.com/Sobhan-SRZA/Discord-Music-Player-Template",
-        "description": "This project is a template for discord bots to help them play music in voice channel. (alert: this template only support youtube!)",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "discord-bot-template-ts",
-        "url": "https://github.com/Sobhan-SRZA/discord-bot-template-ts",
-        "description": "A discord template source for myself handlers.",
-        "languages": [
-            "JavaScript",
-            "TypeScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Discord-Voice-Chat-Bot",
-        "url": "https://github.com/Sobhan-SRZA/Discord-Voice-Chat-Bot",
-        "description": "Free discord voice chat bot, this is what you can speek with it in discord voice.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "NPM",
-            "Node.js"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-1",
-        "url": "https://github.com/Sobhan-SRZA/Homework-1",
-        "description": " صفحه ثبت نام به زبان فارسی",
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-2",
-        "url": "https://github.com/Sobhan-SRZA/Homework-2",
-        "description": "وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.",
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-3",
-        "url": "https://github.com/Sobhan-SRZA/Homework-3",
-        "description": "یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-4",
-        "url": "https://github.com/Sobhan-SRZA/Homework-4",
-        "description": "انجام پروزه تمرینی از روی عکس",
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-5",
-        "url": "https://github.com/Sobhan-SRZA/Homework-5",
-        "description": "تمرین طراحی وب - صفحه‌ی معرفی ساده",
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Homework-6",
-        "url": "https://github.com/Sobhan-SRZA/Homework-6",
-        "description": "تمرین طراحی سایت - فرم تماس",
-        "languages": [
-            "HTML",
-            "CSS"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Arta-Omran-Varaq",
-        "url": "https://github.com/Sobhan-SRZA/Arta-Omran-Varaq",
-        "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "reactjs-guide",
-        "url": "https://github.com/Sobhan-SRZA/reactjs-guide",
-        "description": "A Complete Beginner's Guide to React JS with TypeScript, Final Project, Testing & Best Practices",
-        "languages": [
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "How-Create-Discord-Bot",
-        "url": "https://github.com/Sobhan-SRZA/How-Create-Discord-Bot",
-        "description": "In This Project I Show You How We Can Create Discord Bot In discord.js v14",
-        "languages": [
-            "Python",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Instagram-Downloader",
-        "url": "https://github.com/Sobhan-SRZA/Instagram-Downloader",
-        "description": "A tool for downloding instagram reels. (Alert: I have no idea why this code couldn't work so don't mention it.) ",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Machine-Learning-Color-Contrast-Picker",
-        "url": "https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker",
-        "description": "An AI learning machine with choosing best color text for random background colors.",
-        "languages": [
-            "CSS",
-            "HTML",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Music-Player-In-Website",
-        "url": "https://github.com/Sobhan-SRZA/Music-Player-In-Website",
-        "description": "Simple player for website using html, css and javascript.",
-        "languages": [
-            "CSS",
-            "HTML",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Perimeter-and-Area",
-        "url": "https://github.com/Sobhan-SRZA/Perimeter-and-Area",
-        "description": "Calculate the perimeter and area of the rectangle in c++.",
-        "languages": [
-            "C++"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Online-Shop",
-        "url": "https://github.com/Sobhan-SRZA/Online-Shop",
-        "description": "A full-stack e-commerce web application, This project demonstrates modern web development practices, including RESTful API design, TypeScript integration, and database management with Prisma and SQLite. It includes core e-commerce features such as product management, user authentication, and a shopping cart.",
-        "languages": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "TypeScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": false,
-        "status": "⚒ Working..."
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Personal-Website",
-        "url": "https://github.com/Sobhan-SRZA/Personal-Website",
-        "description": "This is simple personal website with github template.",
-        "languages": [
-            "CSS",
-            "HTML"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Portfolio",
-        "url": "https://github.com/Sobhan-SRZA/Portfolio",
-        "description": "Portfolio of Mr. Sinre (Sobhan-SRZA) - Developer, content creator, and Discord bot enthusiast. Discover my biography, projects, and social profiles.",
-        "languages": [
-            "CSS",
-            "HTML",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Portfolio-ImpressJs",
-        "url": "https://github.com/Sobhan-SRZA/Portfolio-ImpressJs",
-        "description": "A portfolio webpage powered by impress.js. (This web page is not good)",
-        "languages": [
-            "CSS",
-            "HTML",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Simple-Website-Using-React",
-        "url": "https://github.com/Sobhan-SRZA/Simple-Website-Using-React",
-        "description": "This is my first project in react.",
-        "languages": [
-            "CSS",
-            "HTML",
-            "JavaScript"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Telegram-RoBot-Handler",
-        "url": "https://github.com/Sobhan-SRZA/Telegram-RoBot-Handler",
-        "description": "Make telegram robot with telegraf.js and my custom handlers.",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "template-bot",
-        "url": "https://github.com/Sobhan-SRZA/template-bot",
-        "description": "Scaffolding out a Telegram bot",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": false,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-1",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-1",
-        "description": "partnership setup and checker, send custom message in channel, anti link, anti spam, custom comamnd",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-2",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-2",
-        "description": "MTA discord bot with ability to show active player of server.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-3",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-3",
-        "description": "Utility bot.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-4",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-4",
-        "description": "An uploader bot.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-5",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-5",
-        "description": "attacker bot",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-6",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-6",
-        "description": "custom robot with custom role for admins",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-7",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-7",
-        "description": "This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-8",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-8",
-        "description": "Music player on discord with custom channel feature.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-9",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-9",
-        "description": "this is a link uploader with fun commands.",
-        "languages": [
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    },
-    {
-        "owner": "Sobhan-SRZA",
-        "name": "Customer-Bot-10",
-        "url": "https://github.com/Sobhan-SRZA/Customer-Bot-10",
-        "description": "custom self bot have fun, moderation, music, streamming cmds",
-        "languages": [
-            "TypeScript",
-            "JavaScript"
-        ],
-        "technologies": [
-            "Node.js",
-            "NPM"
-        ],
-        "private": true,
-        "status": "✅ Done"
-    }
+  {
+    "organization": "aparatjs",
+    "owner": "Sobhan-SRZA",
+    "name": "Aparat.JS",
+    "url": "https://github.com/aparatjs/aparat.js",
+    "description": "The aparat website services in one package free to use and more quality.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 8,
+    "forks": 1
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "All-For-One-Bot",
+    "url": "https://github.com/Persian-Caesar/All-For-One-Bot",
+    "description": "This source is full discord bot and can do anything you want.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 140,
+    "forks": 93
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Anti-Nuker-Bot",
+    "url": "https://github.com/Persian-Caesar/Anti-Nuker-Bot",
+    "description": "This is bot can fix your nuked guild like unban all members or remove spam channels and roles for you.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 10,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "DJ-Boy",
+    "url": "https://github.com/Persian-Caesar/DJ-Boy",
+    "description": "Music player on discord with custom channel feature.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Radio-Bot",
+    "url": "https://github.com/Persian-Caesar/Radio-Bot",
+    "description": "This is an advanced radio bot for Discord voice channels, allowing users to enjoy a wide variety of trending online radios with high quality and seamless performance.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 6,
+    "forks": 1
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Ticker-Boy",
+    "url": "https://github.com/Persian-Caesar/Ticker-Boy",
+    "description": "Ticket system bot🎫 worked with /commands and text commands, had perfect dashboard and website for easy setup on guild.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 78,
+    "forks": 13
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "HyCom",
+    "url": "https://github.com/Persian-Caesar/HyCom",
+    "description": "HyCom personal discord bot.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Adult-Club",
+    "url": "https://github.com/Persian-Caesar/Adult-Club",
+    "description": "ربات اختصاصی سرور Adult Club برای مدیریت احراز هویت و ویژگی های دیگر.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Vixy",
+    "url": "https://github.com/Persian-Caesar/Vixy",
+    "description": "A multi-purpose Discord bot designed to make your life easier and more enjoyable.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": true,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "chatbot",
+    "url": "https://github.com/Persian-Caesar/chatbot",
+    "description": "A TypeScript-based chatbot package for Persian Caesar.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "discord-player",
+    "url": "https://github.com/Persian-Caesar/discord-player",
+    "description": "Discord music player.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "hycom-api",
+    "url": "https://github.com/Persian-Caesar/hycom-api",
+    "description": "A package to easy use hycom.ir api service.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "daramet-discord-bot",
+    "url": "https://github.com/Sobhan-SRZA/daramet-discord-bot",
+    "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Anonymous-Chat-Bot",
+    "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
+    "description": "A Telegram bot for anonymous chatting with referral system and profile-based random chat.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "jalali-datepicker-widget",
+    "url": "https://github.com/Sobhan-SRZA/jalali-datepicker-widget",
+    "description": "A lightweight and simple Jalali (Shamsi/Persian) date picker widget built with HTML, CSS, JavaScript (with jQuery and PersianDate).",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "image-gallery",
+    "url": "https://github.com/Sobhan-SRZA/image-gallery",
+    "description": "گالری تصاویر با قابلیت نمایش تمام‌صفحه و سواپ.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "hamburger-menu-template",
+    "url": "https://github.com/Sobhan-SRZA/hamburger-menu-template",
+    "description": "یک صفحه پیشفرض برای منوی همبرگری ریسپانسیو مناسب برای هدر وبسایت، زبان فارسی، نوشته شده توسط هوش مصنوعی DeepSeek.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "custom-image-cropper",
+    "url": "https://github.com/Sobhan-SRZA/custom-image-cropper",
+    "description": "A customizable client-side image cropper with drag, resize, and download support. Fully responsive and supports both desktop and mobile devices.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "PersianAdminPanel",
+    "url": "https://github.com/Sobhan-SRZA/PersianAdminPanel",
+    "description": "یه پنل ادمین ساده و ریسپانسیو با طراحی راست‌به‌چپ برای مدیریت سیستم‌های وب به زبان فارسی. این پروژه با HTML، Tailwind CSS و JavaScript خام ساخته شده و قابلیت‌های مختلفی مثل داشبورد، مدیریت کاربران، امنیت و گزارش‌ها رو ارائه می‌ده.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "API-Response-Viewer",
+    "url": "https://github.com/Sobhan-SRZA/API-Response-Viewer",
+    "description": "Instantly visualize API responses with JSON formatting and embedded image display. Perfect for developers testing REST APIs.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Calculator-Application",
+    "url": "https://github.com/Sobhan-SRZA/Calculator-Application",
+    "description": "A calculator app build with python and using QT library.",
+    "languages": [
+      "Python"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 4,
+    "forks": 1
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Console-Calcualtor-py",
+    "url": "https://github.com/Sobhan-SRZA/Console-Calcualtor-py",
+    "description": "simple and stupid project to add calculator to your console using python. (It's uni class exercise)",
+    "languages": [
+      "Python"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "My-Python-Curse-Homeworks",
+    "url": "https://github.com/Sobhan-SRZA/My-Python-Curse-Homeworks",
+    "description": "انجام تمرین های پایتونی من.",
+    "languages": [
+      "Python"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "My-ReactJs-Curse-Homeworks",
+    "url": "https://github.com/Sobhan-SRZA/My-ReactJs-Curse-Homeworks",
+    "description": "دارم ریکت جی اس یاد میگیرم و اینجا پروژه های تمرینی خودم رو میزارم.",
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Discord-Music-Player-Template",
+    "url": "https://github.com/Sobhan-SRZA/Discord-Music-Player-Template",
+    "description": "This project is a template for discord bots to help them play music in voice channel. (alert: this template only support youtube!)",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "discord-bot-template-ts",
+    "url": "https://github.com/Sobhan-SRZA/discord-bot-template-ts",
+    "description": "A discord template source for myself handlers.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Discord-Voice-Chat-Bot",
+    "url": "https://github.com/Sobhan-SRZA/Discord-Voice-Chat-Bot",
+    "description": "Free discord voice chat bot, this is what you can speek with it in discord voice.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 4,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-1",
+    "url": "https://github.com/Sobhan-SRZA/Homework-1",
+    "description": " صفحه ثبت نام به زبان فارسی",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-2",
+    "url": "https://github.com/Sobhan-SRZA/Homework-2",
+    "description": "وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-3",
+    "url": "https://github.com/Sobhan-SRZA/Homework-3",
+    "description": "یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-4",
+    "url": "https://github.com/Sobhan-SRZA/Homework-4",
+    "description": "انجام پروزه تمرینی از روی عکس",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-5",
+    "url": "https://github.com/Sobhan-SRZA/Homework-5",
+    "description": "تمرین طراحی وب - صفحه‌ی معرفی ساده",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Homework-6",
+    "url": "https://github.com/Sobhan-SRZA/Homework-6",
+    "description": "تمرین طراحی سایت - فرم تماس",
+    "languages": [
+      "HTML",
+      "CSS"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Arta-Omran-Varaq",
+    "url": "https://github.com/Sobhan-SRZA/Arta-Omran-Varaq",
+    "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "reactjs-guide",
+    "url": "https://github.com/Sobhan-SRZA/reactjs-guide",
+    "description": "A Complete Beginner's Guide to React JS with TypeScript, Final Project, Testing & Best Practices",
+    "languages": [
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "How-Create-Discord-Bot",
+    "url": "https://github.com/Sobhan-SRZA/How-Create-Discord-Bot",
+    "description": "In This Project I Show You How We Can Create Discord Bot In discord.js v14",
+    "languages": [
+      "Python",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 12,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Instagram-Downloader",
+    "url": "https://github.com/Sobhan-SRZA/Instagram-Downloader",
+    "description": "A tool for downloding instagram reels. (Alert: I have no idea why this code couldn't work so don't mention it.) ",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 2,
+    "forks": 1
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Machine-Learning-Color-Contrast-Picker",
+    "url": "https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker",
+    "description": "An AI learning machine with choosing best color text for random background colors.",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Music-Player-In-Website",
+    "url": "https://github.com/Sobhan-SRZA/Music-Player-In-Website",
+    "description": "Simple player for website using html, css and javascript.",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 5,
+    "forks": 2
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Perimeter-and-Area",
+    "url": "https://github.com/Sobhan-SRZA/Perimeter-and-Area",
+    "description": "Calculate the perimeter and area of the rectangle in c++.",
+    "languages": [
+      "C++"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 4,
+    "forks": 1
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Online-Shop",
+    "url": "https://github.com/Sobhan-SRZA/Online-Shop",
+    "description": "A full-stack e-commerce web application, This project demonstrates modern web development practices, including RESTful API design, TypeScript integration, and database management with Prisma and SQLite. It includes core e-commerce features such as product management, user authentication, and a shopping cart.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Personal-Website",
+    "url": "https://github.com/Sobhan-SRZA/Personal-Website",
+    "description": "This is simple personal website with github template.",
+    "languages": [
+      "CSS",
+      "HTML"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 8,
+    "forks": 3
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Portfolio",
+    "url": "https://github.com/Sobhan-SRZA/Portfolio",
+    "description": "Portfolio of Mr. Sinre (Sobhan-SRZA) - Developer, content creator, and Discord bot enthusiast. Discover my biography, projects, and social profiles.",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Portfolio-ImpressJs",
+    "url": "https://github.com/Sobhan-SRZA/Portfolio-ImpressJs",
+    "description": "A portfolio webpage powered by impress.js. (This web page is not good)",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Simple-Website-Using-React",
+    "url": "https://github.com/Sobhan-SRZA/Simple-Website-Using-React",
+    "description": "This is my first project in react.",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 4,
+    "forks": 1
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Telegram-RoBot-Handler",
+    "url": "https://github.com/Sobhan-SRZA/Telegram-RoBot-Handler",
+    "description": "Make telegram robot with telegraf.js and my custom handlers.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "template-bot",
+    "url": "https://github.com/Sobhan-SRZA/template-bot",
+    "description": "Scaffolding out a Telegram bot",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-1",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-1",
+    "description": "partnership setup and checker, send custom message in channel, anti link, anti spam, custom comamnd",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-2",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-2",
+    "description": "MTA discord bot with ability to show active player of server.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-3",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-3",
+    "description": "Utility bot.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-4",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-4",
+    "description": "An uploader bot.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-5",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-5",
+    "description": "attacker bot",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-6",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-6",
+    "description": "custom robot with custom role for admins",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-7",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-7",
+    "description": "This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-8",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-8",
+    "description": "Music player on discord with custom channel feature.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-9",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-9",
+    "description": "this is a link uploader with fun commands.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-Bot-10",
+    "url": "https://github.com/Sobhan-SRZA/Customer-Bot-10",
+    "description": "custom self bot have fun, moderation, music, streamming cmds",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  }
 ]
