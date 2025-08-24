@@ -1,0 +1,33 @@
+name: Update Projects JSON
+
+on:
+  schedule:
+    - cron: "*/10 * * * *" # هر 10 دقیقه
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install node-fetch @octokit/rest
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node update-projects.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add projects.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Projects" && git push)
