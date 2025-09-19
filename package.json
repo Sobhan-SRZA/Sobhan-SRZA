@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Sobhan-SRZA/Sobhan-SRZA#readme",
   "dependencies": {
     "@octokit/rest": "^22.0.0",
+    "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2"
   },
   "type": "module"
