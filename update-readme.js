@@ -1,3 +1,5 @@
+const fs = require("fs")
+
 function readme(repositorise) {
   const contactFile = fs.readFileSync("./contact.txt")
   return `<div align='center'>
