@@ -266,6 +266,25 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "name": "telegram-message-editor",
+    "url": "https://github.com/Sobhan-SRZA/telegram-message-editor",
+    "description": "A Telegram automation tool to edit channel messages by appending custom text while preserving formatting, with support for ignoring specific content.",
+    "description_fa": "یک ابزار خودکار برای تلگرام که پیام‌های کانال را ویرایش کرده و متن دلخواه را به آن‌ها اضافه می‌کند، در حالی که قالب‌بندی اصلی حفظ می‌شود. همچنین امکان نادیده گرفتن بخش‌های مشخصی از محتوا را پشتیبانی می‌کند.",
+    "description_en": "A Telegram automation tool to edit channel messages by appending custom text while preserving formatting, with support for ignoring specific content.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
     "name": "Anonymous-Chat-Bot",
     "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
     "description": "A Telegram bot for anonymous chatting with referral system and profile-based random chat.",
