@@ -1,4 +1,4 @@
-const fs = require("fs")
+import fs from "fs";
 
 function readme(repositorise) {
   const contactFile = fs.readFileSync("./contact.txt")
