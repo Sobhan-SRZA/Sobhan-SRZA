@@ -25,7 +25,7 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-01",
     "url": "https://github.com/Persian-Caesar/Customer-01",
-    "description": "forwards new Discord member join events to Telegram using aiohttp requests",
+    "description": "Forwards new Discord member join events to Telegram using aiohttp requests.",
     "description_fa": "ارسال اعلان ورود اعضای جدید دیسکورد به تلگرام با استفاده از درخواست‌های aiohttp.",
     "description_en": "A lightweight bridge that forwards new Discord member join events to Telegram via async HTTP requests.",
     "languages": [
@@ -41,7 +41,7 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-01.5",
     "url": "https://github.com/Persian-Caesar/Customer-01.5",
-    "description": "detects new Discord ticket channels and sends formatted notifications to Telegram",
+    "description": "Detects new Discord ticket channels and sends formatted notifications to Telegram.",
     "description_fa": "تشخیص ساخت چنل‌های تیکت جدید در دیسکورد و ارسال اعلان قالب‌بندی‌شده به تلگرام.",
     "description_en": "A simple notifier that detects newly created Discord ticket channels and forwards detailed notifications to Telegram.",
     "languages": [
