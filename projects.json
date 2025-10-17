@@ -278,8 +278,32 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "organization": "Persian-Caesar",
+    "name": "Arta-Omran-Varaq",
+    "url": "https://github.com/Persian-Caesar/Arta-Omran-Varaq",
+    "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
+    "description_fa": "وب‌سایت رسمی شرکت آرتا عمران ورق (سوله‌سازی) برای معرفی خدمات، پروژه‌ها و اطلاعات تماس شرکت؛ طراحی شده برای استفاده سازمانی.",
+    "description_en": "The official website for Arta Omran Varaq (a steel/warehouse construction company) to showcase services, projects and contact information.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "organization":"Persian-Caesar",
     "name": "daramet-discord-bot",
-    "url": "https://github.com/Sobhan-SRZA/daramet-discord-bot",
+    "url": "https://github.com/Persian-Caesar/daramet-discord-bot",
     "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
     "description_fa": "ربات رسمی برای اتصال به پلتفرم دارمت جهت دریافت و نمایش اعلان‌ها در دیسکورد؛ نوشته‌شده با Node.js و مناسب برای یکپارچه‌سازی اطلاع‌رسانی.",
     "description_en": "A Discord bot for integrating with the Daramet platform to receive and display notifications; built with Node.js for seamless notification handling.",
@@ -657,23 +681,6 @@
     "private": false,
     "status": "✅ Done",
     "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Arta-Omran-Varaq",
-    "url": "https://github.com/Sobhan-SRZA/Arta-Omran-Varaq",
-    "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
-    "description_fa": "وب‌سایت رسمی شرکت آرتا عمران ورق (سوله‌سازی) برای معرفی خدمات، پروژه‌ها و اطلاعات تماس شرکت؛ طراحی شده برای استفاده سازمانی.",
-    "description_en": "The official website for Arta Omran Varaq (a steel/warehouse construction company) to showcase services, projects and contact information.",
-    "languages": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
     "forks": 0
   },
   {
