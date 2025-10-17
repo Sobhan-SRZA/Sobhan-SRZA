@@ -55,6 +55,66 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
+    "name": "Customer-02",
+    "url": "https://github.com/Persian-Caesar/Customer-02",
+    "description": "An asynchronous Python script to monitor and find arbitrage opportunities by comparing perpetual futures funding rates across multiple exchanges (Toobit, LBank, XT, Bitunix) and reporting differences greater than 0.25 to Telegram.",
+    "description_fa": "اسکریپت پایتون آسنکرون برای پایش و یافتن فرصت‌های آربیتراژ با مقایسه فاندینگ ریت قراردادهای آتی دائمی در چندین صرافی (توبیت، ال‌بانک، ایکس‌تی، بیت‌یونیکس) با استفاده از کتابخانه ccxt.pro. این اسکریپت اختلاف‌های بزرگتر از ۰.۲۵ را فیلتر کرده و نتایج را از طریق API خام aiohttp به تلگرام ارسال می‌کند.",
+    "description_en": "Asynchronous Python script using ccxt.pro and aiohttp to monitor perpetual futures funding rates across multiple exchanges (Toobit, LBank, XT, Bitunix), calculate the max difference, filter for differences > 0.25, and send formatted alerts to Telegram.",
+    "languages": [
+      "Python"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "organization": "Persian-Caesar",
+    "name": "Customer-03",
+    "url": "https://github.com/Persian-Caesar/Customer-03",
+    "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
+    "description_fa": "وب‌سایت رسمی شرکت آرتا عمران ورق (سوله‌سازی) برای معرفی خدمات، پروژه‌ها و اطلاعات تماس شرکت؛ طراحی شده برای استفاده سازمانی.",
+    "description_en": "The official website for Arta Omran Varaq (a steel/warehouse construction company) to showcase services, projects and contact information.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "NPM"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "organization": "Persian-Caesar",
+    "name": "Customer-04",
+    "url": "https://github.com/Persian-Caesar/Customer-04",
+    "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
+    "description_fa": "ربات رسمی برای اتصال به پلتفرم دارمت جهت دریافت و نمایش اعلان‌ها در دیسکورد؛ نوشته‌شده با Node.js و مناسب برای یکپارچه‌سازی اطلاع‌رسانی.",
+    "description_en": "A Discord bot for integrating with the Daramet platform to receive and display notifications; built with Node.js for seamless notification handling.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
     "name": "All-For-One-Bot",
     "url": "https://github.com/Persian-Caesar/All-For-One-Bot",
     "description": "This source is full discord bot and can do anything you want.",
@@ -274,50 +334,6 @@
     "private": false,
     "status": "✅ Done",
     "stars": 2,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "organization": "Persian-Caesar",
-    "name": "Arta-Omran-Varaq",
-    "url": "https://github.com/Persian-Caesar/Arta-Omran-Varaq",
-    "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
-    "description_fa": "وب‌سایت رسمی شرکت آرتا عمران ورق (سوله‌سازی) برای معرفی خدمات، پروژه‌ها و اطلاعات تماس شرکت؛ طراحی شده برای استفاده سازمانی.",
-    "description_en": "The official website for Arta Omran Varaq (a steel/warehouse construction company) to showcase services, projects and contact information.",
-    "languages": [
-      "HTML",
-      "CSS",
-      "TypeScript",
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "NPM"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "organization":"Persian-Caesar",
-    "name": "daramet-discord-bot",
-    "url": "https://github.com/Persian-Caesar/daramet-discord-bot",
-    "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
-    "description_fa": "ربات رسمی برای اتصال به پلتفرم دارمت جهت دریافت و نمایش اعلان‌ها در دیسکورد؛ نوشته‌شده با Node.js و مناسب برای یکپارچه‌سازی اطلاع‌رسانی.",
-    "description_en": "A Discord bot for integrating with the Daramet platform to receive and display notifications; built with Node.js for seamless notification handling.",
-    "languages": [
-      "TypeScript",
-      "JavaScript"
-    ],
-    "technologies": [
-      "NPM",
-      "Node.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
     "forks": 0
   },
   {
