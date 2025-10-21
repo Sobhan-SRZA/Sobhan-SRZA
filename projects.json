@@ -377,6 +377,21 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "name": "Project-Snapshotter",
+    "url": "https://github.com/Sobhan-SRZA/Project-Snapshotter",
+    "description": "A Pytyhon utility that recursively scans a project directory and consolidates all text-based files into a single, formatted .txt file. It intelligently respects .gitignore rulse (or custom exclusions) to skip binaries and non-essential files (e.g., node_modules). The output is ideal for sharing or feeding into LLMs.",
+    "description_fa": "یک اسکریپت پایتون برای تجمیع تمام فایل های متنی یک پروژه در یک فایل .txt واحد. این ابزار به صورت هوشمند قوانین .gitignore (یا لیست سفارشی) را رعایت کرده و فایل های غیر ضروری (مثل node_modules و باینری ها) را نادیده میگیرد. خروجی برای اشتراک گذاری یا مدل های هوش مصنوعیی (LLMs) ایده آل است.",
+    "description_en": "A Pytyhon utility that recursively scans a project directory and consolidates all text-based files into a single, formatted .txt file. It intelligently respects .gitignore rulse (or custom exclusions) to skip binaries and non-essential files (e.g., node_modules). The output is ideal for sharing or feeding into LLMs.",
+    "languages": [
+      "Python"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
     "name": "jalali-datepicker-widget",
     "url": "https://github.com/Sobhan-SRZA/jalali-datepicker-widget",
     "description": "A lightweight and simple Jalali (Shamsi/Persian) date picker widget built with HTML, CSS, JavaScript (with jQuery and PersianDate).",
