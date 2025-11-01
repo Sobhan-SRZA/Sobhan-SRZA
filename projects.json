@@ -45,7 +45,11 @@
     "description_fa": "تشخیص ساخت چنل‌های تیکت جدید در دیسکورد و ارسال اعلان قالب‌بندی‌شده به تلگرام.",
     "description_en": "A simple notifier that detects newly created Discord ticket channels and forwards detailed notifications to Telegram.",
     "languages": [
-      "Python"
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -83,8 +87,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -104,7 +107,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": true,
@@ -124,7 +126,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -144,7 +145,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -164,7 +164,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -184,11 +183,10 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
-    "status": "✅ Done",
+    "status": "⚒ Working...",
     "stars": 7,
     "forks": 1
   },
@@ -204,11 +202,10 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
-    "status": "✅ Done",
+    "status": "⚒ Working...",
     "stars": 78,
     "forks": 13
   },
@@ -225,7 +222,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": true,
@@ -245,7 +241,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": true,
@@ -265,7 +260,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": true,
@@ -347,7 +341,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -367,7 +360,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -551,8 +543,7 @@
       "CSS"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -570,7 +561,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -590,7 +580,6 @@
       "TypeScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -609,7 +598,6 @@
       "JavaScript"
     ],
     "technologies": [
-      "NPM",
       "Node.js"
     ],
     "private": false,
@@ -756,8 +744,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -827,8 +814,7 @@
       "TypeScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -861,7 +847,11 @@
     "languages": [
       "CSS",
       "HTML",
-      "JavaScript"
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Node.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -914,8 +904,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -934,8 +923,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -953,8 +941,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -972,8 +959,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -991,8 +977,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1010,8 +995,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1029,8 +1013,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1048,8 +1031,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1067,8 +1049,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1086,8 +1067,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1105,8 +1085,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1125,8 +1104,7 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js",
-      "NPM"
+      "Node.js"
     ],
     "private": true,
     "status": "✅ Done",
