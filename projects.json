@@ -174,13 +174,14 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
-    "name": "Radio-Bot",
-    "url": "https://github.com/Persian-Caesar/Radio-Bot",
+    "name": "Padio",
+    "url": "https://github.com/Persian-Caesar/Padio",
     "description": "This is an advanced radio bot for Discord voice channels, allowing users to enjoy a wide variety of trending online radios with high quality and seamless performance.",
     "description_fa": "رباتی پیشرفته برای پخش ایستگاه‌های رادیویی آنلاین در کانال‌های صوتی دیسکورد؛ پشتیبانی از ایستگاه‌های محبوب با پخش پایدار و کیفیت مناسب.",
     "description_en": "An advanced Discord radio bot for streaming a wide range of trending online radio stations into voice channels with steady performance and good quality.",
     "languages": [
-      "JavaScript"
+      "JavaScript",
+      "TypeScript"
     ],
     "technologies": [
       "Node.js"
