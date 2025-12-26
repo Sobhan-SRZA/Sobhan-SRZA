@@ -137,6 +137,8 @@ Tailwind CSS • React (basic)
 <details>
 <summary><b>📁 Click to expand</b></summary>
 
+<br/>
+
 | 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | [Aparat.JS](https://github.com/aparatjs/aparat.js) | `An NPM package that bundles various Aparat website services into a single, easy-to-use module, enabling developers to integrate Aparat features quickly and freely.` | **✅ Done** | **🌐 Public** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used NPM](images/npm.svg) ![Used Node.js](images/node.js.svg) | ![Stars](https://img.shields.io/github/stars/aparatjs/Aparat.JS?style=flat-square) | ![Forks](https://img.shields.io/github/forks/aparatjs/Aparat.JS?style=flat-square) |
@@ -202,6 +204,8 @@ Tailwind CSS • React (basic)
 | 61 | [Customer-Bot-8](https://github.com/Sobhan-SRZA/Customer-Bot-8) | `A Discord music player bot supporting custom playback channels and straightforward playback controls.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) | `none` | `none` |
 | 62 | [Customer-Bot-9](https://github.com/Sobhan-SRZA/Customer-Bot-9) | `A link uploader bot augmented with fun commands for user interaction.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) | `none` | `none` |
 | 63 | [Customer-Bot-10](https://github.com/Sobhan-SRZA/Customer-Bot-10) | `A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.` | **✅ Done** | **🔒 Private** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) | `none` | `none` |
+
+<br/>
 
 </details>
 
