@@ -103,7 +103,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "React"
     ],
     "private": true,
     "status": "✅ Done",
@@ -261,7 +262,7 @@
       "Node.js"
     ],
     "private": true,
-    "status": "⚒ Working...",
+    "status": "✅ Done",
     "stars": 0,
     "forks": 0
   },
@@ -560,7 +561,8 @@
       "CSS"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "React"
     ],
     "private": false,
     "status": "✅ Done",
@@ -831,7 +833,9 @@
       "TypeScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "React",
+      "Nest"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -868,7 +872,8 @@
       "TypeScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "React"
     ],
     "private": false,
     "status": "✅ Done",
