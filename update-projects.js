@@ -5,10 +5,15 @@ const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = "Sobhan-SRZA";
 const REPO_NAME = "Sobhan-SRZA";
 const FILE_PATH = "projects.json";
-const UPDATE_INTERVAL = 10 * 60 * 1000;
 
 const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
+/**
+ * 
+ * @param {string} organization 
+ * @param {string} repository 
+ * @returns {Promise<{stars: number; forks: number;}>}
+ */
 const getRepositoryData = async (organization, repository) => {
   try {
     const response = await fetch(
@@ -21,12 +26,14 @@ const getRepositoryData = async (organization, repository) => {
         }
       }
     );
+
     if (!response.ok) {
       console.warn(`Failed to fetch repo data for ${organization}/${repository}`);
       return { stars: 0, forks: 0 };
     }
 
     const data = await response.json();
+
     return {
       stars: data.stargazers_count || 0,
       forks: data.forks_count || 0,
@@ -39,6 +46,10 @@ const getRepositoryData = async (organization, repository) => {
   }
 };
 
+/**
+ * 
+ * @returns {Promise<Object>}
+ */
 const getProjectsFile = async () => {
   try {
     const { data } = await octokit.repos.getContent({
@@ -53,10 +64,16 @@ const getProjectsFile = async () => {
 
   catch (error) {
     console.error(`Error fetching ${FILE_PATH}:`, error.message);
+
     throw error;
   }
 };
 
+/**
+ * 
+ * @param {[]} projects 
+ * @param {{}} sha 
+ */
 const updateProjectsFile = async (projects, sha) => {
   try {
     await octokit.repos.createOrUpdateFileContents({
@@ -73,10 +90,14 @@ const updateProjectsFile = async (projects, sha) => {
 
   catch (error) {
     console.error(`Error updating ${FILE_PATH}:`, error.message);
+
     throw error;
   }
 };
 
+/**
+ * Update the projects.json file.
+ */
 const updateProjects = async () => {
   console.log(`Starting update at ${new Date().toISOString()}`);
   try {

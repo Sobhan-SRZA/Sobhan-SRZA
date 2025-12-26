@@ -1,50 +1,111 @@
 import fs from "fs";
 
+/**
+ * Generate new readme file string text.
+ * @param {string} repositorise 
+ * @returns {string}
+ */
 function readme(repositorise) {
-  return `<div align='center'>
- <a href="https://srza.ir" target="_blank">
-  <img src="images/welcome.svg" alt="Typing SVG">
- </a>
-</div>
+  return `
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4f46e5">Sobhan Rasoulzadeh Asl</span>
+</h1>
 
-<h1 align="center">About Me</h1>
+<p align="center">
+  <b>Full-stack Developer</b> • Discord & Telegram Bots • APIs • Automation
+</p>
 
-Hello my friend👋🏻, I am **Mr.Sinre** and my real name is **Sobhan**.
-
-I am an ESFJ-A personality type. 
-I hate proud and lying people and I hate this behavior myself.
-I am not a very warm or cold person, but I communicate with everyone just like a normal person.
-
-How did I get into coding? Well, my beginning goes back to 2021 when I was scrolling through YouTube, discovered Discord, and created an account. Soon after, I began experimenting by building bots for my server and quickly fell in love with programming.
-
----
-
-<h1 align="center">My Journey</h1>
-
-Hello, I'm Sobhan, also known as Mr.Sinre or sometimes Sobhan-SRZA.  
-I was born on November 22, 2005, and as I write this in 2025, I'm 19 years and 5 months old.  
-From a very early age, I have been passionate about coding — it's the activity I love most. Alongside programming, I enjoy watching movies, anime, and sports as well as reading books. In my free time, I engage in gaming and immerse myself in music while pondering about the future.
-
-My journey in creating content started in 2018 under the name **S.R.Z.A**. Initially, I created videos on Aparat, and even though early success came without monetary gains, it motivated me to explore further opportunities — eventually leading me to experiment with Instagram and YouTube. I dived into the world of Discord, learning about server configurations and bot development.  
-
-I began by creating a Python bot, which fascinated me as I could see my code changes in action immediately. Over time, I expanded my skills to include JavaScript and other languages while building various Discord bots for music, moderation, and other utilities. I even ventured into projects that mixed gaming content with bot functionalities — each step further fueling my passion for programming.
-
-> Despite facing academic challenges and a few setbacks, my persistent drive pushed me to keep learning and evolving. Today, I actively work on projects like [**HyCom**](https://hycom.ir/), [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=1241112292616044695
-) [\`source code\`](https://github.com/Persian-Caesar/Ticker-Boy), [**DJ Boy**](https://discord.com/oauth2/authorize?client_id=1240775406454312961
-) [\`source code\`](https://github.com/Persian-Caesar/DJ-Boy), and [**Padio**](https://discord.com/oauth2/authorize?client_id=1282618377654898731) [\`source code\`](https://github.com/Persian-Caesar/Radio-Bot), all reflecting my ongoing journey in the world of coding and digital content creation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=flat&logo=discord&logoColor=white"/>
+</p>
 
 ---
 
-<h1 align="center">Repositories</h1>
-<div align="center">
+## 🧠 About Me
 
-${repositorise}                
+I'm a **problem-solver developer** focused on building **real-world, production-ready systems**.
 
-</div>
+I started programming in **2021** and since then I’ve been designing and developing:
+- scalable bots
+- automation tools
+- APIs
+- and dashboards
+
+My priority is always **clean architecture, maintainability, and performance** — not just “it works”.
 
 ---
 
-<h1 align="center">Coding Activity</h1>
+## 💼 What I Can Help You With
+
+<p>
+  🤖 <b>Discord Bots</b> — music, moderation, ticket systems, automation  
+
+  📡 <b>Telegram Bots</b> — notifications, integrations, utilities  
+
+  🌐 <b>Web Apps & Dashboards</b> — admin panels, tools  
+
+  🔌 <b>API Development</b> — REST APIs, third-party integrations  
+
+  🔁 <b>Real-time Systems</b> — webhooks, events, live updates  
+
+  🛠 <b>Refactoring</b> — improving existing Node.js projects  
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **[Aparat.JS](https://github.com/aparatjs/aparat.js)**  
+📦 NPM package providing clean and simple access to Aparat services
+
+🔹 **[Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy)**  
+🎫 Advanced Discord ticket system with configurable workflows
+
+🔹 **[DJ Boy](https://github.com/Persian-Caesar/DJ-Boy)**  
+🎶 Music bot with smart voice-channel management
+
+🔹 **[Padio](https://github.com/Persian-Caesar/Padio)**  
+📻 Online radio streaming bot for Discord servers
+
+🔹 **[HyCom](https://hycom.ir/)**  
+⚙️ Private automation & utility Discord bot (production use)
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+</p>
+
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+</p>
+
+- Discord.js • Telegraf  
+- REST APIs • Webhooks  
+
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+</p>
+
+Tailwind CSS • React (basic)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
   <div align="center">
@@ -59,25 +120,6 @@ ${repositorise}
          <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
       </a>
     </div>
-    <div>
-      <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCqDgeKYxedZMS1Gm2WNJ3qg?logo=youtube&logoColor=red&style=for-the-badge">
-      </a>
-      <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-        <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
-      </a>
-      <a href="https://srza.ir" target="_blank">
-        <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=https://srza.ir&style=for-the-badge">
-      </a>
-     </div>
-     <div>
-      <a href="https://discord.com/invite/xh2S2h67UW" target="_blank">
-        <img src="https://badgen.net/discord/members/xh2S2h67UW?style=for-the-badge">
-      </a>
-      <a href="https://discord.com/invite/54zDNTAymF" target="_blank">
-        <img src="https://badgen.net/discord/members/54zDNTAymF?style=for-the-badge">
-      </a>
-    </div>
   </div>
   <div align="center">
     <div>
@@ -85,8 +127,6 @@ ${repositorise}
     </div>
   </div>
 </div>
-
-
 
 <div align="center">
  <div align="center">
@@ -100,83 +140,34 @@ ${repositorise}
 
 ---
 
-<div align="center">
- 
-# **Contact me in**
-<div align="center">
-  <a href="https://srza.ir" target="_blank">
-   <img align="left" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/social.png" alt="Sobhan-SRZA social" width=400px>
-  </a>
+## 📂 All Repositories
 
-  <a href="https://t.me/d_opa_mine" target="_blank">
-   <img alt="Telegram"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/telegram-ch.svg"
-    height="30" />
-  </a>
+<details>
+<summary><b>📁 Click to expand</b></summary>
 
-  <a href="https://t.me/Sobhan_SRZA" target="_blank">
-   <img alt="Telegram"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/telegram-ac.svg"
-    height="30" />
-  </a>
+${repositorise}
 
-  <a href="https://www.instagram.com/mr.sinre?igsh=cWk1aHdhaGRnOGg%3D&utm_source=qr" target="_blank">
-   <img alt="Instagram"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/instagram.svg"
-    height="30" />
-  </a>
-
-  <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-   <img alt="Twitch"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/twitch.svg"
-    height="30" />
-  </a>
-
-  <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
-   <img alt="YouTube"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/youtube.svg"
-    height="30" />
-  </a>
-  
-  <a href="https://github.com/Sobhan-SRZA" target="_blank">
-   <img alt="Github"
-    src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/github.svg"
-    height="30" />
-  </a>
-  
-  <p align="left">
-   <a href="https://discord.gg/xh2S2h67UW" target="_blank">
-    <img src="https://discord.com/api/guilds/1054814674979409940/widget.png?style=banner2" alt="pc-development.png">
-   </a>
-  </p>
-
-  <p align="right">
-   <a href="https://discord.gg/54zDNTAymF" target="_blank">
-    <img src="https://discord.com/api/guilds/1181764925874507836/widget.png?style=banner2" alt="pc-club.png">
-   </a>
-  </p>
-
-  <div align="center">
-   <a href="https://discord.com/users/865630940361785345" target="_blank">
-    <img alt="My Discord Account" src="https://discord.c99.nl/widget/theme-1/865630940361785345.png" />
-   </a>
-    <a href="https://discord.com/users/986314682547716117" target="_blank" align="right">
-    <img alt="Team Discord Account" src="https://discord.c99.nl/widget/theme-1/986314682547716117.png" />
-   </a>
-  </div>
-
-</div>
-
+</details>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Sobhan-SRZA">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/output/github-contribution-grid-snake-dark.svg"  />
-  </a>
-</div>`;
+## 📬 Contact Me
+
+<p>
+  🌐 Website: <a href="https://srza.ir">srza.ir</a><br/>
+  💬 Discord: <a href="https://discord.com/users/865630940361785345"><b>mr.sinre</b></a><br/>
+  📩 Telegram: <a href="https://t.me/Sobhan_SRZA">@Sobhan_SRZA</a>
+</p>
+
+  `;
 }
 
+/**
+ * 
+ * @param {{private: boolean; languages: string[]; technologies: string[]; organization: string; name: string; owner: string; description: string; description_en: string; url: string;}[]} repos 
+ * @param {string} imagesPath 
+ * @returns {Promise<string>}
+ */
 async function generateMarkdownTable(repos, imagesPath) {
   const table = [];
   table.push("| 🔢 | 🗃 Projects | 📖 Describe | 📡 Status | 🔐 Access | 🌎 Language | ⚙️ Technology | ⭐ Stars | 🖨 Forks |");
@@ -219,7 +210,9 @@ async function main() {
     console.log("\n");
     console.log(`loaded repositorise size: ${repos.length}`);
     console.log('README.md has successfully created.');
-  } catch (error) {
+  }
+
+  catch (error) {
     console.error('get an error:', error);
   }
 }

@@ -73,6 +73,22 @@
     "forks": 0
   },
   {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-02.5",
+    "url": "https://github.com/Persian-Caesar/Customer-02.5",
+    "description": "A powerful Telegram bot that monitors perpetual futures funding rates across multiple exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). It detects arbitrage opportunities, analyzes market sentiment (long/short ratios, OI, CVD, volume), and sends detailed, human-readable reports with professional formatting and emojis. Fully asynchronous, optimized for low RAM, and production-ready.",
+    "description_fa": "بات حرفه‌ای تلگرامی برای تحلیل و شناسایی فرصت‌های آربیتراژ نرخ فاندینگ در قراردادهای پرپچوال فیوچرز. نظارت بر صرافی‌های Binance، MEXC، BingX، LBank، Toobit، XT و CoinLocally. تشخیص اختلاف‌های سودآور، تحلیل سنتیمنت بازار (نسبت لانگ/شورت، OI، CVD، ولوم) و ارسال گزارش‌های دقیق و زیبا با ایموجی و فرمت مارک‌داون. کاملاً async، کم‌مصرف رم و آماده پروداکشن.",
+    "description_en": "A professional Telegram bot for monitoring and analyzing perpetual futures funding rates across major exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). Detects profitable arbitrage opportunities, provides in-depth market sentiment analysis (long/short ratios, open interest, CVD, volume), and delivers clear, visually appealing reports with emojis and proper MarkdownV2 formatting. Built with asyncio for high performance, low memory usage, and production-grade reliability.",
+    "languages": [
+      "Python"
+    ],
+    "private": true,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
     "owner": "Sobhan-SRZA",
     "organization": "Persian-Caesar",
     "name": "Customer-03",
