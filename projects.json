@@ -49,7 +49,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -104,7 +105,7 @@
     ],
     "technologies": [
       "Node.js",
-      "React"
+      "React.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -124,7 +125,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -143,7 +145,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -162,7 +165,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -181,7 +185,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -201,7 +206,8 @@
       "TypeScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -220,7 +226,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -240,7 +247,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -259,7 +267,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -278,7 +287,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "⚒ Working...",
@@ -378,7 +388,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Telegraf.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -562,7 +573,7 @@
     ],
     "technologies": [
       "Node.js",
-      "React"
+      "React.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -580,7 +591,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -599,7 +611,8 @@
       "TypeScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -617,7 +630,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -728,9 +742,6 @@
     "description": "A Complete Beginner's Guide to React JS with TypeScript, Final Project, Testing & Best Practices",
     "description_fa": "راهنمای کامل مبتدی برای یادگیری React.js همراه با TypeScript، پروژهٔ نهایی، تست‌ها و بهترین شیوه‌ها برای توسعهٔ تولیدی.",
     "description_en": "A comprehensive beginner's guide to React.js including TypeScript integration, a final project, testing examples and best practices.",
-    "languages": [
-      "JavaScript"
-    ],
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -743,10 +754,6 @@
     "description": "In This Project I Show You How We Can Create Discord Bot In discord.js v14",
     "description_fa": "پروژه‌ای آموزشی که روند ایجاد بات دیسکورد با استفاده از discord.js v14 را نشان می‌دهد؛ شامل مثال‌ها و راهنمای گام‌به‌گام.",
     "description_en": "An educational project demonstrating how to create a Discord bot with discord.js v14, including step-by-step examples and guidance.",
-    "languages": [
-      "Python",
-      "JavaScript"
-    ],
     "private": false,
     "status": "✅ Done",
     "stars": 13,
@@ -834,8 +841,8 @@
     ],
     "technologies": [
       "Node.js",
-      "React",
-      "Nest"
+      "React.js",
+      "Nest.js"
     ],
     "private": false,
     "status": "⚒ Working...",
@@ -873,7 +880,7 @@
     ],
     "technologies": [
       "Node.js",
-      "React"
+      "React.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -926,7 +933,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Telegraf.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -945,7 +953,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Telegraf.js"
     ],
     "private": false,
     "status": "✅ Done",
@@ -963,7 +972,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -981,7 +991,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -999,7 +1010,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1017,7 +1029,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1035,7 +1048,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1053,7 +1067,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1071,7 +1086,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1089,7 +1105,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1107,7 +1124,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
@@ -1126,7 +1144,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Discord.js"
     ],
     "private": true,
     "status": "✅ Done",
