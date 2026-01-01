@@ -965,9 +965,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-01",
     "url": "https://github.com/Sobhan-SRZA/Customer-01",
-    "description": "partnership setup and checker, send custom message in channel, anti link, anti spam, custom comamnd",
-    "description_fa": "رباتی سفارشی برای مشتری با ویژگی‌هایی مثل تنظیم شراکت، بررسی وضعیت، ارسال پیام سفارشی، ضدلینک و ضد اسپم و دستورات اختصاصی.",
-    "description_en": "A custom customer bot featuring partnership setup/checker, custom channel messages, anti-link/anti-spam and bespoke commands.",
+    "description": "ربات مدیریت دیسکورد با سیستم تبادل پارتنرشیپ، مدیریت حرفه‌ای اعضا، آنتی‌لینک/اسپم، کاستوم کامند و سیستم تیکت پیشرفته از طریق DM.",
+    "description_fa": "یک ربات مدیریت سرور دیسکورد حرفه‌ای است که امکان تبادل بنر پارتنرشیپ، مدیریت اعضا (بن، کیک، تایم‌اوت)، ساخت دستورات دلخواه، جلوگیری از لینک و اسپم و سیستم تیکت مستقیم از طریق DM ربات را فراهم می‌کند.",
+    "description_en": "A professional Discord server management bot featuring partnership banner exchange, advanced member moderation (ban, kick, timeout), custom commands, anti-link/spam protection, and a powerful DM-based ticket system.",
     "languages": [
       "JavaScript"
     ],
