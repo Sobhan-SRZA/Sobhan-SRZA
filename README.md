@@ -69,6 +69,7 @@ My priority is always **clean architecture, maintainability, and performance** �
 
 ## 🧰 Tech Stack
 
+
 ### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
@@ -78,9 +79,13 @@ My priority is always **clean architecture, maintainability, and performance** �
 
 ### ⚙️ Backend & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/express/express-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/npm/npm-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nestjs/nestjs-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original.svg" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlite/sqlite-original.svg" height="36"/>
 </p>
 
 - Discord.js • Telegraf  
@@ -90,6 +95,8 @@ My priority is always **clean architecture, maintainability, and performance** �
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
 </p>
 
@@ -194,16 +201,16 @@ Tailwind CSS • React (basic)
 | 51 | [Simple-Website-Using-React](https://github.com/Sobhan-SRZA/Simple-Website-Using-React) | `The author's first React project — a simple website for practicing core React concepts and component structure.` | **✅ Done** | **🌐 Public** | ![Used CSS](images/css.svg) ![Used HTML](images/html.svg) ![Used JavaScript](images/javascript.svg) | `none` | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Simple-Website-Using-React?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Simple-Website-Using-React?style=flat-square) |
 | 52 | [Telegram-RoBot-Handler](https://github.com/Sobhan-SRZA/Telegram-RoBot-Handler) | `A Telegram bot example built with telegraf.js and custom handlers by the author — suitable for modular bot development.` | **✅ Done** | **🌐 Public** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Telegraf.js](images/telegraf.js.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Telegram-RoBot-Handler?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Telegram-RoBot-Handler?style=flat-square) |
 | 53 | [template-bot](https://github.com/Sobhan-SRZA/template-bot) | `A scaffolding/template for a Telegram bot to quickly start new bot projects with base structure and examples.` | **✅ Done** | **🌐 Public** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Telegraf.js](images/telegraf.js.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/template-bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/template-bot?style=flat-square) |
-| 54 | [Customer-Bot-1](https://github.com/Sobhan-SRZA/Customer-Bot-1) | `A custom customer bot featuring partnership setup/checker, custom channel messages, anti-link/anti-spam and bespoke commands.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 55 | [Customer-Bot-2](https://github.com/Sobhan-SRZA/Customer-Bot-2) | `An MTA-related Discord bot capable of showing active players of a game server directly in Discord.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 56 | [Customer-Bot-3](https://github.com/Sobhan-SRZA/Customer-Bot-3) | `A utility bot offering assorted helper and admin features for general server use.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 57 | [Customer-Bot-4](https://github.com/Sobhan-SRZA/Customer-Bot-4) | `An uploader bot designed to automate content/file uploads in specified workflows.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 58 | [Customer-Bot-5](https://github.com/Sobhan-SRZA/Customer-Bot-5) | `A custom bot built for a client with special internal behaviors (specific internal details are client-confidential).` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 59 | [Customer-Bot-6](https://github.com/Sobhan-SRZA/Customer-Bot-6) | `A custom bot that manages special admin roles and provides tailored administrative features.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 60 | [Customer-Bot-7](https://github.com/Sobhan-SRZA/Customer-Bot-7) | `A Discord bot featuring a bug reporter, voice generation and admin utility options — useful for server management and support.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 61 | [Customer-Bot-8](https://github.com/Sobhan-SRZA/Customer-Bot-8) | `A Discord music player bot supporting custom playback channels and straightforward playback controls.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 62 | [Customer-Bot-9](https://github.com/Sobhan-SRZA/Customer-Bot-9) | `A link uploader bot augmented with fun commands for user interaction.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
-| 63 | [Customer-Bot-10](https://github.com/Sobhan-SRZA/Customer-Bot-10) | `A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.` | **✅ Done** | **🔒 Private** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 54 | [Customer-01](https://github.com/Sobhan-SRZA/Customer-01) | `A custom customer bot featuring partnership setup/checker, custom channel messages, anti-link/anti-spam and bespoke commands.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 55 | [Customer-02](https://github.com/Sobhan-SRZA/Customer-02) | `An MTA-related Discord bot capable of showing active players of a game server directly in Discord.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 56 | [Customer-03](https://github.com/Sobhan-SRZA/Customer-03) | `A utility bot offering assorted helper and admin features for general server use.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 57 | [Customer-04](https://github.com/Sobhan-SRZA/Customer-04) | `An uploader bot designed to automate content/file uploads in specified workflows.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 58 | [Customer-05](https://github.com/Sobhan-SRZA/Customer-05) | `A custom bot built for a client with special internal behaviors (specific internal details are client-confidential).` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 59 | [Customer-06](https://github.com/Sobhan-SRZA/Customer-06) | `A custom bot that manages special admin roles and provides tailored administrative features.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 60 | [Customer-07](https://github.com/Sobhan-SRZA/Customer-07) | `A Discord bot featuring a bug reporter, voice generation and admin utility options — useful for server management and support.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 61 | [Customer-08](https://github.com/Sobhan-SRZA/Customer-08) | `A Discord music player bot supporting custom playback channels and straightforward playback controls.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 62 | [Customer-09](https://github.com/Sobhan-SRZA/Customer-09) | `A Persian Discord bot featuring full moderation tools (ban, kick, timeout, unlock, etc.), fun mini-games (future spouse prediction, age guessing, number guessing), and a customizable anti-swear system. Ready to use, 24/7 online with modern slash commands.` | **✅ Done** | **🔒 Private** | ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
+| 63 | [Customer-10](https://github.com/Sobhan-SRZA/Customer-10) | `A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.` | **✅ Done** | **🔒 Private** | ![Used TypeScript](images/typescript.svg) ![Used JavaScript](images/javascript.svg) | ![Used Node.js](images/node.js.svg) ![Used Discord.js](images/discord.js.svg) | `none` | `none` |
 
 <br/>
 
