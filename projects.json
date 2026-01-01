@@ -85,9 +85,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-04",
     "url": "https://github.com/Persian-Caesar/Customer-04",
-    "description": "An uploader bot.",
-    "description_fa": "رباتی برای آپلود محتوا/فایل‌ها؛ مناسب برای فرایندهای خودکار بارگذاری در محیط‌های مشخص.",
-    "description_en": "An uploader bot designed to automate content/file uploads in specified workflows.",
+    "description": "ربات آپلودر فایل دیسکورد با قابلیت ذخیره لینک فایل‌ها و دریافت با کد اختصاصی، همراه با سیستم تیکت پیشرفته، خوش‌آمدگویی تصویری، ریکشن خودکار، کامندهای سفارشی و ابزارهای مدیریتی کامل.",
+    "description_fa": "ربات حرفه‌ای دیسکورد برای آپلود و اشتراک امن فایل با کد اختصاصی. دارای سیستم تیکت کامل، خوش‌آمدگویی با تصویر سفارشی، مدیریت سرور و امکانات جانبی مانند ریکشن خودکار و گزارش باگ.",
+    "description_en": "A professional Discord file uploader bot that securely stores and shares files via unique codes. Features advanced ticket system, custom welcome images, auto-reactions, server management tools, and bug reporting.",
     "languages": [
       "JavaScript"
     ],
@@ -105,9 +105,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-05",
     "url": "https://github.com/Persian-Caesar/Customer-05",
-    "description": "attacker bot",
-    "description_fa": "رباتی سفارشی با عملکردهای ویژه که برای مشتری طراحی شده (توضیح دقیق عملکرد داخلی مشتری محرمانه است).",
-    "description_en": "A custom bot built for a client with special internal behaviors (specific internal details are client-confidential).",
+    "description": "ربات قدرتمند و حرفه‌ای دیسکورد با قابلیت‌های مدیریتی پیشرفته و امنیت بالا – ساخته شده با Discord.js v14",
+    "description_fa": "ربات حرفه‌ای دیسکورد با امکانات مدیریتی پیشرفته، امنیت بالا و عملکرد پایدار. مناسب برای مدیریت سرورهای بزرگ و کوچک. ساخته شده توسط Sobhan-SRZA برای Persian Caesar.",
+    "description_en": "A powerful and professional Discord bot with advanced management features, high security, and stable performance. Ideal for managing small to large servers. Built by Sobhan-SRZA for Persian Caesar.",
     "languages": [
       "JavaScript"
     ],
@@ -125,9 +125,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-06",
     "url": "https://github.com/Persian-Caesar/Customer-06",
-    "description": "custom robot with custom role for admins",
-    "description_fa": "رباتی سفارشی که نقش‌های اختصاصی برای ادمین‌ها را مدیریت می‌کند و قابلیت‌های مدیریتی ویژه ارائه می‌دهد.",
-    "description_en": "A custom bot that manages special admin roles and provides tailored administrative features.",
+    "description": "بات دیسکورد پیشرفته با پنل موزیک پلیر دائمی، کنترل کامل با دکمه‌های تعاملی، دستورات مدیریتی و سیستم کمک هوشمند. ساخته‌شده با Discord.js v14 و QuickDB.",
+    "description_fa": "ربات حرفه‌ای دیسکورد با پنل موزیک دائمی و کنترل کامل پخش موسیقی از طریق دکمه‌ها. شامل دستورات کمک، پینگ، راه‌اندازی پنل و مدیریت پیشرفته. سریع، پایدار و آماده استفاده.",
+    "description_en": "A professional Discord music bot featuring a permanent music control panel with interactive buttons. Includes help, ping, setup commands, and advanced management features. Fast, stable, and ready to deploy. Built with Discord.js v14.",
     "languages": [
       "JavaScript"
     ],
@@ -145,9 +145,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-07",
     "url": "https://github.com/Persian-Caesar/Customer-07",
-    "description": "This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.",
-    "description_fa": "رباتی با امکاناتی مانند گزارشگر باگ، تولید صوت و ابزارهای مدیریتی برای ادمین‌ها؛ مناسب برای مدیریت و پشتیبانی سرور.",
-    "description_en": "A Discord bot featuring a bug reporter, voice generation and admin utility options — useful for server management and support.",
+    "description": "ربات دیسکورد چندمنظوره با سیستم اقتصاد کامل، مدیریت پیشرفته سرور، وريفای حرفه‌ای، ویس تیکت، ریپورت، ولکام با تصویر، تولد خودکار، مم ژنریتور حرفه‌ای، فال حافظ، گی‌سنج و ده‌ها فیچر سرگرمی و مدیریتی دیگر. ساخته‌شده با discord.js v14 و quick.db.",
+    "description_fa": "ربات حرفه‌ای دیسکورد با امکانات مدیریتی پیشرفته، امنیت بالا و عملکرد پایدار. مناسب برای مدیریت سرورهای بزرگ و کوچک. ساخته شده توسط Sobhan-SRZA برای Persian Caesar.",
+    "description_en": "A powerful and professional Discord bot with advanced management features, high security, and stable performance. Ideal for managing small to large servers. Built by Sobhan-SRZA for Persian Caesar.",
     "languages": [
       "JavaScript"
     ],
@@ -165,9 +165,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-08",
     "url": "https://github.com/Persian-Caesar/Customer-08",
-    "description": "Music player on discord with custom channel feature.",
-    "description_fa": "ربات پخش موسیقی در دیسکورد با قابلیت ایجاد کانال‌های پخش اختصاصی و کنترل ساده پخش.",
-    "description_en": "A Discord music player bot supporting custom playback channels and straightforward playback controls.",
+    "description": "ربات موزیک حرفه‌ای دیسکورد با پنل اختصاصی ثابت. کاربران فقط با ارسال نام آهنگ یا لینک در چنل پنل، موزیک پلی می‌کنند. کنترل کامل با دکمه‌ها (pause, skip, volume, loop, shuffle و ...) و نمایش پروگرس بار زنده. بدون نیاز به دستور /play.",
+    "description_fa": "شایان موزیک بات، یک ربات موزیک پیشرفته دیسکورد با پنل اختصاصی است. کافیست نام آهنگ یا لینک یوتیوب را در چنل پنل ارسال کنید تا آهنگ پخش شود. کنترل کامل پخش (توقف، ولوم، بعدی، قبلی، لوپ، شافل و ...) با دکمه‌های زیبا و نمایش وضعیت زنده.",
+    "description_en": "Shayan Music Bot is an advanced Discord music bot featuring a custom control panel. Simply send a song name or YouTube link in the panel channel to play. Full playback control (pause, volume, skip, previous, loop, shuffle, etc.) with beautiful buttons and live status display.",
     "languages": [
       "JavaScript"
     ],
@@ -205,9 +205,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-10",
     "url": "https://github.com/Persian-Caesar/Customer-10",
-    "description": "custom self bot have fun, moderation, music, streamming cmds",
-    "description_fa": "یک 'self-bot' سفارشی با دستورات سرگرمی، مدریشن، پخش موسیقی و قابلیت‌های استریمینگ (برای استفادهٔ مشتری پیاده‌سازی‌شده).",
-    "description_en": "A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.",
+    "description": "یک سلف‌بات پیشرفته و چندمنظوره دیسکورد با قابلیت‌های موزیک حرفه‌ای، بازی‌های تعاملی (بلک‌جک، سنگ‌کاغذ-قیچی، فال حافظ)، چت‌بات هوشمند، مدیریت سرور، کامندهای سفارشی و سیستم whitelist. ساخته‌شده با discord.js-selfbot-v13 و @persian-caesar/discord-player.",
+    "description_fa": "یک ربات کاربری قدرتمند برای دیسکورد است که امکان پخش موزیک با پنل کامل، بازی‌های سرگرم‌کننده، چت‌بات فارسی، مدیریت حرفه‌ای سرور (بن، کیک، میوت و ...) و افزودن کامندهای دلخواه را فراهم می‌کند. سریع، پایدار و قابل شخصی‌سازی.",
+    "description_en": "A powerful and feature-rich Discord selfbot offering professional music playback with interactive panel, fun games (blackjack, rock-paper-scissors, Hafez fortune), Persian AI chatbot, advanced server moderation, custom commands, and whitelist system. Built with discord.js-selfbot-v13 and @persian-caesar/discord-player.",
     "languages": [
       "TypeScript",
       "JavaScript"
