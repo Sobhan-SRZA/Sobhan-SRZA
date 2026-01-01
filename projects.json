@@ -25,6 +25,207 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-01",
     "url": "https://github.com/Persian-Caesar/Customer-01",
+    "description": "ربات مدیریت دیسکورد با سیستم تبادل پارتنرشیپ، مدیریت حرفه‌ای اعضا، آنتی‌لینک/اسپم، کاستوم کامند و سیستم تیکت پیشرفته از طریق DM.",
+    "description_fa": "یک ربات مدیریت سرور دیسکورد حرفه‌ای است که امکان تبادل بنر پارتنرشیپ، مدیریت اعضا (بن، کیک، تایم‌اوت)، ساخت دستورات دلخواه، جلوگیری از لینک و اسپم و سیستم تیکت مستقیم از طریق DM ربات را فراهم می‌کند.",
+    "description_en": "A professional Discord server management bot featuring partnership banner exchange, advanced member moderation (ban, kick, timeout), custom commands, anti-link/spam protection, and a powerful DM-based ticket system.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-02",
+    "url": "https://github.com/Persian-Caesar/Customer-02",
+    "description": "ربات Discord ساده و حرفه‌ای برای نمایش وضعیت سرور MTA:SA نمایش اطلاعات سرور (نام، بازیکنان، نسخه و ...) و تعداد بازیکنان آنلاین در استاتوس ربات با به‌روزرسانی خودکار.",
+    "description_fa": "ربات دیسکوردی برای نمایش لحظه‌ای وضعیت سرور MTA:SA شامل نام سرور، تعداد بازیکنان آنلاین، نسخه و امکانات دیگر. تعداد بازیکنان به صورت زنده در استاتوس ربات نمایش داده می‌شود.",
+    "description_en": "A clean and efficient bot to display real-time MTA:SA server status: server name, current/max players, version, and more. Automatically updates bot status with live player count.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-03",
+    "url": "https://github.com/Persian-Caesar/Customer-03",
+    "description": "بات یوتیلیتی پیشرفته دیسکورد با سیستم تیکت کامل (منو، ایجاد چنل، Close/Open/Delete)، کامند ارسال پیام/امبد دلخواه، کامندهای سفارشی متنی، ریکشن خودکار و خوش‌آمدگویی خودکار. ساخته‌شده با Discord.js v14 و Quick.DB.",
+    "description_fa": "ربات یوتیلیتی حرفه‌ای دیسکورد با قابلیت‌های سیستم تیکت پیشرفته (با منوی انتخاب دپارتمان)، ارسال پیام و امبد دلخواه، ساخت کامند سفارشی، ریکشن خودکار به پیام‌ها و خوش‌آمدگویی زیبا به اعضای جدید. ساده، سریع و قابل تنظیم.",
+    "description_en": "A powerful Discord utility bot featuring an advanced ticket system (with department select menu), custom embed/message sender, custom text commands, auto-reactions, and beautiful welcome messages. Built with Discord.js v14 and Quick.DB – simple, fast, and fully customizable.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-04",
+    "url": "https://github.com/Persian-Caesar/Customer-04",
+    "description": "An uploader bot.",
+    "description_fa": "رباتی برای آپلود محتوا/فایل‌ها؛ مناسب برای فرایندهای خودکار بارگذاری در محیط‌های مشخص.",
+    "description_en": "An uploader bot designed to automate content/file uploads in specified workflows.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-05",
+    "url": "https://github.com/Persian-Caesar/Customer-05",
+    "description": "attacker bot",
+    "description_fa": "رباتی سفارشی با عملکردهای ویژه که برای مشتری طراحی شده (توضیح دقیق عملکرد داخلی مشتری محرمانه است).",
+    "description_en": "A custom bot built for a client with special internal behaviors (specific internal details are client-confidential).",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-06",
+    "url": "https://github.com/Persian-Caesar/Customer-06",
+    "description": "custom robot with custom role for admins",
+    "description_fa": "رباتی سفارشی که نقش‌های اختصاصی برای ادمین‌ها را مدیریت می‌کند و قابلیت‌های مدیریتی ویژه ارائه می‌دهد.",
+    "description_en": "A custom bot that manages special admin roles and provides tailored administrative features.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-07",
+    "url": "https://github.com/Persian-Caesar/Customer-07",
+    "description": "This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.",
+    "description_fa": "رباتی با امکاناتی مانند گزارشگر باگ، تولید صوت و ابزارهای مدیریتی برای ادمین‌ها؛ مناسب برای مدیریت و پشتیبانی سرور.",
+    "description_en": "A Discord bot featuring a bug reporter, voice generation and admin utility options — useful for server management and support.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-08",
+    "url": "https://github.com/Persian-Caesar/Customer-08",
+    "description": "Music player on discord with custom channel feature.",
+    "description_fa": "ربات پخش موسیقی در دیسکورد با قابلیت ایجاد کانال‌های پخش اختصاصی و کنترل ساده پخش.",
+    "description_en": "A Discord music player bot supporting custom playback channels and straightforward playback controls.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-09",
+    "url": "https://github.com/Persian-Caesar/Customer-09",
+    "description": "سیستم مدیریتی کامل (بن، کیک، تایم‌اوت، آنلاک و ...)، مینی‌گیم‌های سرگرم‌کننده (حدس سن، پیش‌بینی همسر، حدس عدد) و سیستم ضد فحش فارسی قابل تنظیم توسط ادمین. ساخته‌شده با Discord.js v13.",
+    "description_fa": "ربات دیسکورد فارسی با قابلیت‌های مدیریتی قوی، مینی‌گیم‌های جذاب (پیش‌بینی همسر، حدس سن و عدد) و سیستم ضد فحش قابل تنظیم. کاملاً آماده استفاده، ۲۴/۷ آنلاین و با اسلش‌کامندهای مدرن.",
+    "description_en": "A Persian Discord bot featuring full moderation tools (ban, kick, timeout, unlock, etc.), fun mini-games (future spouse prediction, age guessing, number guessing), and a customizable anti-swear system. Ready to use, 24/7 online with modern slash commands.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-10",
+    "url": "https://github.com/Persian-Caesar/Customer-10",
+    "description": "custom self bot have fun, moderation, music, streamming cmds",
+    "description_fa": "یک 'self-bot' سفارشی با دستورات سرگرمی، مدریشن، پخش موسیقی و قابلیت‌های استریمینگ (برای استفادهٔ مشتری پیاده‌سازی‌شده).",
+    "description_en": "A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Discord.js"
+    ],
+    "private": true,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "Customer-11",
+    "url": "https://github.com/Persian-Caesar/Customer-11",
     "description": "Forwards new Discord member join events to Telegram using aiohttp requests.",
     "description_fa": "ارسال اعلان ورود اعضای جدید دیسکورد به تلگرام با استفاده از درخواست‌های aiohttp.",
     "description_en": "A lightweight bridge that forwards new Discord member join events to Telegram via async HTTP requests.",
@@ -39,8 +240,8 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
-    "name": "Customer-01.5",
-    "url": "https://github.com/Persian-Caesar/Customer-01.5",
+    "name": "Customer-11.5",
+    "url": "https://github.com/Persian-Caesar/Customer-11.5",
     "description": "Detects new Discord ticket channels and sends formatted notifications to Telegram.",
     "description_fa": "تشخیص ساخت چنل‌های تیکت جدید در دیسکورد و ارسال اعلان قالب‌بندی‌شده به تلگرام.",
     "description_en": "A simple notifier that detects newly created Discord ticket channels and forwards detailed notifications to Telegram.",
@@ -60,8 +261,8 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
-    "name": "Customer-02",
-    "url": "https://github.com/Persian-Caesar/Customer-02",
+    "name": "Customer-12",
+    "url": "https://github.com/Persian-Caesar/Customer-12",
     "description": "An asynchronous Python script to monitor and find arbitrage opportunities by comparing perpetual futures funding rates across multiple exchanges (Toobit, LBank, XT, Bitunix) and reporting differences greater than 0.25 to Telegram.",
     "description_fa": "اسکریپت پایتون آسنکرون برای پایش و یافتن فرصت‌های آربیتراژ با مقایسه فاندینگ ریت قراردادهای آتی دائمی در چندین صرافی (توبیت، ال‌بانک، ایکس‌تی، بیت‌یونیکس) با استفاده از کتابخانه ccxt.pro. این اسکریپت اختلاف‌های بزرگتر از ۰.۲۵ را فیلتر کرده و نتایج را از طریق API خام aiohttp به تلگرام ارسال می‌کند.",
     "description_en": "Asynchronous Python script using ccxt.pro and aiohttp to monitor perpetual futures funding rates across multiple exchanges (Toobit, LBank, XT, Bitunix), calculate the max difference, filter for differences > 0.25, and send formatted alerts to Telegram.",
@@ -76,8 +277,8 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
-    "name": "Customer-02.5",
-    "url": "https://github.com/Persian-Caesar/Customer-02.5",
+    "name": "Customer-12.5",
+    "url": "https://github.com/Persian-Caesar/Customer-12.5",
     "description": "Telegram bot for monitoring perpetual futures funding rates across exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). Detects arbitrage opportunities, analyzes sentiment (long/short ratios, OI, CVD, volume), and sends clean, formatted reports.",
     "description_fa": "بات حرفه‌ای تلگرامی برای تحلیل و شناسایی فرصت‌های آربیتراژ نرخ فاندینگ در قراردادهای پرپچوال فیوچرز. نظارت بر صرافی‌های Binance، MEXC، BingX، LBank، Toobit، XT و CoinLocally. تشخیص اختلاف‌های سودآور، تحلیل سنتیمنت بازار (نسبت لانگ/شورت، OI، CVD، ولوم) و ارسال گزارش‌های دقیق و زیبا با ایموجی و فرمت مارک‌داون. کاملاً async، کم‌مصرف رم و آماده پروداکشن.",
     "description_en": "A professional Telegram bot for monitoring and analyzing perpetual futures funding rates across major exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). Detects profitable arbitrage opportunities, provides in-depth market sentiment analysis (long/short ratios, open interest, CVD, volume), and delivers clear, visually appealing reports with emojis and proper MarkdownV2 formatting. Built with asyncio for high performance, low memory usage, and production-grade reliability.",
@@ -92,8 +293,8 @@
   {
     "owner": "Sobhan-SRZA",
     "organization": "Persian-Caesar",
-    "name": "Customer-03",
-    "url": "https://github.com/Persian-Caesar/Customer-03",
+    "name": "Customer-13",
+    "url": "https://github.com/Persian-Caesar/Customer-13",
     "description": "وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی",
     "description_fa": "وب‌سایت رسمی شرکت آرتا عمران ورق (سوله‌سازی) برای معرفی خدمات، پروژه‌ها و اطلاعات تماس شرکت؛ طراحی شده برای استفاده سازمانی.",
     "description_en": "The official website for Arta Omran Varaq (a steel/warehouse construction company) to showcase services, projects and contact information.",
@@ -115,8 +316,8 @@
   {
     "owner": "Sobhan-SRZA",
     "organization": "Persian-Caesar",
-    "name": "Customer-04",
-    "url": "https://github.com/Persian-Caesar/Customer-04",
+    "name": "Customer-14",
+    "url": "https://github.com/Persian-Caesar/Customer-14",
     "description": "بات دیسکورد پلتفرم دارمت با Node.js، مناسب برای دریافت اعلانات از دیسکورد.",
     "description_fa": "ربات رسمی برای اتصال به پلتفرم دارمت جهت دریافت و نمایش اعلان‌ها در دیسکورد؛ نوشته‌شده با Node.js و مناسب برای یکپارچه‌سازی اطلاع‌رسانی.",
     "description_en": "A Discord bot for integrating with the Daramet platform to receive and display notifications; built with Node.js for seamless notification handling.",
@@ -130,6 +331,30 @@
     ],
     "private": true,
     "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "organization": "Persian-Caesar",
+    "name": "Customer-15",
+    "url": "https://github.com/Persian-Caesar/Customer-15",
+    "description": "پروژه وبسایت فروشگاهی",
+    "description_fa": "وبسایت فروشگاهی فول استک.",
+    "description_en": "A full stack online shop.",
+    "languages": [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Nest.js"
+    ],
+    "private": true,
+    "status": "⚒ Working...",
     "stars": 0,
     "forks": 0
   },
@@ -959,197 +1184,6 @@
     "private": false,
     "status": "✅ Done",
     "stars": 2,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-01",
-    "url": "https://github.com/Sobhan-SRZA/Customer-01",
-    "description": "ربات مدیریت دیسکورد با سیستم تبادل پارتنرشیپ، مدیریت حرفه‌ای اعضا، آنتی‌لینک/اسپم، کاستوم کامند و سیستم تیکت پیشرفته از طریق DM.",
-    "description_fa": "یک ربات مدیریت سرور دیسکورد حرفه‌ای است که امکان تبادل بنر پارتنرشیپ، مدیریت اعضا (بن، کیک، تایم‌اوت)، ساخت دستورات دلخواه، جلوگیری از لینک و اسپم و سیستم تیکت مستقیم از طریق DM ربات را فراهم می‌کند.",
-    "description_en": "A professional Discord server management bot featuring partnership banner exchange, advanced member moderation (ban, kick, timeout), custom commands, anti-link/spam protection, and a powerful DM-based ticket system.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-02",
-    "url": "https://github.com/Sobhan-SRZA/Customer-02",
-    "description": "MTA discord bot with ability to show active player of server.",
-    "description_fa": "بات دیسکورد مرتبط با سرورهای MTA که توانایی نمایش بازیکنان فعال سرور را درون دیسکورد ارائه می‌دهد.",
-    "description_en": "An MTA-related Discord bot capable of showing active players of a game server directly in Discord.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-03",
-    "url": "https://github.com/Sobhan-SRZA/Customer-03",
-    "description": "Utility bot.",
-    "description_fa": "ربات ابزار (Utility) با مجموعه‌ای از امکانات کمکی و مدیریتی برای استفادهٔ عمومی در سرورها.",
-    "description_en": "A utility bot offering assorted helper and admin features for general server use.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-04",
-    "url": "https://github.com/Sobhan-SRZA/Customer-04",
-    "description": "An uploader bot.",
-    "description_fa": "رباتی برای آپلود محتوا/فایل‌ها؛ مناسب برای فرایندهای خودکار بارگذاری در محیط‌های مشخص.",
-    "description_en": "An uploader bot designed to automate content/file uploads in specified workflows.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-05",
-    "url": "https://github.com/Sobhan-SRZA/Customer-05",
-    "description": "attacker bot",
-    "description_fa": "رباتی سفارشی با عملکردهای ویژه که برای مشتری طراحی شده (توضیح دقیق عملکرد داخلی مشتری محرمانه است).",
-    "description_en": "A custom bot built for a client with special internal behaviors (specific internal details are client-confidential).",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-06",
-    "url": "https://github.com/Sobhan-SRZA/Customer-06",
-    "description": "custom robot with custom role for admins",
-    "description_fa": "رباتی سفارشی که نقش‌های اختصاصی برای ادمین‌ها را مدیریت می‌کند و قابلیت‌های مدیریتی ویژه ارائه می‌دهد.",
-    "description_en": "A custom bot that manages special admin roles and provides tailored administrative features.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-07",
-    "url": "https://github.com/Sobhan-SRZA/Customer-07",
-    "description": "This discord bot have some featrues like bug reporter or voice generatoring or utility options for admins.",
-    "description_fa": "رباتی با امکاناتی مانند گزارشگر باگ، تولید صوت و ابزارهای مدیریتی برای ادمین‌ها؛ مناسب برای مدیریت و پشتیبانی سرور.",
-    "description_en": "A Discord bot featuring a bug reporter, voice generation and admin utility options — useful for server management and support.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-08",
-    "url": "https://github.com/Sobhan-SRZA/Customer-08",
-    "description": "Music player on discord with custom channel feature.",
-    "description_fa": "ربات پخش موسیقی در دیسکورد با قابلیت ایجاد کانال‌های پخش اختصاصی و کنترل ساده پخش.",
-    "description_en": "A Discord music player bot supporting custom playback channels and straightforward playback controls.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-09",
-    "url": "https://github.com/Sobhan-SRZA/Customer-09",
-    "description": "سیستم مدیریتی کامل (بن، کیک، تایم‌اوت، آنلاک و ...)، مینی‌گیم‌های سرگرم‌کننده (حدس سن، پیش‌بینی همسر، حدس عدد) و سیستم ضد فحش فارسی قابل تنظیم توسط ادمین. ساخته‌شده با Discord.js v13.",
-    "description_fa": "ربات دیسکورد فارسی با قابلیت‌های مدیریتی قوی، مینی‌گیم‌های جذاب (پیش‌بینی همسر، حدس سن و عدد) و سیستم ضد فحش قابل تنظیم. کاملاً آماده استفاده، ۲۴/۷ آنلاین و با اسلش‌کامندهای مدرن.",
-    "description_en": "A Persian Discord bot featuring full moderation tools (ban, kick, timeout, unlock, etc.), fun mini-games (future spouse prediction, age guessing, number guessing), and a customizable anti-swear system. Ready to use, 24/7 online with modern slash commands.",
-    "languages": [
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Customer-10",
-    "url": "https://github.com/Sobhan-SRZA/Customer-10",
-    "description": "custom self bot have fun, moderation, music, streamming cmds",
-    "description_fa": "یک 'self-bot' سفارشی با دستورات سرگرمی، مدریشن، پخش موسیقی و قابلیت‌های استریمینگ (برای استفادهٔ مشتری پیاده‌سازی‌شده).",
-    "description_en": "A custom self-bot offering fun, moderation, music and streaming commands implemented for a client.",
-    "languages": [
-      "TypeScript",
-      "JavaScript"
-    ],
-    "technologies": [
-      "Node.js",
-      "Discord.js"
-    ],
-    "private": true,
-    "status": "✅ Done",
-    "stars": 0,
     "forks": 0
   }
 ]
