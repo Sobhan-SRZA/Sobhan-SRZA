@@ -462,8 +462,8 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
-    "name": "HyCom",
-    "url": "https://github.com/Persian-Caesar/HyCom",
+    "name": "HyCom-Robot",
+    "url": "https://github.com/Persian-Caesar/HyCom-Robot",
     "description": "HyCom personal discord bot.",
     "description_fa": "ربات شخصی 'HyCom' برای استفادهٔ خصوصی؛ شامل چندین ابزار و قابلیت برای مدیریت و تعامل در سرورهای دیسکورد.",
     "description_en": "HyCom is a personal Discord bot built for private use, offering various utilities and interaction features for managing Discord servers.",
