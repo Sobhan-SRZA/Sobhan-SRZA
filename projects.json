@@ -279,9 +279,9 @@
     "owner": "Sobhan-SRZA",
     "name": "Customer-12.5",
     "url": "https://github.com/Persian-Caesar/Customer-12.5",
-    "description": "Telegram bot for monitoring perpetual futures funding rates across exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). Detects arbitrage opportunities, analyzes sentiment (long/short ratios, OI, CVD, volume), and sends clean, formatted reports.",
-    "description_fa": "بات حرفه‌ای تلگرامی برای تحلیل و شناسایی فرصت‌های آربیتراژ نرخ فاندینگ در قراردادهای پرپچوال فیوچرز. نظارت بر صرافی‌های Binance، MEXC، BingX، LBank، Toobit، XT و CoinLocally. تشخیص اختلاف‌های سودآور، تحلیل سنتیمنت بازار (نسبت لانگ/شورت، OI، CVD، ولوم) و ارسال گزارش‌های دقیق و زیبا با ایموجی و فرمت مارک‌داون. کاملاً async، کم‌مصرف رم و آماده پروداکشن.",
-    "description_en": "A professional Telegram bot for monitoring and analyzing perpetual futures funding rates across major exchanges (Binance, MEXC, BingX, LBank, Toobit, XT, CoinLocally). Detects profitable arbitrage opportunities, provides in-depth market sentiment analysis (long/short ratios, open interest, CVD, volume), and delivers clear, visually appealing reports with emojis and proper MarkdownV2 formatting. Built with asyncio for high performance, low memory usage, and production-grade reliability.",
+    "description": "Professional Telegram bot for monitoring perpetual futures funding rates across multiple exchanges, detecting arbitrage opportunities, analyzing market sentiment (long/short, OI, CVD, volume), and sending formatted reports.",
+    "description_fa": "بات تلگرامی حرفه‌ای برای مانیتورینگ نرخ فاندینگ قراردادهای پرپچوال فیوچرز در چند صرافی، شناسایی فرصت‌های آربیتراژ، تحلیل سنتیمنت بازار (لانگ/شورت، OI، CVD، حجم) و ارسال گزارش‌های فرمت‌شده و خوانا.",
+    "description_en": "Professional Telegram bot to monitor and analyze perpetual futures funding rates across multiple exchanges, detect profitable arbitrage, provide market sentiment analysis (long/short, OI, CVD, volume), and deliver clear, MarkdownV2-formatted reports. Async and production-ready.",
     "languages": [
       "Python"
     ],
