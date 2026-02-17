@@ -530,7 +530,8 @@
     "description_en": "A scalable real-time chat application built with React Native and TypeScript, designed for performance, clean structure, and seamless user experience.",
     "languages": [
       "JavaScript",
-      "TypeScript"
+      "TypeScript",
+      "HTML"
     ],
     "technologies": [
       "Node.js",
