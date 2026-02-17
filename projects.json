@@ -846,6 +846,25 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "name": "forward-telegram-videos-to-id",
+    "url": "https://github.com/Sobhan-SRZA/forward-telegram-videos-to-id",
+    "description": "A Telegram userbot automation tool built with Node.js that forwards only video messages from a specified source channel to a target channel using MTProto.",
+    "description_fa": "ابزار اتوماسیون تلگرام مبتنی بر یوزربات که با استفاده از Node.js پیام‌های حاوی ویدیو را از یک کانال مشخص دریافت و به مقصد تعیین‌شده فوروارد می‌کند.",
+    "description_en": "A Node.js-based Telegram userbot that filters and forwards only video messages from a defined source channel to a specified destination channel.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Telegraf.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
     "name": "Discord-Voice-Chat-Bot",
     "url": "https://github.com/Sobhan-SRZA/Discord-Voice-Chat-Bot",
     "description": "Free discord voice chat bot, this is what you can speek with it in discord voice.",
