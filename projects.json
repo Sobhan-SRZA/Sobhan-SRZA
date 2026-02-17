@@ -306,6 +306,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Tailwind Css",
       "React.js"
     ],
     "private": true,
@@ -351,10 +352,26 @@
     "technologies": [
       "React.js",
       "Node.js",
+      "Tailwind Css",
       "Nest.js"
     ],
     "private": true,
     "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "organization": "Persian-Caesar",
+    "name": "Customer-16",
+    "url": "https://github.com/Persian-Caesar/Customer-16",
+    "description": "No order",
+    "description_fa": "بدون سفارش.",
+    "description_en": "No order.",
+    "languages": [],
+    "technologies": [],
+    "private": true,
+    "status": "✅ Done",
     "stars": 0,
     "forks": 0
   },
@@ -535,6 +552,8 @@
     ],
     "technologies": [
       "Node.js",
+      "React Native",
+      "Tailwind Css",
       "React.js"
     ],
     "private": true,
@@ -616,7 +635,8 @@
       "JavaScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Telegram"
     ],
     "private": false,
     "status": "✅ Done",
@@ -820,6 +840,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Tailwind Css",
       "React.js"
     ],
     "private": false,
@@ -878,7 +899,7 @@
     ],
     "technologies": [
       "Node.js",
-      "Telegraf.js"
+      "Telegram"
     ],
     "private": false,
     "status": "✅ Done",
@@ -1108,6 +1129,7 @@
     "technologies": [
       "Node.js",
       "React.js",
+      "Tailwind Css",
       "Nest.js"
     ],
     "private": false,
@@ -1146,6 +1168,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Tailwind Css",
       "React.js"
     ],
     "private": false,
@@ -1225,6 +1248,71 @@
     "private": false,
     "status": "✅ Done",
     "stars": 2,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "express-homeworks",
+    "url": "https://github.com/Sobhan-SRZA/express-homeworks",
+    "description": "A structured Express.js project for managing and organizing homework tasks with a clean architecture and scalable backend setup.",
+    "description_fa": "یک پروژه ساختاریافته با Express.js برای مدیریت و سازمان‌دهی تکالیف، با معماری تمیز و بک‌اند مقیاس‌پذیر.",
+    "description_en": "A clean and scalable Express.js backend project designed to manage and organize homework tasks efficiently.",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "learning-nextjs",
+    "url": "https://github.com/Sobhan-SRZA/learning-nextjs",
+    "description": "A structured Next.js project built for modern web application development with optimized performance and scalable architecture.",
+    "description_fa": "پروژه‌ای مبتنی بر Next.js برای توسعه وب‌اپلیکیشن‌های مدرن با تمرکز بر عملکرد بهینه و معماری مقیاس‌پذیر.",
+    "description_en": "A modern Next.js web application project focused on performance, scalability, and clean architecture.",
+    "languages": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "Next.js",
+      "Tailwind Css",
+      "React.js"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "react-native-homeworks",
+    "url": "https://github.com/Sobhan-SRZA/react-native-homeworks",
+    "description": "A React Native mobile application for managing and organizing homework tasks with a clean and maintainable architecture.",
+    "description_fa": "اپلیکیشن موبایل مبتنی بر React Native برای مدیریت و سازمان‌دهی تکالیف با ساختار منظم و توسعه‌پذیر.",
+    "description_en": "A React Native mobile app designed to efficiently manage and organize homework tasks.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "React.js",
+      "React Native",
+      "Tailwind Css",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 0,
     "forks": 0
   }
 ]
