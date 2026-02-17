@@ -1,3 +1,6 @@
+// https://img.shields.io/
+// https://img.shields.io/badge/Telegram--0a9dff?logo=telegram
+
 import fs from "fs";
 
 /**
@@ -189,15 +192,15 @@ async function generateMarkdownTable(repos, imagesPath) {
     const access = repo.private ? '🔒 Private' : '🌐 Public';
     const langBadges = repo.languages
       ? repo.languages.map(a => {
-        const language = encodeURIComponent(a);
-        return `![Used ${language}](${imagesPath}/${language.toLowerCase()}.svg)`
+        const language = a;
+        return `![Used ${language}](${imagesPath}/${encodeURIComponent(language.replaceAll(" ", "").toLowerCase())}.svg)`
       }).join(" ")
       : '`none`';
 
     const techBadges = repo.technologies
       ? repo.technologies.map(a => {
-        const technology = encodeURIComponent(a);
-        return `![Used ${technology}](${imagesPath}/${technology.toLowerCase()}.svg)`
+        const technology = a;
+        return `![Used ${technology}](${imagesPath}/${encodeURIComponent(technology.replaceAll(" ", "").toLowerCase())}.svg)`
       }).join(" ")
       : '`none`';
 
