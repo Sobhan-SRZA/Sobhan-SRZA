@@ -1314,5 +1314,25 @@
     "status": "⚒ Working...",
     "stars": 0,
     "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
+    "name": "check-username-find-number",
+    "url": "https://github.com/Sobhan-SRZA/check-username-find-number",
+    "description": "A Telegram-based utility project built with Node.js for educational purposes, focused on username and number validation workflows.",
+    "description_fa": "پروژه‌ای مبتنی بر تلگرام با Node.js با هدف آموزشی، در زمینه پردازش و اعتبارسنجی یوزرنیم و شماره.",
+    "description_en": "An educational Telegram utility built with Node.js for handling username and phone number validation processes.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Telegram",
+      "Node.js"
+    ],
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
   }
 ]
