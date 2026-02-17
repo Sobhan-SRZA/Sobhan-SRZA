@@ -523,6 +523,27 @@
   {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
+    "name": "hycom-nchat-app",
+    "url": "https://github.com/Persian-Caesar/hycom-nchat-app",
+    "description": "A modern real-time chat application built with React Native and TypeScript, focused on performance, clean architecture, and scalable communication features.",
+    "description_fa": "اپلیکیشن چت مدرن و بلادرنگ توسعه‌یافته با React Native و TypeScript با تمرکز بر عملکرد بالا، معماری تمیز و مقیاس‌پذیری.",
+    "description_en": "A scalable real-time chat application built with React Native and TypeScript, designed for performance, clean structure, and seamless user experience.",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "Node.js",
+      "React.js"
+    ],
+    "private": true,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
     "name": "chatbot",
     "url": "https://github.com/Persian-Caesar/chatbot",
     "description": "A TypeScript-based chatbot package for Persian Caesar.",
