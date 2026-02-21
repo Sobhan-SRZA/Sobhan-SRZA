@@ -232,6 +232,10 @@
     "languages": [
       "Python"
     ],
+    "technologies": [
+      "Telegram",
+      "Discord"
+    ],
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -251,7 +255,8 @@
     ],
     "technologies": [
       "Node.js",
-      "Discord.js"
+      "Discord.js",
+      "Telegram"
     ],
     "private": true,
     "status": "✅ Done",
@@ -269,6 +274,9 @@
     "languages": [
       "Python"
     ],
+    "technologies": [
+      "Telegram"
+    ],
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -284,6 +292,9 @@
     "description_en": "Professional Telegram bot to monitor and analyze perpetual futures funding rates across multiple exchanges, detect profitable arbitrage, provide market sentiment analysis (long/short, OI, CVD, volume), and deliver clear, MarkdownV2-formatted reports. Async and production-ready.",
     "languages": [
       "Python"
+    ],
+    "technologies": [
+      "Telegram"
     ],
     "private": true,
     "status": "✅ Done",
@@ -351,6 +362,7 @@
     ],
     "technologies": [
       "React.js",
+      "Next.js",
       "Node.js",
       "Tailwind Css",
       "Nest.js"
@@ -490,7 +502,8 @@
     ],
     "technologies": [
       "Node.js",
-      "Discord.js"
+      "Discord.js",
+      "Telegram"
     ],
     "private": true,
     "status": "✅ Done",
@@ -557,7 +570,7 @@
       "React.js"
     ],
     "private": true,
-    "status": "⚒ Working...",
+    "status": "✅ Done",
     "stars": 0,
     "forks": 0
   },
@@ -595,6 +608,7 @@
       "TypeScript"
     ],
     "technologies": [
+      "Discord",
       "NPM",
       "Node.js"
     ],
@@ -656,6 +670,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Telegram",
       "Telegraf.js"
     ],
     "private": false,
@@ -1129,6 +1144,7 @@
     "technologies": [
       "Node.js",
       "React.js",
+      "Next.js",
       "Tailwind Css",
       "Nest.js"
     ],
@@ -1223,6 +1239,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Telegram",
       "Telegraf.js"
     ],
     "private": false,
@@ -1243,6 +1260,7 @@
     ],
     "technologies": [
       "Node.js",
+      "Telegram",
       "Telegraf.js"
     ],
     "private": false,
