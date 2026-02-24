@@ -2,7 +2,7 @@ name: Update Projects JSON
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # هر 10 دقیقه
+    - cron: "*/10 * * * *" # Runs every 10 minutes 
     
   workflow_dispatch:
 
@@ -25,20 +25,21 @@ jobs:
       - name: Run update script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
         run: node update-projects.js
 
       - name: Commit and push changes (only if changed)
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+         git config user.name "GitHub Actions"
+         git config user.email "actions@github.com"
 
-          git add projects.json
-
-          if git diff --cached --quiet; then
-            echo "No changes detected. Skipping commit."
-
-          else
-            git commit -m "Auto-update Projects"
-            git push
-            
-          fi
+         # Check if projects.json actually changed
+         if git diff --quiet projects.json; then
+          echo "No changes detected. Skipping commit."
+          exit 0
+          
+         fi # Finishes the if statement 
+ 
+         git add projects.json
+         git commit -m "Auto-update Projects"
+         git push
