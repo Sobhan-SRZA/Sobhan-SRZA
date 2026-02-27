@@ -30,16 +30,16 @@ jobs:
 
       - name: Commit and push changes (only if changed)
         run: |
-         git config user.name "GitHub Actions"
-         git config user.email "actions@github.com"
+         git config --global user.name "GitHub Actions"
+         git config --global user.email "actions@github.com"
 
          # Check if projects.json actually changed
-         if git diff --quiet projects.json; then
+         git add projects.json
+         if git diff --cached --quiet; then
           echo "No changes detected. Skipping commit."
           exit 0
           
          fi # Finishes the if statement 
  
-         git add projects.json
          git commit -m "Auto-update Projects"
          git push
