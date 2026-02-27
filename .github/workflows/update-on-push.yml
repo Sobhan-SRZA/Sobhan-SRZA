@@ -1,32 +1,45 @@
-name: Update README on Push
+name: Update Profile Readme
 
 on:
   push:
     branches: [ "main" ]
     paths:
       - '**'
+      
+  schedule:
+    - cron: "30 8 * * *"
+    
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-profile:
     runs-on: ubuntu-latest
-    
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-      
+          node-version: "20"
+
       - name: Install dependencies
-        run: npm install node-fetch
-      
+        run: npm install node-fetch @octokit/rest
+
       - name: Run update script
         run: node update-readme.js
-        
-      - name: Commit and push changes
+
+      - name: Commit and push changes (only if changed)
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update README" && git push)
+         git config user.name "GitHub Actions"
+         git config user.email "actions@github.com"
+
+         # Check if README.md actually changed
+         if git diff --quiet README.md; then
+          echo "No changes detected. Skipping commit."
+          exit 0
+          
+         fi # Finishes the if statement 
+ 
+         git add README.md
+         git commit -m "Auto-update Profile Readme"
