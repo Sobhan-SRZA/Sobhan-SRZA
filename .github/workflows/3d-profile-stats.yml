@@ -2,7 +2,9 @@ name: Generate 3D Profile Stats
 on:
   schedule: 
     - cron: "* */12 * * *"
-
+    
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: ubuntu-latest

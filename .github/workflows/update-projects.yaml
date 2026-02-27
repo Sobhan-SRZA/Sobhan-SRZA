@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "30 8 * * *" 
     
+  workflow_dispatch:
+
 jobs:
   update-projects:
     runs-on: ubuntu-latest
