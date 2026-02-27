@@ -2,7 +2,7 @@ name: Update Projects JSON
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # Runs every 10 minutes 
+    - cron: "30 8 * * *" # Runs every 10 minutes 
     
   workflow_dispatch:
 
