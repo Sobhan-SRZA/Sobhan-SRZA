@@ -942,43 +942,11 @@
   },
   {
     "owner": "Sobhan-SRZA",
-    "name": "Homework-1",
-    "url": "https://github.com/Sobhan-SRZA/Homework-1",
-    "description": " صفحه ثبت نام به زبان فارسی",
-    "description_fa": "یک صفحه ثبت‌نام ساده به زبان فارسی با قالب‌بندی فرم و فیلدهای پایه مناسب آموزش و تمرین.",
-    "description_en": "A simple Persian-language registration page with basic form structure and fields for practice and learning.",
-    "languages": [
-      "HTML",
-      "CSS"
-    ],
-    "private": false,
-    "status": "✅ Done",
-    "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Homework-2",
-    "url": "https://github.com/Sobhan-SRZA/Homework-2",
-    "description": "وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.",
-    "description_fa": "وب‌سایتی نمونه برای آزمایش ویژگی‌های آموخته‌شده؛ شامل هدر، فوتر، بخش جستجو و انتخاب زبان و بلوک‌های توضیحات اضافی.",
-    "description_en": "A sample website for testing newly learned techniques, featuring header, footer, search, language selector and extra description sections.",
-    "languages": [
-      "HTML",
-      "CSS"
-    ],
-    "private": false,
-    "status": "✅ Done",
-    "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Homework-3",
-    "url": "https://github.com/Sobhan-SRZA/Homework-3",
-    "description": "یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو",
-    "description_fa": "صفحه‌ای شامل لاگین/ثبت‌نام، انتخاب محصول و نمایش مجموع قیمت‌ها با طراحی واکنش‌گرا؛ تمرینی برای تعامل فرم و محاسبات سمت‌کلاینت.",
-    "description_en": "A responsive page featuring login/registration, product selection and total price calculation — a practice for forms and client-side calculations.",
+    "name": "html-css-js-homeworks",
+    "url": "https://github.com/Sobhan-SRZA/html-css-js-homeworks",
+    "description": "",
+    "description_fa": "",
+    "description_en": "",
     "languages": [
       "HTML",
       "CSS",
@@ -986,55 +954,7 @@
     ],
     "private": false,
     "status": "✅ Done",
-    "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Homework-4",
-    "url": "https://github.com/Sobhan-SRZA/Homework-4",
-    "description": "انجام پروزه تمرینی از روی عکس",
-    "description_fa": "پیاده‌سازی یک پروژهٔ تمرینی بر اساس یک طرح یا عکس مرجع؛ تمرین پیاده‌سازی ظاهر از روی نمونه تصویری.",
-    "description_en": "A practice project implemented from a reference image — aimed at reproducing a design or layout based on a picture.",
-    "languages": [
-      "HTML",
-      "CSS"
-    ],
-    "private": false,
-    "status": "✅ Done",
-    "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Homework-5",
-    "url": "https://github.com/Sobhan-SRZA/Homework-5",
-    "description": "تمرین طراحی وب - صفحه‌ی معرفی ساده",
-    "description_fa": "صفحهٔ معرفی ساده برای تمرین طراحی وب شامل بخش‌های معرفی، تصویر و تماس پایه.",
-    "description_en": "A simple 'about' page for web design practice including intro sections, imagery and basic contact info.",
-    "languages": [
-      "HTML",
-      "CSS"
-    ],
-    "private": false,
-    "status": "✅ Done",
-    "stars": 1,
-    "forks": 0
-  },
-  {
-    "owner": "Sobhan-SRZA",
-    "name": "Homework-6",
-    "url": "https://github.com/Sobhan-SRZA/Homework-6",
-    "description": "تمرین طراحی سایت - فرم تماس",
-    "description_fa": "تمرینی برای طراحی فرم تماس با فیلدهای ورودی و اعتبارسنجی پایه؛ مناسب آموزش ساخت فرم‌های وب.",
-    "description_en": "A contact form design exercise with input fields and basic validation — useful for learning web forms.",
-    "languages": [
-      "HTML",
-      "CSS"
-    ],
-    "private": false,
-    "status": "✅ Done",
-    "stars": 1,
+    "stars": 0,
     "forks": 0
   },
   {
