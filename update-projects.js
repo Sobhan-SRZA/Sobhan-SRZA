@@ -36,7 +36,7 @@ const getRepositoryData = async (organization, repository) => {
 
     return {
       stars: data.stargazers_count || 0,
-      forks: data.forks_count || 0,
+      forks: data.forks_count || 0
     };
   }
 
