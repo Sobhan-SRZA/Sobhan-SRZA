@@ -15,6 +15,7 @@
       "NPM",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 8,
@@ -35,6 +36,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -55,6 +57,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -75,6 +78,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -95,6 +99,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -115,6 +120,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -135,6 +141,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -155,6 +162,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -175,6 +183,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -195,6 +204,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -216,6 +226,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -236,6 +247,7 @@
       "Telegram",
       "Discord"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -258,6 +270,7 @@
       "Discord.js",
       "Telegram"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -277,6 +290,7 @@
     "technologies": [
       "Telegram"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -296,6 +310,7 @@
     "technologies": [
       "Telegram"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -320,6 +335,7 @@
       "Tailwind Css",
       "React.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -341,6 +357,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -367,6 +384,7 @@
       "Tailwind Css",
       "Nest.js"
     ],
+    "webview": false,
     "private": true,
     "status": "⚒ Working...",
     "stars": 0,
@@ -382,6 +400,7 @@
     "description_en": "No order.",
     "languages": [],
     "technologies": [],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -402,6 +421,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 152,
@@ -422,6 +442,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 11,
@@ -442,6 +463,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 3,
@@ -463,6 +485,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 6,
@@ -483,6 +506,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 79,
@@ -505,6 +529,7 @@
       "Discord.js",
       "Telegram"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -525,6 +550,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -545,6 +571,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": true,
     "status": "⚒ Working...",
     "stars": 0,
@@ -569,6 +596,7 @@
       "Tailwind Css",
       "React.js"
     ],
+    "webview": false,
     "private": true,
     "status": "✅ Done",
     "stars": 0,
@@ -590,6 +618,7 @@
       "NPM",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -612,6 +641,7 @@
       "NPM",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -633,6 +663,7 @@
       "NPM",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -652,6 +683,7 @@
       "Node.js",
       "Telegram"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -673,6 +705,7 @@
       "Telegram",
       "Telegraf.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 4,
@@ -688,6 +721,7 @@
     "languages": [
       "Python"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -705,6 +739,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -722,6 +757,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -739,6 +775,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -756,6 +793,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -773,6 +811,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -790,6 +829,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -805,6 +845,7 @@
     "languages": [
       "Python"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 4,
@@ -820,6 +861,7 @@
     "languages": [
       "Python"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -835,6 +877,7 @@
     "languages": [
       "Python"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -858,6 +901,7 @@
       "Tailwind Css",
       "React.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -877,6 +921,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -897,6 +942,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -916,6 +962,7 @@
       "Node.js",
       "Telegram"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -935,6 +982,7 @@
       "Node.js",
       "Discord.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 4,
@@ -952,6 +1000,7 @@
       "CSS",
       "JavaScript"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 0,
@@ -964,6 +1013,7 @@
     "description": "A Complete Beginner's Guide to React JS with TypeScript, Final Project, Testing & Best Practices",
     "description_fa": "راهنمای کامل مبتدی برای یادگیری React.js همراه با TypeScript، پروژهٔ نهایی، تست‌ها و بهترین شیوه‌ها برای توسعهٔ تولیدی.",
     "description_en": "A comprehensive beginner's guide to React.js including TypeScript integration, a final project, testing examples and best practices.",
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -976,6 +1026,7 @@
     "description": "In This Project I Show You How We Can Create Discord Bot In discord.js v14",
     "description_fa": "پروژه‌ای آموزشی که روند ایجاد بات دیسکورد با استفاده از discord.js v14 را نشان می‌دهد؛ شامل مثال‌ها و راهنمای گام‌به‌گام.",
     "description_en": "An educational project demonstrating how to create a Discord bot with discord.js v14, including step-by-step examples and guidance.",
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 13,
@@ -994,6 +1045,7 @@
     "technologies": [
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -1011,6 +1063,7 @@
       "HTML",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 5,
@@ -1028,6 +1081,7 @@
       "HTML",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 6,
@@ -1043,6 +1097,7 @@
     "languages": [
       "C++"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 4,
@@ -1068,6 +1123,7 @@
       "Tailwind Css",
       "Nest.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 1,
@@ -1084,6 +1140,7 @@
       "CSS",
       "HTML"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 8,
@@ -1107,6 +1164,7 @@
       "Tailwind Css",
       "React.js"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -1124,6 +1182,7 @@
       "HTML",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 1,
@@ -1141,6 +1200,7 @@
       "HTML",
       "JavaScript"
     ],
+    "webview": true,
     "private": false,
     "status": "✅ Done",
     "stars": 4,
@@ -1162,6 +1222,7 @@
       "Telegram",
       "Telegraf.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -1183,6 +1244,7 @@
       "Telegram",
       "Telegraf.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 2,
@@ -1202,6 +1264,7 @@
       "Node.js",
       "Express"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 1,
@@ -1226,6 +1289,7 @@
       "Tailwind Css",
       "React.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 1,
@@ -1248,6 +1312,7 @@
       "Tailwind Css",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "⚒ Working...",
     "stars": 1,
@@ -1268,6 +1333,7 @@
       "Telegram",
       "Node.js"
     ],
+    "webview": false,
     "private": false,
     "status": "✅ Done",
     "stars": 3,
