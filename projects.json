@@ -944,9 +944,9 @@
     "owner": "Sobhan-SRZA",
     "name": "html-css-js-homeworks",
     "url": "https://github.com/Sobhan-SRZA/html-css-js-homeworks",
-    "description": "",
-    "description_fa": "",
-    "description_en": "",
+    "description": "Collection of my HTML, CSS & JavaScript practice projects and homeworks",
+    "description_fa": "مجموعه‌ای از تمرین‌های عملی توسعه وب با HTML، CSS و جاوااسکریپت خالص",
+    "description_en": "A series of practical web development exercises built with HTML, CSS, and vanilla JavaScript",
     "languages": [
       "HTML",
       "CSS",
