@@ -670,6 +670,28 @@
     "forks": 0
   },
   {
+    "organization": "Persian-Caesar",
+    "owner": "Sobhan-SRZA",
+    "name": "snowflake-id",
+    "url": "https://github.com/Persian-Caesar/snowflake-id",
+    "description": "High performance Snowflake ID generator for TypeScript (Twitter/Discord style)",
+    "description_fa": "ژنراتور Snowflake ID قدرتمند، انعطاف‌پذیر و با کارایی بالا برای TypeScript و JavaScript — پشتیبانی کامل از شناسه‌های کوتاه شبیه Discord و توییتر",
+    "description_en": "High performance, flexible Snowflake ID generator for TypeScript & JavaScript with support for short IDs (Discord/Twitter style)",
+    "languages": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "technologies": [
+      "NPM",
+      "Node.js"
+    ],
+    "webview": false,
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
     "owner": "Sobhan-SRZA",
     "name": "telegram-message-editor",
     "url": "https://github.com/Sobhan-SRZA/telegram-message-editor",
