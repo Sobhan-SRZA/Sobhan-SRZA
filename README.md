@@ -122,7 +122,7 @@ Tailwind CSS • React (basic)
   </div>
   <div align="center">
     <div>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 30% />
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sobhan-SRZA&langs_count=10&count_private=true&theme=react&hide_border=true&layout=compact&bg_color=0D1117" width = 30% />
     </div>
   </div>
 </div>
@@ -130,7 +130,7 @@ Tailwind CSS • React (basic)
 <div align="center">
  <div align="center">
     <img src="https://streak-stats.demolab.com?user=Sobhan-SRZA&theme=black-ice&hide_border=true&border_radius=4.5&mode=weekly&card_width=495&card_height=195" alt="GitHub Streak" />
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 40%>
+    <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api?username=Sobhan-SRZA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = 40%>
  </div>
  <div align="center">
    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Sobhan-SRZA&theme=react&no-frame=true&no-bg=true&margin-w=5" width = 70% />
