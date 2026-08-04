@@ -1030,6 +1030,19 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "name": "learn-js-and-node",
+    "url": "https://github.com/Sobhan-SRZA/learn-js-and-node",
+    "description": "آموزش جامع JavaScript در محیط Node.js از صفر تا پیشرفته؛ شامل مفاهیم پایه، مباحث حرفه‌ای، تمرین‌ها، پروژه‌های عملی و مسیر یادگیری توسعه بک‌اند با Node.js.",
+    "description_fa": "آموزش جامع JavaScript در محیط Node.js از صفر تا پیشرفته؛ شامل مفاهیم پایه، مباحث حرفه‌ای، تمرین‌ها، پروژه‌های عملی و مسیر یادگیری توسعه بک‌اند با Node.js.",
+    "description_en": "A complete JavaScript and Node.js learning path from beginner to advanced, covering core JavaScript concepts, Node.js fundamentals, backend development, projects, and practical exercises.",
+    "webview": false,
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
     "name": "reactjs-guide",
     "url": "https://github.com/Sobhan-SRZA/reactjs-guide",
     "description": "A Complete Beginner's Guide to React JS with TypeScript, Final Project, Testing & Best Practices",
