@@ -12,7 +12,7 @@ import fs from "fs";
 function readme(repositorise) {
   return `
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#4f46e5">Sobhan Rasoulzadeh Asl</span>
+  👋🏻 Hi, I'm <span style="color:#4f46e5">Sobhan Rasoulzadeh Asl</span>
 </h1>
 
 <p align="center">
@@ -74,8 +74,6 @@ My priority is always **clean architecture, maintainability, and performance** �
 🔹 **[Padio](https://github.com/Persian-Caesar/Padio)**  
 📻 Online radio streaming bot for Discord servers
 
-🔹 **[HyCom](https://hycom.ir/)**  
-⚙️ Private automation & utility Discord bot (production use)
 
 ---
 
