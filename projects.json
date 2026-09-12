@@ -435,15 +435,17 @@
     "organization": "Persian-Caesar",
     "name": "Customer-17",
     "url": "https://github.com/Persian-Caesar/Customer-17",
-    "description": "ربات فاکتور ساز و ثبت سفارش اینستاگرام",
-    "description_fa": "ربات فاکتور ساز و ثبت کننده مشتری",
-    "description_en": "Invoice maker and customer registration robot",
+    "description": "A scalable Telegram Bot Builder and Engine for creating, managing, and running multiple independent bots from a centralized platform.",
+    "description_fa": "پلتفرم ساخت و مدیریت ربات تلگرام که امکان ایجاد، تنظیم و مدیریت چندین ربات مستقل را از طریق یک موتور مرکزی فراهم می‌کند.",
+    "description_en": "A centralized Telegram Bot Builder that enables users to create, configure, and manage multiple independent bots through a shared scalable engine.",
     "languages": [
       "JavaScript",
       "TypeScript"
     ],
     "technologies": [
-      "Node.js"
+      "Node.js",
+      "Nest.js",
+      "Telegram"
     ],
     "webview": false,
     "preview": null,
