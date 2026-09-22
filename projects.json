@@ -23,6 +23,27 @@
     "forks": 1
   },
   {
+    "organization": "aparatjs",
+    "owner": "Sobhan-SRZA",
+    "name": "aparat-downloader",
+    "url": "https://github.com/aparatjs/aparat-downloader",
+    "description": "Aparat video & playlist downloader with Persian RTL GUI, powered by aparat.js",
+    "description_fa": "دانلودر گرافیکی ویدیو و پلی‌لیست آپارات با رابط فارسی RTL و پشتیبانی از کیفیت‌های مختلف",
+    "description_en": "Graphical Aparat video & playlist downloader with Persian RTL UI and multi-quality support",
+    "languages": [
+      "JavaScript"
+    ],
+    "technologies": [
+      "Node.js"
+    ],
+    "webview": false,
+    "preview": null,
+    "private": false,
+    "status": "✅ Done",
+    "stars": 0,
+    "forks": 0
+  },
+  {
     "organization": "Persian-Caesar",
     "owner": "Sobhan-SRZA",
     "name": "Customer-01",
