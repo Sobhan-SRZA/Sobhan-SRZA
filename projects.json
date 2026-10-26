@@ -820,6 +820,30 @@
   },
   {
     "owner": "Sobhan-SRZA",
+    "name": "DevHub",
+    "url": "https://github.com/Sobhan-SRZA/DevHub",
+    "description": "DevHub is an open-source project discovery platform to explore, review, and share coding projects. Features: GitHub sync, rating & nested comments, Markdown docs, role-based dashboard, and secure JWT auth. Built with Node.js, Express, TypeScript, MongoDB & EJS.",
+    "description_fa": "دیوهاپ یک پلتفرم برای کشف، نقد و اشتراک‌گذاری پروژه‌های متن‌باز است. سینک گیت‌هاب، سیستم امتیاز و کامنت تو در تو، مستندات Markdown، داشبورد نقش‌محور و احراز هویت امن JWT. ساخته‌شده با Node.js، Express، TypeScript، MongoDB و EJS.",
+    "description_en": "DevHub is an open-source project discovery platform to explore, review, and share coding projects. Features: GitHub sync, rating & nested comments, Markdown docs, role-based dashboard, and secure JWT auth. Built with Node.js, Express, TypeScript, MongoDB & EJS.",
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express"
+    ],
+    "webview": false,
+    "preview": null,
+    "private": false,
+    "status": "⚒ Working...",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "owner": "Sobhan-SRZA",
     "name": "Anonymous-Chat-Bot",
     "url": "https://github.com/Sobhan-SRZA/Anonymous-Chat-Bot",
     "description": "A Telegram bot for anonymous chatting with referral system and profile-based random chat.",
